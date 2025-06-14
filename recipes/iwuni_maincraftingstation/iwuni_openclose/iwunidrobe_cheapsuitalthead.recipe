@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_cheapsuithead", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_cheapsuitalthead", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_openclosed" ]
+}
