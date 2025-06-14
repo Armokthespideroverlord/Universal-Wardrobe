@@ -1,0 +1,18 @@
+{
+  "id" : "iwunidrobe_bloodbrothers3",
+  "title" : "^yellow;The Blood Brothers - 3^reset;",
+  "description" : "The end of the story of the ^yellow;Blood Brothers^reset;.",
+  "icon" : "bloodbrothers3.png",
+  "contentPages" : [
+    "How can hope flourish in their trail of blood? Their impending doom is but a shared dream to cling to. Yet soothsayers whisper and prophets inscribe on walls: as the Blood Brothers live, so shall they die. A new rumor spreads from planet to planet, bearing hope that their reign of fear will eventually pale and fade into dust. So say the prophecies, and so people wait, at the mercy of time itself.",
+
+"^yellow;Nonsense!^reset; the Brothers proclaim to all. ^blue;\"Who shall shatter our armor? Who shall destroy our will? There's no warrior in the sky who rivals our feats of strength!\"^reset; ^orange;\"Let's head to the coliseum! Let our might be displayed!\"^reset; ^red;\"A small Floran girl? This battle is already won!\"^reset; And so they march to the arena, heedless of the prophets' warnings.
+We all know how the story follows, how the horror finally ends,
+for the tale of the three is no more."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

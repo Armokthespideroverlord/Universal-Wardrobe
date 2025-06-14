@@ -1,0 +1,23 @@
+{
+  "id" : "iwunidrobe_infernolore",
+  "title" : "^orange;Templar Inferno: Three Stories^reset;",
+  "description" : "Three of the many stories which narrate the origins of ^orange;Templar Inferno.^reset;",
+  "icon" : "infernocover.png",
+  "contentPages" : [
+    "                            1
+Inferno, Lord of Fire and Cinders, knows that his end is near. A Human intruder storms his fiery tower, and in this bold figure, Inferno sees his heir. He takes the Human in and commands, \"Go forth, my Cinder Templar. Let the flames consume the land, and let them blaze with strength and might.\" With those words, Inferno is reduced to ashes.",
+
+"                            2
+Inferno, a member of a brotherhood of elemental templars, is sworn to do good and protect the land with his fiery gifts. Over time, they are forgotten and scattered across the world. Inferno finds solace in a dying volcano until a Human scoundrel discovers and defeats him, usurping his name and power to commit crimes in his stead.",
+
+"                            3
+Inferno, a Human fascinated by Glitch stories of ancient knights, crafts a powerful armor capable of wielding flames at will. Aspiring to become a hero and dispense justice across the galaxy, he sets off on a quest for greatness. Yet, time and circumstance twist his path into a spiral of violence and power.",
+
+"These are just three of the many tales told about the enigmatic Templar Inferno, many involving a Human and a Glitch. Which of these stories is the truest remains a mystery we can only speculate upon. Nothing certain can be said of Templar Inferno, except for one undeniable truth for those who dare oppose him: they become one with the ashes of the defeated."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

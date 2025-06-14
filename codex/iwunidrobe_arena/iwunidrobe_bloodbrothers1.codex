@@ -1,0 +1,20 @@
+{
+  "id" : "iwunidrobe_bloodbrothers1",
+  "title" : "^yellow;The Blood Brothers - 1^reset;",
+  "description" : "The beginning of the story of the ^yellow;Blood Brothers^reset;.",
+  "icon" : "bloodbrothers1.png",
+  "contentPages" : [
+    "An Apex escapes his tyrannical home, endowed with great strength and ardent purpose but lacking enthusiasm for ideology.
+An Avian flees her dogmatic domain, blessed with exceptional sight and flight but valued only for the blood she could shed for their god.
+A Human abandons his righteous home, driven by a thirst for violence and exuberance for chaos, an outcast in his peaceful society.",
+
+"Rejected, wronged, and despised, they walk forlorn. Bound by Destiny, they find in their pain a shared fury. Together, they form a pact-a pact of blood: \"From now on, we remain as one, and soon, glory and might shall be our own!\"
+Thus, their story begins, and thus, the horror is born.
+From these three, their tale continues."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

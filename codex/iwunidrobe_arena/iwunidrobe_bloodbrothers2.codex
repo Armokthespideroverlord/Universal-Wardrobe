@@ -1,0 +1,18 @@
+{
+  "id" : "iwunidrobe_bloodbrothers2",
+  "title" : "^yellow;The Blood Brothers - 2^reset;",
+  "description" : "The continuation of the story of the ^yellow;Blood Brothers^reset;.",
+  "icon" : "bloodbrothers2.png",
+  "contentPages" : [
+    "When the moon perches high in the night, it heralds the coming of the three. Prepare your weapons, gather your gold, and decide: fight against the enemy or surrender without regret. Their legend, like a sickness, spreads across the cosmos, proclaiming their unyielding might. People whisper in fear, avoiding the invocation of their names: \"Beware the three brothers clad in gold and blood, for they arrive in the depths of night.\"",
+
+"Thus, their legend lives on, and their story is retold-those abandoned brothers bound not by shared blood, but by equally shared loathing and a common goal: to live undefeated and to never be wronged again.
+That's how the story unfolds, and that's how the horror endures.
+The story of the three moves onwards."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id" : "iwunidrobe_vololore",
+  "title" : "^green;The Hunt for Volo^reset;",
+  "description" : "One of many stories regarding the near-impossible task of hunting ^green;Volo^reset;.",
+  "icon" : "volocover.png",
+  "contentPages" : [
+    "He had known from the start that venturing directly into Volo's lair was a terrible idea. From the beginning, he recognized that those bounty hunters were doomed. \"Come with us! Don't you want the glory of hunting Volo?\" they had said. \"Aren't you the greatest sharpshooter in this sector of the galaxy?\" Their words were a sweet poison, luring him into the hellish jungle he now found himself in. Where were those promises now? They lay as whispers on the ground, alongside their bodies.",
+
+"Everything happened quickly. Shots emerged from nowhere, the hunters panicked, and their bodies fell one by one in less than a minute. But he saw everything; he tracked where the shots originated and calculated what seemed to be an impossible shot. Killing Volo was a tale worth telling, but not one worth dying for. Yet, what other choice did he have? Behind his rock, he gathered the courage to act.",
+
+"A deadly, sickening silence enveloped the jungle. He jumped, aiming his old rifle at where he'd last seen Volo's head, and the moment he landed, he pulled the trigger. A single shot shattered the silence. Had he done it? He lay waiting for Volo to make her move and kill him. With each second that passed, uncertainty gnawed at him, but silence ruled the jungle once more.",
+
+"He had done it; Volo was no more! He couldn't believe the miracle he had just accomplished. With cautious enthusiasm, he ventured into her nest to confirm the kill. He imagined the celebrations in his honor when others saw her mask; he would be acclaimed! His mind spun with titles for his feat, only to be silenced by the discovery of his enemy's fate.",
+
+"She wasn't there. Her body was absent, leaving only her mask with a hole in the forehead. The jungle around him began to shake violently, and as he stood, dazed and confused, he beheld a thousand creatures leaping toward him. His last thought was a memory of what had sealed his doom: a single comment one of the hunters had made, which he had dismissed with contempt. \"Be careful with Volo; people say she loves to hunt with her horde of relentless pets.\""
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}
