@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 25 },
+    { "item" : "tungstenbar", "count" : 10 },
+    { "item" : "leather", "count" : 5 },
+    { "item" : "plantfibre", "count" : 10 },
+    { "item" : "plantmatter", "count" : 15 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "iwunidrobe_arhunterbox", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_uniqueclothes" ]
+}

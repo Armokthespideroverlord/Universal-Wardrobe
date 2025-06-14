@@ -1,0 +1,16 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 25 },
+    { "item" : "copperbar", "count" : 10 },
+    { "item" : "ironbar", "count" : 5 },
+    { "item" : "reddye", "count" : 1 },
+    { "item" : "bluedye", "count" : 1 },
+    { "item" : "yellowdye", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "iwunidrobe_maincraftingtable",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "inventorstable", "craftingstations", "all" ]
+}

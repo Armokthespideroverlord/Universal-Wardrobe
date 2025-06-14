@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 25 },
+    { "item" : "corefragmentore", "count" : 10 },
+    { "item" : "obsidian", "count" : 15 },
+    { "item" : "liquidlava", "count" : 50 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "iwunidrobe_arpyrobox", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_uniqueclothes" ]
+}
