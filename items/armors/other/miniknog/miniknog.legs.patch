@@ -1,0 +1,12 @@
+[
+    {
+        "op": "test",
+        "path": "/shortdescription",
+        "value": "Miniknog Greaves"
+    },
+    {
+        "op": "replace",
+        "path": "/shortdescription",
+        "value": "MNKG Standard Greaves"
+    }
+]
