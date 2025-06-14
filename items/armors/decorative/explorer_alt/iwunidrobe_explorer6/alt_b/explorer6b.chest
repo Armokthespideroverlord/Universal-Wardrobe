@@ -1,0 +1,77 @@
+{
+  "itemName" : "iwunidrobe_explorer6bchest",
+  "price" : 500,
+  "inventoryIcon" : "icons.png:chest",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "category" : "chestwear",
+  "description" : "A durable chestpiece reinforced with old Glitch knight armor and a mechanical prosthetic.",
+  "shortdescription" : "Hijacker's Chestpiece",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chestm.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chestf.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "level" : 1,
+  "leveledStatusEffects" : [
+    {
+      "levelFunction" : "standardArmorLevelPowerMultiplierMultiplier",
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.25
+    },
+    {
+      "levelFunction" : "standardArmorLevelProtectionMultiplier",
+      "stat" : "protection",
+      "amount" : 0.5
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxEnergyMultiplier",
+      "stat" : "maxEnergy",
+      "amount" : 5
+    },
+    {
+      "levelFunction" : "standardArmorLevelMaxHealthMultiplier",
+      "stat" : "maxHealth",
+      "amount" : 5
+    }
+  ],
+
+  "itemTags" : [ "tier4armour" ], 
+
+
+  "colorOptions" : [
+    // DEFAULT
+    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030", "ff575d" : "ff575d", "e61c24" : "e61c24", "a60b08" : "a60b08" },
+    // BLACK
+    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515", "ff575d" : "ffffff", "e61c24" : "d9d9d9", "a60b08" : "bababa" },
+    // GREY
+    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "555555", "6f2919" : "303030", "ff575d" : "ff575d", "e61c24" : "e61c24", "a60b08" : "a60b08" },
+    // WHITE
+    { "ffca8a" : "e6e6e6", "e0975c" : "b6b6b6", "a85636" : "7b7b7b", "6f2919" : "373737", "ff575d" : "000000", "e61c24" : "1f1f1f", "a60b08" : "404040" },
+    // RED
+    { "ffca8a" : "f4988c", "e0975c" : "d93a3a", "a85636" : "932625", "6f2919" : "601119", "ff575d" : "5799ff", "e61c24" : "1c6ce6", "a60b08" : "0830a6" },
+    // ORANGE
+    { "ffca8a" : "ffd495", "e0975c" : "ea9931", "a85636" : "af4e00", "6f2919" : "6e2900", "ff575d" : "fff557", "e61c24" : "e6d91c", "a60b08" : "a69108" },
+    // YELLOW
+    { "ffca8a" : "ffffa7", "e0975c" : "e2c344", "a85636" : "a46e06", "6f2919" : "642f00", "ff575d" : "99ff57", "e61c24" : "6ae61c", "a60b08" : "2fa608" },
+    // GREEN
+    { "ffca8a" : "b2e89d", "e0975c" : "51bd3b", "a85636" : "247824", "6f2919" : "144216", "ff575d" : "b457ff", "e61c24" : "8c1ce6", "a60b08" : "4e08a6" },
+    // BLUE
+    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51", "ff575d" : "ff57ef", "e61c24" : "e61cc7", "a60b08" : "a6089f" },
+    // PURPLE
+    { "ffca8a" : "d29ce7", "e0975c" : "a451c4", "a85636" : "6a2284", "6f2919" : "320c40", "ff575d" : "ffa657", "e61c24" : "e6771c", "a60b08" : "a63d08" },
+    // PINK
+    { "ffca8a" : "eab3db", "e0975c" : "d35eae", "a85636" : "97276d", "6f2919" : "59163f", "ff575d" : "9efffc", "e61c24" : "1ce0e6", "a60b08" : "088fa6" },
+    // BROWN
+    { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13", "ff575d" : "de4777", "e61c24" : "b31e4d", "a60b08" : "611632" }
+  ]
+}
