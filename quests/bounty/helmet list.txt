@@ -1,0 +1,64 @@
+Cheap IEVA Suit - iwunidrobe_cheapsuithead
+>>Pre - Struggling
+
+Bubble Space Helmet - iwunidrobe_spacehelmet1
+>>Mid - Bubble
+
+Sparrow Class Helmet - iwunidrobe_spacehelmet6
+>>Pre - Illegal   Illicit   Unlicensed   Unofficial
+>>Mid - Sparrow
+
+Kestrel Class Helmet - iwunidrobe_spacehelmet7
+>>Pre - Illegal   Illicit   Unlicensed   Unofficial
+>>Mid - Kestrel
+
+Steersman Helmet - iwunidrobe_customhelmet1
+>>Pre - Pressurised  Reenacting
+>>Mid - Aviation  Sailor  Spacewalker
+
+Speedseeker Helmet - iwunidrobe_customhelmet4
+>>Pre - Fast-paced  High-speed  Adrenaline
+>>Mid - Racing  Seeker
+
+Digital Visor - iwunidrobe_digitalvisor
+>>Pre - Digital  Electronic
+>>Mid - Screen Head
+
+Flatcap Beret - iwunidrobe_flatcaphead
+>>Pre - Vintage  Archaic  Old-fashioned
+
+Hazard Mining Helmet - iwunidrobe_hazardminer
+>>Pre - Hazardous  Perilous  Precarious
+>>Mid - Mining  Deep  Substrate
+
+Outlandish Visor - iwunidrobe_outlandishvisor
+>>Pre - Outlandish   Strange   Bizarre  Eccentric
+
+Space Biker Helmet - iwunidrobe_spacebiker
+>>Pre - 22  47  96  Turbo  Blazing  Burning   Freewheel
+>>Mid - Avenue  Road  Street  Starpath
+
+Space Pilot Helmet - iwunidrobe_spacepilot
+>>Pre - 201  747  Atmospheric  Heliospheric
+>>Mid - Gunner  Flying  Aircraft
+
+Explorer Helmet - iwunidrobe_explorer1head
+>>Pre - Wondrous  Adventuring  Expeditious
+>>Mid - Explorer
+
+Improvised Goggles - iwunidrobe_bandithead2
+>>Mid - Raider  Reaver  Brigand  Marauder
+
+Old Starglasses - iwunidrobe_bandithead3a
+>>Pre - Blind  Lightstruck  Solar
+
+"Flagon" Visor - iwunidrobe_bandithead4
+>>Mid - Tankard  Flagon  Canister
+
+Sunwalker's Helm - iwunidrobe_bandithead6
+>>Pre - Protected  Ironclad  Well-kept
+>>Mid - Welder  Sunwalker  Foundry
+
+Metal Skull Mask - iwunidrobe_bandithead10
+>>Pre - Durasteel  Titanium  Impervious
+>>Mid - Cranium  Brainpan

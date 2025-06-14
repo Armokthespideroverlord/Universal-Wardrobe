@@ -1,0 +1,20 @@
+{
+  "kind" : "iwunidrobe_shadowember",
+  "definition" : {
+    "type" : "ember",
+    "color" : [0, 0, 0, 255],
+    "fade" : 0.9,
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.9,
+    "initialVelocity" : [0, -0.5],
+    "finalVelocity" : [0, 1],
+    "approach" : [20, 20],
+    "timeToLive" : 1,
+    "size" : 1,
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [0, 0.5],
+      "finalVelocity" : [-0.5, 0.5]
+    }
+  }
+}

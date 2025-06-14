@@ -1,0 +1,35 @@
+{
+  "objectName" : "iwunidrobe_maincraftingtable",
+  "colonyTags" : ["crafting"],
+  "rarity" : "Legendary",
+  "interactAction" : "OpenCraftingInterface",
+  "interactData" : {
+    "config" : "/interface/windowconfig/iwuni_maincraftingstation.config"
+  },
+  "category" : "crafting",
+  "price" : 150,
+  "description" : "A metallic desk where you can customize your equipment.",
+  "shortdescription" : "^orange;Customization Desk^white;",
+  "race" : "generic",
+
+  "apexDescription" : "I can customize some of my equipment here.",
+  "avianDescription" : "A desk of metal where I can decorate my equipment.",
+  "floranDescription" : "Floran wantss to paint armor stuff!",
+  "glitchDescription" : "Curious. A desk where I can express my artistic skills.",
+  "humanDescription" : "I'm going to have a lot of fun with this desk!",
+  "hylotlDescription" : "I can freely express myself while working on the desk.",
+  "novakidDescription" : "I'll have tons o' fun with this here desk!",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "maincraftingtable.png:<color>",
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

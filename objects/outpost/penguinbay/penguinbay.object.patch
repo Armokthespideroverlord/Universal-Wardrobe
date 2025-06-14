@@ -1,0 +1,52 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "iwunidrobe_starpilotsparrowbox"
+      },
+      "prerequisiteQuest": "illegalshipupgrade1"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "iwunidrobe_starpilotkestrelbox"
+      },
+      "prerequisiteQuest": "illegalshipupgrade2"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "iwunidrobe_starpilotfalconbox"
+      },
+      "prerequisiteQuest": "illegalshipupgrade3"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "iwunidrobe_starpiloteaglebox"
+      },
+      "prerequisiteQuest": "illegalshipupgrade4"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "iwunidrobe_starpilotcondorbox"
+      },
+      "prerequisiteQuest": "illegalshipupgrade5"
+    }
+  }
+]

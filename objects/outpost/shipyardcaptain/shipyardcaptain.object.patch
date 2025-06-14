@@ -1,0 +1,52 @@
+[
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "iwunidrobe_starpilotsparrowbox"
+      },
+      "prerequisiteQuest": "shipupgrade1"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "iwunidrobe_starpilotkestrelbox"
+      },
+      "prerequisiteQuest": "shipupgrade2"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "iwunidrobe_starpilotfalconbox"
+      },
+      "prerequisiteQuest": "shipupgrade3"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "iwunidrobe_starpiloteaglebox"
+      },
+      "prerequisiteQuest": "shipupgrade4"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "iwunidrobe_starpilotcondorbox"
+      },
+      "prerequisiteQuest": "shipupgrade5"
+    }
+  }
+]

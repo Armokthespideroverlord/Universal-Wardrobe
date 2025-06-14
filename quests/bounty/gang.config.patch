@@ -1,0 +1,250 @@
+[
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_spacehelmet6",
+    "value": [
+      "Illegal",
+      "Illicit",
+      "Unlicensed",
+      "Unofficial"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_spacehelmet7",
+    "value": [
+      "Illegal",
+      "Illicit",
+      "Unlicensed",
+      "Unofficial"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_customhelmet4",
+    "value": [
+      "Fast-paced",
+      "High-speed",
+      "Adrenaline"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_digitalvisor",
+    "value": [
+      "Digital",
+      "Electronic"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_hazardminer",
+    "value": [
+      "Hazardous",
+      "Perilous",
+      "Precarious"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_spacebiker",
+    "value": [
+      "22",
+      "47",
+      "96",
+      "Turbo",
+      "Blazing",
+      "Burning",
+      "Freewheel"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_spacepilot",
+    "value": [
+      "201",
+      "747",
+      "Atmospheric",
+      "Heliospheric"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_explorer1head",
+    "value": [
+      "Wondrous",
+      "Adventuring",
+      "Expeditious"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_bandithead6",
+    "value": [
+      "Protected",
+      "Ironclad",
+      "Well-kept"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_bandithead10",
+    "value": [
+      "Durasteel",
+      "Titanium",
+      "Impervious"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_bandithead3a",
+    "value": [
+      "Blind",
+      "Lightstruck",
+      "Solar"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_outlandishvisor",
+    "value": [
+      "Outlandish",
+      "Strange",
+      "Bizarre",
+      "Eccentric"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_flatcaphead",
+    "value": [
+      "Vintage",
+      "Archaic",
+      "Old-fashioned"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatPrefix/iwunidrobe_cheapsuithead",
+    "value": [
+      "Struggling"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_spacehelmet6",
+    "value": [
+      " Sparrow"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_spacehelmet7",
+    "value": [
+      " Kestrel"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_customhelmet1",
+    "value": [
+      " Aviation",
+      " Sailor",
+      " Spacewalker"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_customhelmet4",
+    "value": [
+      " Racing",
+      " Seeker"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_digitalvisor",
+    "value": [
+      " Screen",
+      " Head"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_hazardminer",
+    "value": [
+      " Mining",
+      " Deep",
+      " Substrate"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_spacebiker",
+    "value": [
+      " Avenue",
+      " Road",
+      " Street",
+      " Starpath"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_spacepilot",
+    "value": [
+      " Gunner",
+      " Flying",
+      " Aircraft"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_explorer1head",
+    "value": [
+      " Explorer"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_bandithead6",
+    "value": [
+      " Welder",
+      " Sunwalker",
+      " Foundry"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_bandithead10",
+    "value": [
+      " Cranium",
+      " Brainpan"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_bandithead4",
+    "value": [
+      " Tankard",
+      " Flagon",
+      " Canister"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_bandithead2",
+    "value": [
+      " Raider",
+      " Reaver",
+      " Brigand",
+      " Marauder"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/hatMid/iwunidrobe_spacehelmet1",
+    "value": [
+      " Bubble"
+    ]
+  }
+]
