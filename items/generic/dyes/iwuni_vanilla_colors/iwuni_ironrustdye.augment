@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_ironrustdye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_ironrustdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#c99a74;Iron Rust^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "c99a74", "e0975c" : "867364", "a85636" : "56473c", "6f2919" : "2d2520"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

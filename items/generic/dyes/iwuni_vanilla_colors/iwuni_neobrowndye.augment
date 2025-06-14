@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_neobrowndye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_neobrowndye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#a7674e;Neo-Brown^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "a7674e", "e0975c" : "7c4e38", "a85636" : "583728", "6f2919" : "382117"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}
