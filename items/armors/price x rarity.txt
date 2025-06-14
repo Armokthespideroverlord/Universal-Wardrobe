@@ -1,0 +1,73 @@
+
+General Prices (NON-TIERED VANILLA CLOTHES)
+Common - 25
+
+Uncommon - 250
+
+Rare - 2500
+
+Legendary - 5000
+
+
+
+
+Clothes (from REWARD BOXES)
+Common - 125
+
+Uncommon - 500
+
+Rare - 750
+
+Legendary - 1250
+
+
+
+
+Costume Boxes ( REWARD - MERCHANT BOXES )
+Common - 500
+
+Uncommon - 1000
+
+Rare - 1500
+
+Legendary - 2500
+
+
+
+
+Head Prices (TIERED CLOTHES)
+Common - 480 & 1440 (Tier 1 & 2)
+
+Uncommon - 1920 & 2400 (Tier 3 & 4)
+
+Rare - 2880 (Tier 5)
+
+Legendary - 3840 (Tier 6)
+
+
+
+
+Chest Prices (TIERED CLOTHES)
+Common - 800 & 2400(Tier 1 & 2)
+
+Uncommon - 3200 & 4000 (Tier 3 & 4)
+
+Rare - 4800 (Tier 5)
+
+Legendary - 6400 (Tier 6)
+
+
+
+
+Pants Prices (TIERED CLOTHES)
+Common - 320 & 960 (Tier 1 & 2)
+
+Uncommon - 1280 & 1600 (Tier 3 & 4)
+
+Rare - 1920 (Tier 5)
+
+Legendary - 2560 (Tier 6)
+
+
+
+Back Prices: Whatever I feel like

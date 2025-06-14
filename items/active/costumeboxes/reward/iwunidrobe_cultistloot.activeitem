@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_cultistlootbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "mysteriousReward",
+  "description" : "Luckily there's still something to be salvaged.",
+  "shortdescription" : "^#ffffa7;Cultist's Headwear Spoils^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_cultistlootbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "cultistlooticon.png",
+  "animation" : "iwunidrobe_cultistloot.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_cultistloot",
+    "level" : 1
+  }
+}

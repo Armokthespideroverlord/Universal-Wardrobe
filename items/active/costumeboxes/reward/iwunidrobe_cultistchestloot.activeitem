@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_cultistchestlootbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "mysteriousReward",
+  "description" : "Luckily there's still something to be salvaged.",
+  "shortdescription" : "^#ffffa7;Cultist's Chestwear Spoils^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_cultistchestlootbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "cultistchestlooticon.png",
+  "animation" : "iwunidrobe_cultistloot.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_cultistchestloot",
+    "level" : 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "itemName" : "iwunidrobe_arpyrobox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "Rejoice, Challenger, as you are the new Arena Champion.",
+  "shortdescription" : "^orange;Plunder of Templar Inferno^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_infernobox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "arpyroboxicon.png",
+  "animation" : "iwunidrobe_arpyrobox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_arenapyroboxloot",
+    "level" : 1
+  },
+
+  "learnBlueprintsOnPickup" : [
+    "iwunidrobe_arpyrobox",
+	"iwuni_infernoreddye"
+  ]
+}

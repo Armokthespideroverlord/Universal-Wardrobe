@@ -1,0 +1,33 @@
+{
+  "itemName" : "iwunidrobe_arbruiserbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "^red;With his blind rage gone, the Bull now calmly rests.^reset;",
+  "shortdescription" : "^red;Plunder of the Bull^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_arenabruiserbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "arbruiserboxicon.png",
+  "animation" : "iwunidrobe_arbruiserbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_arenabruiserboxloot",
+    "level" : 1
+  },
+
+  "learnBlueprintsOnPickup" : [
+    "iwunidrobe_arbruiserbox",
+	"iwuni_bloodgolddye"
+  ]
+}

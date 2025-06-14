@@ -1,0 +1,33 @@
+{
+  "itemName" : "iwunidrobe_arfighterbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "^orange;On his last restless hunt, the Tiger meets his end.^reset;",
+  "shortdescription" : "^orange;Plunder of the Tiger^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_arenafighterbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "arfighterboxicon.png",
+  "animation" : "iwunidrobe_arfighterbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_arenafighterboxloot",
+    "level" : 1
+  },
+
+  "learnBlueprintsOnPickup" : [
+    "iwunidrobe_arfighterbox",
+	"iwuni_bloodgolddye"
+  ]
+}

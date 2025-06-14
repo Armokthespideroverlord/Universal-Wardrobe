@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_wildlinglootbox",
+  "price" : 500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "mysteriousReward",
+  "description" : "A bunch of bones and leather straps, maybe you can get clothes from this?",
+  "shortdescription" : "Bones and Leather",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_wildlinglootbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "wildlinglooticon.png",
+  "animation" : "iwunidrobe_wildlingloot.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_wildlingloot",
+    "level" : 1
+  }
+}

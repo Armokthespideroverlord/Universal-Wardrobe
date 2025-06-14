@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_technomancerbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "An advanced technological suit, who created this thing?",
+  "shortdescription" : "Technomancer Armor Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_technomancerbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "technomancericon.png",
+  "animation" : "iwunidrobe_generic1.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_technomancerboxloot",
+    "level" : 1
+  }
+}

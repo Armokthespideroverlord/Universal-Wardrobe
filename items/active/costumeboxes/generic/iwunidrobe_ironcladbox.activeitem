@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_ironcladbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "A set of handcrafted heavy armor with an unusual color palette, how curious.",
+  "shortdescription" : "IronClad Armor Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_ironcladbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "ironcladicon.png",
+  "animation" : "iwunidrobe_generic1.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_ironcladboxloot",
+    "level" : 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "itemName" : "iwunidrobe_arshooterbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "^blue;With a last wailing shot, the Eagle was made to fall.^reset;",
+  "shortdescription" : "^blue;Plunder of the Eagle^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_arenashooterbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "arshooterboxicon.png",
+  "animation" : "iwunidrobe_arshooterbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_arenashooterboxloot",
+    "level" : 1
+  },
+
+  "learnBlueprintsOnPickup" : [
+    "iwunidrobe_arshooterbox",
+	"iwuni_bloodgolddye"
+  ]
+}

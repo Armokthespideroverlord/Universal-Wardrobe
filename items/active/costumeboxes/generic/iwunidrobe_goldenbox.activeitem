@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_goldenbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "A set of old protective mining armor, seems to be usable!",
+  "shortdescription" : "Golden Armor Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_goldenbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "goldenicon.png",
+  "animation" : "iwunidrobe_generic1.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_goldenboxloot",
+    "level" : 1
+  }
+}

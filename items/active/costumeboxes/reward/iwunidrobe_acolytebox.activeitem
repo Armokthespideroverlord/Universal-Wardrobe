@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_acolytebox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "Seems to be a set of custom Occasus armor.",
+  "shortdescription" : "^yellow;Acolyte's Armor Case^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_acolytebox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "acolyteboxicon.png",
+  "animation" : "iwunidrobe_acolytebox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_acolytelootbox",
+    "level" : 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_mnkgheavybox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "A set of brand new Miniknog Enforcer gear.",
+  "shortdescription" : "MNKG ^blue;Enforcer^reset; Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_mnkgheavybox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "mnkgheavyboxicon.png",
+  "animation" : "iwunidrobe_miniknog.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_mnkgheavyboxloot",
+    "level" : 1
+  }
+}

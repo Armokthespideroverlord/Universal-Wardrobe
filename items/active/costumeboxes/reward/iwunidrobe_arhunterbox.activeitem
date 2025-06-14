@@ -1,0 +1,33 @@
+{
+  "itemName" : "iwunidrobe_arhunterbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "Even the best eventually fall.",
+  "shortdescription" : "^green;Plunder of Volo the Hunter^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_volobox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "arhunterboxicon.png",
+  "animation" : "iwunidrobe_arhunterbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_arenahunterboxloot",
+    "level" : 1
+  },
+
+  "learnBlueprintsOnPickup" : [
+    "iwunidrobe_arhunterbox",
+	"iwuni_haggardbluedye"
+  ]
+}

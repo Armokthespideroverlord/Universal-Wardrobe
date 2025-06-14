@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_hellionbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "Somebody crafted a set of Hellion armor for themselves... finders keepers!",
+  "shortdescription" : "Hellion Armor Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_hellionbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "hellionicon.png",
+  "animation" : "iwunidrobe_generic1.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_hellionboxloot",
+    "level" : 1
+  }
+}

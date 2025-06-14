@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_banditchestlootbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "mysteriousReward",
+  "description" : "These pieces of armor look cheap and faulty.",
+  "shortdescription" : "^red;Bandit's Chestwear Plunder^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_banditchestlootbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "banditchestlooticon.png",
+  "animation" : "iwunidrobe_banditloot.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_banditchestloot",
+    "level" : 1
+  }
+}

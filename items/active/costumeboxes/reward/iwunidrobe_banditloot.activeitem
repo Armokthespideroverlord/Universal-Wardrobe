@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_banditlootbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "mysteriousReward",
+  "description" : "Hopefully there's something valuable in here.",
+  "shortdescription" : "^red;Bandit's Headwear Plunder^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_banditlootbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "banditlooticon.png",
+  "animation" : "iwunidrobe_banditloot.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_banditloot",
+    "level" : 1
+  }
+}

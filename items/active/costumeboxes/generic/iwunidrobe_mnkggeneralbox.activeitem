@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_mnkggeneralbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "Unique attire used by the proud generals of the Miniknog.",
+  "shortdescription" : "Miniknog General Suit",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_mnkggeneralbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "mnkggeneralboxicon.png",
+  "animation" : "iwunidrobe_miniknog.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_mnkggeneralboxloot",
+    "level" : 1
+  }
+}

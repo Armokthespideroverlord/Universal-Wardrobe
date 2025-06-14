@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_brigandbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "Somebody crafted a set of Brigand armor for themselves... finders keepers!",
+  "shortdescription" : "Brigand Armor Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_brigandbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "brigandicon.png",
+  "animation" : "iwunidrobe_generic1.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_brigandboxloot",
+    "level" : 1
+  }
+}
