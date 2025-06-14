@@ -1,0 +1,106 @@
+[
+	[{
+			"op": "test",
+			"path": "/matchColorIndices",
+			"inverse": true
+		},
+		{
+			"op": "add",
+			"path": "/matchColorIndices",
+			"value": true
+		}
+	],
+
+
+	[{
+			"op": "test",
+			"path": "/items/override/0/1"
+		},
+		{
+			"op": "add",
+			"path": "/items/override/0/1/-",
+			"value": {
+				"head": [{
+						"name": "scientisthead"
+					},
+					{
+						"name": "scientisthead"
+					},
+					"",
+					"",
+					""
+				],
+				"chest": [{
+					"name": "iwunidrobe_stylesuit1chest",
+					"parameters": {
+						"colorIndex": [
+							0,
+							1,
+							2,
+							3,
+							7,
+							8
+						]
+					}
+				}],
+				"legs": [{
+					"name": "iwunidrobe_stylesuit1legs",
+					"parameters": {
+						"colorIndex": [
+							0,
+							1,
+							2,
+							3,
+							7,
+							8
+						]
+					}
+				}],
+				"primary": [
+					""
+				],
+				"sheathedprimary": [
+					"npcpistol"
+				]
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/override/0/1/-",
+			"value": {
+				"head": [{
+						"name": "iwunidrobe_cheapsuithead"
+					},
+					{
+						"name": "iwunidrobe_cheapsuitalthead"
+					},
+					"",
+					"",
+					""
+				],
+				"chest": [{
+					"name": "iwunidrobe_cheapsuitchest",
+					"parameters": {
+						"colorIndex": [
+							0
+						]
+					}
+				}],
+				"legs": [{
+					"name": "iwunidrobe_cheapsuitlegs",
+					"parameters": {
+						"colorIndex": [
+							0
+						]
+					}
+				}],
+				"primary": [
+					""
+				],
+				"sheathedprimary": [
+					"npcpistol"
+				]
+			}
+		}
+	]
+]

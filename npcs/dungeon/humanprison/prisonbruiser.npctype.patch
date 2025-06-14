@@ -1,0 +1,119 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/dropPools"
+        },
+        {
+            "op": "add",
+            "path": "/dropPools/-",
+            "value": "iwunidrobe_prisonerTreasure"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head",
+            "value": [
+                {
+                    "name": "iwunidrobe_prisonarmor1head"
+                },
+                {
+                    "name": "iwunidrobe_prisonarmor2head"
+                },
+                {
+                    "name": "iwunidrobe_prisonarmor3head"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "jumpsuitchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_prisonarmor1chest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/1/name",
+            "value": "workoutchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/1/name",
+            "value": "iwunidrobe_prisonarmor2chest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/1/parameters/colorIndex",
+            "value": 3
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/1/parameters/colorIndex",
+            "value": 5
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/2/name",
+            "value": "workoutchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/2/name",
+            "value": "iwunidrobe_prisonarmor3chest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/2/parameters/colorIndex",
+            "value": 3
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/2/parameters/colorIndex",
+            "value": 5
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "jumpsuitlegs"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_prisonarmor1legs"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/legs/-",
+            "value": {
+                "name": "iwunidrobe_prisonarmor2legs",
+                "parameters": {
+                    "colorIndex": 5
+                }
+            }
+        }
+    ]
+]

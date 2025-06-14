@@ -1,0 +1,43 @@
+[
+	[{
+			"op": "test",
+			"path": "/items/override/0/1"
+		},
+		{
+			"op": "add",
+			"path": "/items/override/0/1/-",
+			"value": {
+				"head": [{
+					"name": "iwunidrobe_stationsoldieralthead",
+					"parameters": {
+						"colorIndex": [
+							0
+						]
+					}
+				}],
+				"chest": [{
+					"name": "iwunidrobe_stationsoldierchest",
+					"parameters": {
+						"colorIndex": [
+							0
+						]
+					}
+				}],
+				"legs": [{
+					"name": "iwunidrobe_stationsoldierlegs",
+					"parameters": {
+						"colorIndex": [
+							0
+						]
+					}
+				}],
+				"primary": [
+					"npcassaultrifle"
+				],
+				"sheathedprimary": [
+					"npcpistol"
+				]
+			}
+		}
+	]
+]

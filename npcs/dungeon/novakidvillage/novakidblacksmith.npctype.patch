@@ -1,0 +1,62 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/parameters/colorIndex",
+            "value": 11
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/parameters/colorIndex",
+            "value": [
+                4,
+                5,
+                8,
+                11
+            ]
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": ""
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "bandithat1",
+                        "parameters": {
+                            "colorIndex": [
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    "",
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_blacksmithchest"
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_blacksmithpants"
+                    }
+                ],
+                "sheathedprimary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ]
+]

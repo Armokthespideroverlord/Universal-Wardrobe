@@ -1,0 +1,50 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/0",
+            "value": "Shots from Volo's rifle will severely slow your movement, make sure to avoid getting hit."
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/0",
+            "value": "Shots from ^green;Volo's^reset; rifle will severely slow your movement, make sure to avoid getting hit."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/1",
+            "value": "Volo will attempt to stay behind her pets to attack from a distance, use the arena to protect yourself from her shots."
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/1",
+            "value": "^green;Volo^reset; will attempt to stay behind her pets to attack from a distance, use the arena to protect yourself from her shots."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/2",
+            "value": "Volo's pets are weak compared to her. I recommend removing them from the fight first."
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/2",
+            "value": "^green;Volo's^reset; pets are weak compared to her. I recommend removing them from the fight first."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/3",
+            "value": "You can use ledges to lure Volo into closer range. That's the best time to strike!"
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/3",
+            "value": "You can use ledges to lure ^green;Volo^reset; into closer range. That's the best time to strike!"
+        }
+    ]
+]

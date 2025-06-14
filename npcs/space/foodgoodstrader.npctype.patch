@@ -1,0 +1,16 @@
+[
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/head",
+    "inverse": true
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head",
+    "value": [
+      {
+        "name": "chefhead", "parameters" : { "colorIndex" : [3] }
+      }
+    ]
+  }
+]

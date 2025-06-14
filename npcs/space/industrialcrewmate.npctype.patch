@@ -1,0 +1,79 @@
+[
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": ""
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": ""
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "jumpsuitchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_safetysuitchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "jumpsuitlegs"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_safetysuitlegs"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "safetyhelmethead"
+                    },
+                    "",
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_safetysuitchest",
+                        "parameters": {
+                            "colorIndex": [
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_safetysuitlegs",
+                        "parameters": {
+                            "colorIndex": [
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ]
+]

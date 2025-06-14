@@ -1,0 +1,81 @@
+[
+
+//Book of Spirits Compatibility Patch
+
+    [
+        {
+            "op": "add",
+            "path": "/displayTitle",
+            "value": "^red;The Bull^reset;"
+        },
+        {
+            "op": "add",
+            "path": "/displayTitleAsName",
+            "value": true
+        }
+    ],
+
+
+//Vanilla Patch
+
+    [
+        {
+            "op": "test",
+            "path": "/dropPools/0",
+            "value": "money"
+        },
+        {
+            "op": "replace",
+            "path": "/dropPools/0",
+            "value": "iwunidrobe_arbruiserTreasure"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/identity/name",
+            "value": "Bruiser"
+        },
+        {
+            "op": "replace",
+            "path": "/identity/name",
+            "value": "^red;The Bull^reset;"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "gladiatorhead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_arbruiserhead"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "arenabruiserchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_arbruiserchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "apextier6spants"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_arbruiserlegs"
+        }
+    ]
+]

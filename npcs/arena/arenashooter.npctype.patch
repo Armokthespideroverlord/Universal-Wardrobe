@@ -1,0 +1,76 @@
+[
+
+//Book of Spirits Compatibility Patch
+
+    [
+        {
+            "op": "test",
+            "path": "/displayTitle",
+            "value": "Shooter"
+        },
+        {
+            "op": "replace",
+            "path": "/displayTitle",
+            "value": "^blue;The Eagle^reset;"
+        }
+    ],
+
+
+//Vanilla Patch
+
+    [
+        {
+            "op": "test",
+            "path": "/dropPools/0",
+            "value": "money"
+        },
+        {
+            "op": "replace",
+            "path": "/dropPools/0",
+            "value": "iwunidrobe_arshooterTreasure"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/identity/name",
+            "value": "^blue;The Eagle^reset;"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "ironavianhelmethead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_arshooterhead"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "apextier6schest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_arshooterchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "apextier6spants"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_arshooterlegs"
+        }
+    ]
+]

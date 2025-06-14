@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/0",
+            "value": "Templar Inferno and his pets draw strength from fire. Keep them away from traps."
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/0",
+            "value": "^orange;Templar Inferno^reset; and his pets draw strength from fire. Keep them away from traps."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/2",
+            "value": "Use the platforms to carefully avoid traps and distance yourself from Inferno's blade."
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/2",
+            "value": "Use the platforms to carefully avoid traps and distance yourself from ^orange;Inferno's^reset; blade."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/3",
+            "value": "Your best chance is to take out Inferno quickly, otherwise more and more of his pets will come join the fray."
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/3",
+            "value": "Your best chance is to take out ^orange;Inferno^reset; quickly, otherwise more and more of his pets will come join the fray."
+        }
+    ]
+]

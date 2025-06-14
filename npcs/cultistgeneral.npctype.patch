@@ -1,0 +1,345 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/dropPools"
+        },
+        {
+            "op": "add",
+            "path": "/dropPools/-",
+            "value": "iwunidrobe_cultistGeneralTreasure"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/0",
+            "value": {
+                "name": "simplecapeback",
+                "parameters": {
+                    "colorIndex": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/1",
+            "value": {
+                "name": "oxygentank",
+                "parameters": {
+                    "colorIndex": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/2",
+            "value": {
+                "name": "oxygentank",
+                "parameters": {
+                    "colorIndex": [
+                        2
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/3",
+            "value": {
+                "name": "iwunidrobe_oldbreatheppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/4",
+            "value": {
+                "name": "iwunidrobe_oldbreatheppback",
+                "parameters": {
+                    "colorIndex": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/5",
+            "value": {
+                "name": "iwunidrobe_oldradiationeppback",
+                "parameters": {
+                    "colorIndex": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/6",
+            "value": {
+                "name": "iwunidrobe_oldradiationeppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/7",
+            "value": {
+                "name": "iwunidrobe_oldcoldeppback",
+                "parameters": {
+                    "colorIndex": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/8",
+            "value": {
+                "name": "iwunidrobe_oldcoldeppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/9",
+            "value": {
+                "name": "iwunidrobe_oldheateppback",
+                "parameters": {
+                    "colorIndex": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/10",
+            "value": {
+                "name": "iwunidrobe_oldheateppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/11",
+            "value": {
+                "name": "xenonpack",
+                "parameters": {
+                    "colorIndex": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/12",
+            "value": {
+                "name": "xenonpack",
+                "parameters": {
+                    "colorIndex": [
+                        2
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/13",
+            "value": {
+                "name": "iwunidrobe_regularplssback",
+                "parameters": {
+                    "colorIndex": [
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/14",
+            "value": {
+                "name": "iwunidrobe_regularplssback",
+                "parameters": {
+                    "colorIndex": [
+                        2
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_acolytehead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_acolytechest"
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_acolytepants"
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "simplecapeback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "oxygentank",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "oxygentank",
+                        "parameters": {
+                            "colorIndex": [
+                                2
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback"
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldradiationeppback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldradiationeppback"
+                    },
+                    {
+                        "name": "iwunidrobe_oldcoldeppback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldcoldeppback"
+                    },
+                    {
+                        "name": "iwunidrobe_oldheateppback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldheateppback"
+                    },
+                    {
+                        "name": "xenonpack",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "xenonpack",
+                        "parameters": {
+                            "colorIndex": [
+                                2
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                2
+                            ]
+                        }
+                    },
+                    {
+                        "name": "armoredcultistback"
+                    }
+                ],
+                "primary": [
+                    "npcpetcapturepod"
+                ],
+                "sheathedprimary": [
+                    "doomcannon",
+                    "chargegun",
+                    "electricrailgun",
+                    "exmachina",
+                    "remotegrenadelauncher",
+                    "spaceplasmarifle",
+                    "raygun",
+                    "evileye",
+                    "gristlegun",
+                    "tentaclegun",
+                    "wormgun"
+                ],
+                "alt": [
+                    "energywhip",
+                    "eyesword",
+                    "npccultistbroadsword"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/statusControllerSettings/stats/maxEnergy",
+            "value": {
+                "baseValue": 100
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/statusControllerSettings/stats/powerMultiplier/baseValue",
+            "value": 1.0
+        },
+        {
+            "op": "replace",
+            "path": "/statusControllerSettings/stats/powerMultiplier/baseValue",
+            "value": 1.5
+        }
+    ]
+]

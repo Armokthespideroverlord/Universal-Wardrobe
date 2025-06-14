@@ -1,0 +1,206 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "visorhead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_mkngvisor"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back",
+            "value": [
+                {
+                    "name": "iwunidrobe_mnkgbackpack3"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back",
+            "value": [
+                {
+                    "name": "iwunidrobe_mnkgbackpack3"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_mkngvisor"
+                    },
+                    {
+                        "name": "iwunidrobe_mkngheavyhead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mkngheavychest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mkngheavypants",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_mnkgbackpack3"
+                    }
+                ],
+                "primary": [
+                    "npcshotgun",
+                    "npcrocketlauncher"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_mkngvisor"
+                    },
+                    {
+                        "name": "iwunidrobe_mknglighthead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mknglightchest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mknglightpants",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_mnkgbackpack3"
+                    }
+                ],
+                "primary": [
+                    "npcsniperrifle"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_mkngvisor"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgurbanhead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mnkgurbanchest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mnkgurbanlegs",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_mnkgbackpack3"
+                    }
+                ],
+                "primary": [
+                    "npcassaultrifle"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_mkngvisor"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgurbanhead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mnkgurbanchest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mnkgurbanlegs",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_mnkgbackpack3"
+                    }
+                ],
+                "primary": [
+                    "npcassaultrifle"
+                ]
+            }
+        }
+    ]
+]

@@ -1,0 +1,143 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/dropPools"
+        },
+        {
+            "op": "add",
+            "path": "/dropPools/-",
+            "value": "iwunidrobe_prisonerTreasure"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/1/parameters/colorIndex",
+            "value": 5
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/1/parameters/colorIndex",
+            "value": [
+                1,
+                3
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/2/name",
+            "value": "workoutchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/2/name",
+            "value": "iwunidrobe_prisonsuit4chest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/2/parameters/colorIndex",
+            "value": 3
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/2/parameters/colorIndex",
+            "value": 5
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_prisonsuit5chest",
+                "parameters": {
+                    "colorIndex": 5
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_prisonworkout1chest",
+                "parameters": {
+                    "colorIndex": 1
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_prisonworkout2chest",
+                "parameters": {
+                    "colorIndex": 3
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/legs/-",
+            "value": {
+                "name": "iwunidrobe_prisonsuit3legs",
+                "parameters": {
+                    "colorIndex": 5
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "chest": [
+                    {
+                        "name": "iwunidrobe_prisonsuit1chest",
+                        "parameters": {
+                            "colorIndex": 5
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_prisonsuit2chest",
+                        "parameters": {
+                            "colorIndex": 5
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_prisonsuit3chest",
+                        "parameters": {
+                            "colorIndex": 5
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_prisonsuit1legs",
+                        "parameters": {
+                            "colorIndex": 5
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_prisonsuit2legs",
+                        "parameters": {
+                            "colorIndex": 5
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcdagger"
+                ]
+            }
+        }
+    ]
+]

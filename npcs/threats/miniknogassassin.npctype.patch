@@ -1,0 +1,128 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "apextier5mhead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_mkngvisor"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_mnkgassassinhead"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "apextier5mchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_mknglightchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "apextier5mpants"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_mknglightpants"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/1/head/0/name",
+            "value": "apextier5shead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/1/head/0/name",
+            "value": "iwunidrobe_mkngvisor"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/1/head/-",
+            "value": {
+                "name": "iwunidrobe_mnkgassassinhead"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/1/chest/0/name",
+            "value": "apextier5schest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/1/chest/0/name",
+            "value": "iwunidrobe_mknglightchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/1/legs/0/name",
+            "value": "apextier5spants"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/1/legs/0/name",
+            "value": "iwunidrobe_mknglightpants"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_mkngvisor"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgassassinhead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mknglightchest",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mknglightpants",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcsniperrifle",
+                    "npcpistol"
+                ]
+            }
+        }
+    ]
+]

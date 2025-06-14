@@ -1,0 +1,50 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/0",
+            "value": "There are three gladiators, and each fights differently."
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/0",
+            "value": "You are going to fight ^yellow;The Blood Brothers^reset;; remember that each one fights differently."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/1",
+            "value": "Bruiser is the largest, and strongest of the gladiators, but size makes him slow and easy to outrun."
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/1",
+            "value": "^red;The Bull^reset; is the largest, and strongest of the gladiators, but size makes him slow and easy to outrun."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/2",
+            "value": "The shooter will keep at range from you. If you manage to get close, she'll be the easiest to take out."
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/2",
+            "value": "^blue;The Eagle^reset; will keep at range from you. If you manage to get close, she'll be the easiest to take out."
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/scriptConfig/dialog/converse/default/default/3",
+            "value": "Berserker's electric blade will slow your movement leaving you vulnerable to Bruiser's attacks. Keep your distance."
+        },
+        {
+            "op": "replace",
+            "path": "/scriptConfig/dialog/converse/default/default/3",
+            "value": "^orange;The Tiger's^reset; electric blade will slow your movement leaving you vulnerable to ^red;The Bull's^reset; attacks. Keep your distance."
+        }
+    ]
+]

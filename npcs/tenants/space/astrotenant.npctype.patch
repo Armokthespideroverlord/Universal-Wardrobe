@@ -1,0 +1,78 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back",
+            "value": [
+                {
+                    "name": "iwunidrobe_astroplssback",
+                    "parameters": {
+                        "colorIndex": [
+                            5
+                        ]
+                    }
+                },
+                {
+                    "name": "spacesuitback",
+                    "parameters": {
+                        "colorIndex": [
+                            5
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_hidecosmetichead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_astrosuithead"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": ""
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": ""
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "spacesuitchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_astrosuitchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "spacesuitlegs"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_astrosuitlegs"
+        }
+    ]
+]

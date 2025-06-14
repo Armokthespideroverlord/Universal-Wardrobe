@@ -1,0 +1,334 @@
+[
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/back",
+        "value": [
+            {
+                "name": "simplecapeback",
+                "parameters": {
+                    "colorIndex": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            },
+            {
+                "name": "oxygentank",
+                "parameters": {
+                    "colorIndex": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            },
+            {
+                "name": "iwunidrobe_oldbreatheppback",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            },
+            {
+                "name": "iwunidrobe_oldradiationeppback",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            },
+            {
+                "name": "iwunidrobe_oldcoldeppback",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            },
+            {
+                "name": "iwunidrobe_oldheateppback",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            },
+            {
+                "name": "xenonpack",
+                "parameters": {
+                    "colorIndex": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            },
+            {
+                "name": "foundryback",
+                "parameters": {
+                    "colorIndex": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            },
+            {
+                "name": "iwunidrobe_regularplssback",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_cheapsuithead",
+            "parameters": {
+                "colorIndex": [
+                    1
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_bandithead2",
+            "parameters": {
+                "colorIndex": [
+                    2
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_bandithead3a",
+            "parameters": {
+                "colorIndex": [
+                    0
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_bandithead3b",
+            "parameters": {
+                "colorIndex": [
+                    0
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_bandithead6",
+            "parameters": {
+                "colorIndex": [
+                    1
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_bandithead10",
+            "parameters": {
+                "colorIndex": [
+                    0
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_balaclava",
+            "parameters": {
+                "colorIndex": [
+                    1
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/chest/-",
+        "value": {
+            "name": "iwunidrobe_explorer2chest",
+            "parameters": {
+                "colorIndex": [
+                    1
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/chest/-",
+        "value": {
+            "name": "iwunidrobe_explorer4chest",
+            "parameters": {
+                "colorIndex": [
+                    1
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/chest/-",
+        "value": {
+            "name": "iwunidrobe_explorer5chest",
+            "parameters": {
+                "colorIndex": [
+                    1
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/chest/-",
+        "value": {
+            "name": "iwunidrobe_cheapsuitchest",
+            "parameters": {
+                "colorIndex": [
+                    1
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/legs/-",
+        "value": {
+            "name": "iwunidrobe_cheapsuitlegs",
+            "parameters": {
+                "colorIndex": [
+                    1
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/legs/-",
+        "value": {
+            "name": "iwunidrobe_safetysuitlegs",
+            "parameters": {
+                "colorIndex": [
+                    1
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/legs/-",
+        "value": {
+            "name": "iwunidrobe_stylesuit1legs",
+            "parameters": {
+                "colorIndex": [
+                    1
+                ]
+            }
+        }
+    }
+]

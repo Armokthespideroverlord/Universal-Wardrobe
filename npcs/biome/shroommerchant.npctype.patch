@@ -1,0 +1,16 @@
+[
+    {
+        "op": "test",
+        "path": "/items/floran/0/1/0/back",
+        "inverse": true
+    },
+    {
+        "op": "add",
+        "path": "/items/floran/0/1/0/back",
+        "value": [
+            {
+                "name": "iwunidrobe_bigfungalpack"
+            }
+        ]
+    }
+]

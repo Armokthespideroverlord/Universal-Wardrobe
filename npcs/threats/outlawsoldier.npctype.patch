@@ -1,0 +1,410 @@
+[
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_bandithead1",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_bandithead8b",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_bandithead9",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "iwunidrobe_explorer1head",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "mechpilothead",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "multicamhat",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "camohead",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "pathfinderhead",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "soldierhead",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "trackerhead",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/head/-",
+        "value": {
+            "name": "voyagerhead",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/back/-",
+        "value": {
+            "name": "iwunidrobe_regularplssback",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/back/-",
+        "value": {
+            "name": "iwunidrobe_oldbreatheppback",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/chest/-",
+        "value": {
+            "name": "camochest",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/chest/-",
+        "value": {
+            "name": "pathfinderchest",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/chest/-",
+        "value": {
+            "name": "soldierchest",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/chest/-",
+        "value": {
+            "name": "trackerchest",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/chest/-",
+        "value": {
+            "name": "voyagerchest",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/legs/-",
+        "value": {
+            "name": "iwunidrobe_cheapsuitlegs",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/legs/-",
+        "value": {
+            "name": "camolegs",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/legs/-",
+        "value": {
+            "name": "pathfinderlegs",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/legs/-",
+        "value": {
+            "name": "soldierpants",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/legs/-",
+        "value": {
+            "name": "trackerlegs",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/0/legs/-",
+        "value": {
+            "name": "voyagerlegs",
+            "parameters": {
+                "colorIndex": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    8,
+                    9
+                ]
+            }
+        }
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "op": "test",
+        "path": "/items/hylotl/0/1/0/back",
+        "inverse": true
+    },
+    {
+        "op": "add",
+        "path": "/items/hylotl/0/1/0/back",
+        "value": [
+            {
+                "name": "iwunidrobe_bigbackpack"
+            }
+        ]
+    }
+]

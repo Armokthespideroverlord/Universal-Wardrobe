@@ -1,0 +1,86 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "industrialcrewhead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_industrialisthead"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back/0/name",
+            "value": "boilerback"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/back/0/name",
+            "value": "iwunidrobe_bighandy"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back/0/parameters/colorIndex/0",
+            "value": 2
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/back/0/parameters/colorIndex/0",
+            "value": 0
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "jumpsuitchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_industrialistchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/parameters/colorIndex/0",
+            "value": 11
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/parameters/colorIndex/0",
+            "value": 0
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "jumpsuitlegs"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_industrialistlegs"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/parameters/colorIndex/0",
+            "value": 11
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/parameters/colorIndex/0",
+            "value": 0
+        }
+    ]
+]

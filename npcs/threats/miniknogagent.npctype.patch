@@ -1,0 +1,92 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "apextier2head"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_mnkgglasseshead"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_mknglighthead"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "apextier2chest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "miniknogchest"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_mknglightchest"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "apextier2pants"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_mknglightpants"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_mnkgglasseshead"
+                    },
+                    {
+                        "name": "iwunidrobe_mknglighthead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "miniknogchest",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_mknglightchest"
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mknglightpants"
+                    }
+                ],
+                "primary": [
+                    "npcpistol",
+                    "npcdagger"
+                ]
+            }
+        }
+    ]
+]

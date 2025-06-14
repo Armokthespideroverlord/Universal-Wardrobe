@@ -1,0 +1,71 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head",
+            "value": [
+                {
+                    "name": "iwunidrobe_astroevasuithead",
+                    "parameters": {
+                        "colorIndex": [
+                            0
+                        ]
+                    }
+                },
+                ""
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back/0/name",
+            "value": "foundryforemanback"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/back/0/name",
+            "value": "iwunidrobe_astrostore"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back/0/parameters/colorIndex/0",
+            "value": 2
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/back/0/parameters/colorIndex/0",
+            "value": 5
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "spacesuitchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_astroevasuitchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "spacesuitlegs"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_astroevasuitlegs"
+        }
+    ]
+]

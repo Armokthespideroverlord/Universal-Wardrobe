@@ -1,0 +1,377 @@
+[
+    [
+        {
+            "op": "add",
+            "path": "/shroommerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_bigfungalpack"
+                },
+                "rarity": 0.2
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/industrialmerchant/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_safetysuitbox"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_industrialistbox"
+                },
+                "rarity": 0.1
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_cheapsuitbox"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_stylishsuit1box"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_stationsoldierbox"
+                },
+                "rarity": 0.1
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_stationengiebox"
+                },
+                "rarity": 0.1
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_stationmedicbox"
+                },
+                "rarity": 0.1
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_evasuitbox"
+                },
+                "rarity": 0.1
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_starpilotrandombox"
+                },
+                "rarity": 0.003
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/astromerchant/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/astromerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_astrosuitbox"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/astromerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_astroevasuitbox"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/astromerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_astrostore"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/astromerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_cheapsuitbox"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/astromerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_stylishsuit1box"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_stationsoldierbox"
+                },
+                "rarity": 0.1
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_stationengiebox"
+                },
+                "rarity": 0.1
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_stationmedicbox"
+                },
+                "rarity": 0.1
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_evasuitbox"
+                },
+                "rarity": 0.1
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_starpilotrandombox"
+                },
+                "rarity": 0.003
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/genericarmour/3/1/22",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_explorer1head"
+                },
+                "rarity": 0.04
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/genericarmour/4/1/22",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_explorer1head"
+                },
+                "rarity": 0.04
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/genericarmour/5/1/22",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_explorer1head"
+                },
+                "rarity": 0.04
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/apexclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_bigbackpack"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/avianclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_bigavianpack"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/floranclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_bigfloranpack"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/glitchclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_bigbackpack"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/humanclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_bigbackpack"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/hylotlclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_bigbackpack"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/novakidclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_bigbackpack"
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_blacksmithchest",
+                    "parameters": {
+                        "colorIndex": 0
+                    }
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_blacksmithchest",
+                    "parameters": {
+                        "colorIndex": 11
+                    }
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_blacksmithpants",
+                    "parameters": {
+                        "colorIndex": 0
+                    }
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_blacksmithpants",
+                    "parameters": {
+                        "colorIndex": 11
+                    }
+                }
+            }
+        }
+    ]
+]

@@ -1,0 +1,302 @@
+[
+	[{
+			"op": "test",
+			"path": "/items/human/0/1/0/back"
+		},
+		{
+			"op": "add",
+			"path": "/items/human/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 0
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/human/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 1
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/human/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 2
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/human/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 3
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/human/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 4
+				}
+			}
+		}
+	],
+
+
+	[{
+			"op": "test",
+			"path": "/items/avian/0/1/0/back"
+		},
+		{
+			"op": "add",
+			"path": "/items/avian/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigavianpack",
+				"parameters": {
+					"colorIndex": 4
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/avian/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigavianpack",
+				"parameters": {
+					"colorIndex": 5
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/avian/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigavianpack",
+				"parameters": {
+					"colorIndex": 6
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/avian/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigavianpack",
+				"parameters": {
+					"colorIndex": 7
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/avian/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigavianpack",
+				"parameters": {
+					"colorIndex": 9
+				}
+			}
+		}
+	],
+
+
+	[{
+			"op": "test",
+			"path": "/items/apex/0/1/0/back"
+		},
+		{
+			"op": "add",
+			"path": "/items/apex/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 0
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/apex/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 1
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/apex/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 2
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/apex/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 3
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/apex/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 4
+				}
+			}
+		}
+	],
+
+
+	[{
+			"op": "test",
+			"path": "/items/floran/0/1/0/back"
+		},
+		{
+			"op": "add",
+			"path": "/items/floran/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigfloranpack",
+				"parameters": {
+					"colorIndex": 0
+				}
+			}
+		}
+	],
+
+
+	[{
+			"op": "test",
+			"path": "/items/glitch/0/1/0/back"
+		},
+		{
+			"op": "add",
+			"path": "/items/glitch/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 0
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/glitch/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 1
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/glitch/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 2
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/glitch/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 3
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/glitch/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 4
+				}
+			}
+		}
+	],
+
+
+	[{
+			"op": "test",
+			"path": "/items/hylotl/0/1/0/back"
+		},
+		{
+			"op": "add",
+			"path": "/items/hylotl/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 0
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/hylotl/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 1
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/hylotl/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 2
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/hylotl/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 3
+				}
+			}
+		},
+		{
+			"op": "add",
+			"path": "/items/hylotl/0/1/0/back/-",
+			"value": {
+				"name": "iwunidrobe_bigbackpack",
+				"parameters": {
+					"colorIndex": 4
+				}
+			}
+		}
+	]
+]

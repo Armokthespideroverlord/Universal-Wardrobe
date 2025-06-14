@@ -1,0 +1,181 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back",
+            "value": [
+                {
+                    "name": "iwunidrobe_mnkgbackpack1"
+                },
+                {
+                    "name": "iwunidrobe_mnkgbackpack2"
+                },
+                {
+                    "name": "iwunidrobe_mnkgbackpack3"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back",
+            "value": [
+                {
+                    "name": "iwunidrobe_mnkgbackpack1"
+                },
+                {
+                    "name": "iwunidrobe_mnkgbackpack2"
+                },
+                {
+                    "name": "iwunidrobe_mnkgbackpack3"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "visorhead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_mkngvisor"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_mnkgscouthead"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "apextier1chest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "miniknogchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "apextier1pants"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "miniknogpants"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_mkngvisor"
+                    },
+                    {
+                        "name": "iwunidrobe_mkngheavyhead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mkngheavychest",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mkngheavypants",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_mnkgbackpack1"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgbackpack2"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgbackpack3"
+                    }
+                ],
+                "primary": [
+                    "npcshotgun",
+                    "npcrocketlauncher"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_mkngvisor"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgscouthead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mknglightchest",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mknglightpants",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_mnkgbackpack1"
+                    },
+                    {
+                        "name": "iwunidrobe_mnkgbackpack3"
+                    }
+                ],
+                "primary": [
+                    "npcassaultrifle",
+                    "npcsniperrifle"
+                ]
+            }
+        }
+    ]
+]

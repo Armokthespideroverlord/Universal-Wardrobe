@@ -1,0 +1,64 @@
+[
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/head",
+    "inverse": true
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head",
+    "value": [
+      {
+        "name": "iwunidrobe_stationmedichead"
+      }
+    ]
+  },
+  
+  
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/chest/0/name",
+    "value": "scientistchest"
+  },  
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/0/chest/0/name",
+    "value": "iwunidrobe_stationmedicchest"
+  },
+  
+  
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/chest/0/parameters/colorIndex/0",
+    "value": 8
+  },  
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/0/chest/0/parameters/colorIndex/0",
+    "value": 4
+  },
+  
+  
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/legs/0/name",
+    "value": "scientistlegs"
+  },  
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/0/legs/0/name",
+    "value": "iwunidrobe_stationmediclegs"
+  },
+  
+  
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/legs/0/parameters/colorIndex/0",
+    "value": 8
+  },  
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/0/legs/0/parameters/colorIndex/0",
+    "value": 4
+  }
+]

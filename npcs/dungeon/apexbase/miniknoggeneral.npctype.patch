@@ -1,0 +1,228 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/dropPools"
+        },
+        {
+            "op": "add",
+            "path": "/dropPools/-",
+            "value": "iwarmory_miniknogGeneralTreasure"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back",
+            "value": [
+                {
+                    "name": "shortcapeback",
+                    "parameters": {
+                        "colorIndex": 3
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/parameters",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/0/parameters",
+            "value": {
+                "colorIndex": 3
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "visorhead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "captainshead"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/1/parameters",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/1/parameters",
+            "value": {
+                "colorIndex": 3
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/1/name",
+            "value": "miniknoghead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/1/name",
+            "value": "captainshead"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "miniknogchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_mnkggeneralchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "miniknogpants"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_mnkggenerallegs"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "captainshead",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mnkggeneralchest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mnkggenerallegs",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpetcapturepod"
+                ],
+                "sheathedprimary": [
+                    {
+                        "name": "npcassaultrifle"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "captainshead",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mnkgcolonelchest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mnkgcolonelpants",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpetcapturepod"
+                ],
+                "sheathedprimary": [
+                    {
+                        "name": "npcassaultrifle"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "captainshead",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mnkgcolonelchest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mnkgcolonelpants",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpetcapturepod"
+                ],
+                "sheathedprimary": [
+                    {
+                        "name": "npcassaultrifle"
+                    }
+                ]
+            }
+        }
+    ]
+]

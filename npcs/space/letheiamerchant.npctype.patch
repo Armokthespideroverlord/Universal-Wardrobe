@@ -1,0 +1,66 @@
+[
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/head",
+    "inverse": true
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head",
+    "value": [
+      {
+        "name": "iwunidrobe_evasuitalthead",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    ]
+  },
+  
+  
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/back",
+    "inverse": true
+  }, 
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/back",
+    "value": [
+      {
+        "name": "iwunidrobe_regularplssback",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    ]
+  },
+  
+  
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/chest/0/name",
+    "value": "voyagerchest"
+  },  
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/0/chest/0/name",
+    "value": "iwunidrobe_evasuitchest"
+  },
+  
+  
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/legs/0/name",
+    "value": "voyagerlegs"
+  }, 
+  {
+    "op": "replace",
+    "path": "/items/override/0/1/0/legs/0/name",
+    "value": "iwunidrobe_evasuitlegs"
+  }
+]
