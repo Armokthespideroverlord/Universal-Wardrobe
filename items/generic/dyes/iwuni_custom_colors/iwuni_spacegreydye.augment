@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_spacegreydye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_spacegreydye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Space Grey Dye",
+
+  "dyeDirectives" : {"ffca8a" : "8da6b0", "e0975c" : "657988", "a85636" : "444d5e", "6f2919" : "323247"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

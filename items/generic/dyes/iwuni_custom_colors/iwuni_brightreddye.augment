@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_brightreddye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_brightreddye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Bright Red Dye",
+
+  "dyeDirectives" : {"ffca8a" : "ff5635", "e0975c" : "e51a24", "a85636" : "ae193b", "6f2919" : "7e0b29"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_oldreddye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_oldreddye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Old Red Dye",
+
+  "dyeDirectives" : {"ffca8a" : "ba797b", "e0975c" : "a63d4f", "a85636" : "642836", "6f2919" : "411b24"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

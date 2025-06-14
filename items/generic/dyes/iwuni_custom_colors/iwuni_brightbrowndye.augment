@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_brightbrowndye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_brightbrowndye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Bright Brown Dye",
+
+  "dyeDirectives" : {"ffca8a" : "bb3035", "e0975c" : "9e1f22", "a85636" : "6f2224", "6f2919" : "3e1718"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

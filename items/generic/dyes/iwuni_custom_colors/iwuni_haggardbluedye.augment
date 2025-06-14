@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_haggardbluedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_haggardbluedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^blue;Haggard Blue^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "ffe069", "e0975c" : "e8b21f", "a85636" : "b37000", "6f2919" : "7d5200"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

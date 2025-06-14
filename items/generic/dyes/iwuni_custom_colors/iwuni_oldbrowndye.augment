@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_oldbrowndye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_oldbrowndye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Old Brown Dye",
+
+  "dyeDirectives" : {"ffca8a" : "b19b78", "e0975c" : "896e4d", "a85636" : "694e3a", "6f2919" : "412c22"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

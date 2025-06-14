@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_brightbluedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_brightbluedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Bright Blue Dye",
+
+  "dyeDirectives" : {"ffca8a" : "41b2f6", "e0975c" : "3886cb", "a85636" : "25409d", "6f2919" : "19276f"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

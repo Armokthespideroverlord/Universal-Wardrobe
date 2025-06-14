@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_oldgreendye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_oldgreendye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Old Green Dye",
+
+  "dyeDirectives" : {"ffca8a" : "9bc58b", "e0975c" : "5c9b4f", "a85636" : "356435", "6f2919" : "283e29"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_spaceblackdye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_spaceblackdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Space Black Dye",
+
+  "dyeDirectives" : {"ffca8a" : "2e3b48", "e0975c" : "202a34", "a85636" : "141c24", "6f2919" : "00070e"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_brightpurpledye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_brightpurpledye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Bright Purple Dye",
+
+  "dyeDirectives" : {"ffca8a" : "be25e9", "e0975c" : "8f14cb", "a85636" : "551990", "6f2919" : "3a1165"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

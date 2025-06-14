@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_oldgreydye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_oldgreydye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Old Black Dye",
+
+  "dyeDirectives" : {"ffca8a" : "b4a9a9", "e0975c" : "928b8b", "a85636" : "6c6666", "6f2919" : "444444"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

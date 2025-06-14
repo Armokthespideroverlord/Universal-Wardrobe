@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_spacepurpledye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_spacepurpledye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Space Purple Dye",
+
+  "dyeDirectives" : {"ffca8a" : "a878c1", "e0975c" : "65479e", "a85636" : "373572", "6f2919" : "151e34"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

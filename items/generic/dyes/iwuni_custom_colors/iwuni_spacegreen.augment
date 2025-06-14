@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_spacegreendye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_spacegreendye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Space Green Dye",
+
+  "dyeDirectives" : {"ffca8a" : "55f1ba", "e0975c" : "00d584", "a85636" : "058355", "6f2919" : "003b24"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_oldwhitedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_oldwhitedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Old White Dye",
+
+  "dyeDirectives" : {"ffca8a" : "dbc4ba", "e0975c" : "a88e83", "a85636" : "6a5b51", "6f2919" : "443930"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

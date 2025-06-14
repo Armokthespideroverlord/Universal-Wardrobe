@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_spacewhitedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_spacewhitedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Space White Dye",
+
+  "dyeDirectives" : {"ffca8a" : "dcddef", "e0975c" : "bdbfd2", "a85636" : "9c9caa", "6f2919" : "64646f"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

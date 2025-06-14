@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_oldpurpledye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_oldpurpledye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Old Purple Dye",
+
+  "dyeDirectives" : {"ffca8a" : "b38ec1", "e0975c" : "87549b", "a85636" : "503659", "6f2919" : "302136"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

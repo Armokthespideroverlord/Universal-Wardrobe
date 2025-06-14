@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_oldorangedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_oldorangedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Old Orange Dye",
+
+  "dyeDirectives" : {"ffca8a" : "d5b78a", "e0975c" : "c58d44", "a85636" : "975620", "6f2919" : "64361a"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}
