@@ -1,0 +1,607 @@
+[
+
+//Green's Dye Suite Compatibility Patch
+//OLD CLOTHING PALETTE
+    {
+        "op": "test",
+        "path": "/palettes"
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Black",
+            "categories": [
+                "all",
+                "black",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "685157",
+                "E0975C": "4d353c",
+                "A85636": "2a1c20",
+                "6F2919": "12070a"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Grey",
+            "categories": [
+                "all",
+                "gray",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "b4a9a9",
+                "E0975C": "928b8b",
+                "A85636": "6c6666",
+                "6F2919": "444444"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old White",
+            "categories": [
+                "all",
+                "white",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "dbc4ba",
+                "E0975C": "a88e83",
+                "A85636": "6a5b51",
+                "6F2919": "443930"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Red",
+            "categories": [
+                "all",
+                "red",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "ba797b",
+                "E0975C": "a63d4f",
+                "A85636": "642836",
+                "6F2919": "411b24"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Orange",
+            "categories": [
+                "all",
+                "orange",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "d5b78a",
+                "E0975C": "c58d44",
+                "A85636": "975620",
+                "6F2919": "64361a"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Yellow",
+            "categories": [
+                "all",
+                "yellow",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "b2a675",
+                "E0975C": "9f862b",
+                "A85636": "67571b",
+                "6F2919": "322a10"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Green",
+            "categories": [
+                "all",
+                "green",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "9bc58b",
+                "E0975C": "5c9b4f",
+                "A85636": "356435",
+                "6F2919": "283e29"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Blue",
+            "categories": [
+                "all",
+                "blue",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "8488bf",
+                "E0975C": "595296",
+                "A85636": "3a3564",
+                "6F2919": "1b192e"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Purple",
+            "categories": [
+                "all",
+                "purple",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "b38ec1",
+                "E0975C": "87549b",
+                "A85636": "503659",
+                "6F2919": "302136"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Pink",
+            "categories": [
+                "all",
+                "pink",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "c291aa",
+                "E0975C": "be598d",
+                "A85636": "803e5d",
+                "6F2919": "441c2d"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Brown",
+            "categories": [
+                "all",
+                "brown",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "b19b78",
+                "E0975C": "896e4d",
+                "A85636": "694e3a",
+                "6F2919": "412c22"
+            }
+        }
+    },
+
+//BRIGHT CLOTHING PALETTE
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright Black",
+            "categories": [
+                "all",
+                "black",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "5e4562",
+                "E0975C": "47344b",
+                "A85636": "302037",
+                "6F2919": "1c0e24"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright Grey",
+            "categories": [
+                "all",
+                "gray",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "b6a7bc",
+                "E0975C": "8a7990",
+                "A85636": "645a69",
+                "6F2919": "3d3541"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright White",
+            "categories": [
+                "all",
+                "white",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "e2e2e2",
+                "E0975C": "b0cbc7",
+                "A85636": "7ea096",
+                "6F2919": "5b8076"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright Red",
+            "categories": [
+                "all",
+                "red",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "ff5635",
+                "E0975C": "e51a24",
+                "A85636": "ae193b",
+                "6F2919": "7e0b29"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright Orange",
+            "categories": [
+                "all",
+                "orange",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "f26e39",
+                "E0975C": "df3e16",
+                "A85636": "96200f",
+                "6F2919": "6f1508"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright Yellow",
+            "categories": [
+                "all",
+                "yellow",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "f6c533",
+                "E0975C": "daa11f",
+                "A85636": "a47b11",
+                "6F2919": "694e11"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright Green",
+            "categories": [
+                "all",
+                "green",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "00cd36",
+                "E0975C": "009d25",
+                "A85636": "006e3d",
+                "6F2919": "034724"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright Blue",
+            "categories": [
+                "all",
+                "blue",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "41b2f6",
+                "E0975C": "3886cb",
+                "A85636": "25409d",
+                "6F2919": "19276f"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright Purple",
+            "categories": [
+                "all",
+                "purple",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "be25e9",
+                "E0975C": "8f14cb",
+                "A85636": "551990",
+                "6F2919": "3a1165"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright Pink",
+            "categories": [
+                "all",
+                "pink",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "ef52e5",
+                "E0975C": "df1fc0",
+                "A85636": "a71f83",
+                "6F2919": "79144f"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bright Brown",
+            "categories": [
+                "all",
+                "brown",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "bb3035",
+                "E0975C": "9e1f22",
+                "A85636": "6f2224",
+                "6F2919": "3e1718"
+            }
+        }
+    },
+
+//SPACE CLOTHING PALETTE
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space Black",
+            "categories": [
+                "all",
+                "black",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "2e3b48",
+                "E0975C": "202a34",
+                "A85636": "141c24",
+                "6F2919": "00070e"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space Grey",
+            "categories": [
+                "all",
+                "gray",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "8da6b0",
+                "E0975C": "657988",
+                "A85636": "444d5e",
+                "6F2919": "323247"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space White",
+            "categories": [
+                "all",
+                "white",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "dcddef",
+                "E0975C": "bdbfd2",
+                "A85636": "9c9caa",
+                "6F2919": "64646f"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space Red",
+            "categories": [
+                "all",
+                "red",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "de4d2d",
+                "E0975C": "b11c18",
+                "A85636": "7b111d",
+                "6F2919": "4a0719"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space Orange",
+            "categories": [
+                "all",
+                "orange",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "fba336",
+                "E0975C": "ec720c",
+                "A85636": "ad3c00",
+                "6F2919": "6c1e00"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space Yellow",
+            "categories": [
+                "all",
+                "yellow",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "ffd634",
+                "E0975C": "e19a16",
+                "A85636": "b46110",
+                "6F2919": "662a09"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space Green",
+            "categories": [
+                "all",
+                "green",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "55f1ba",
+                "E0975C": "00d584",
+                "A85636": "058355",
+                "6F2919": "003b24"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space Blue",
+            "categories": [
+                "all",
+                "blue",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "4c59b4",
+                "E0975C": "283283",
+                "A85636": "181f58",
+                "6F2919": "0a0d31"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space Purple",
+            "categories": [
+                "all",
+                "purple",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "a878c1",
+                "E0975C": "65479e",
+                "A85636": "373572",
+                "6F2919": "151e34"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space Pink",
+            "categories": [
+                "all",
+                "pink",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "fe69a2",
+                "E0975C": "ff345d",
+                "A85636": "d50e4c",
+                "6F2919": "7d0243"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Space Brown",
+            "categories": [
+                "all",
+                "brown",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "9a513a",
+                "E0975C": "762c22",
+                "A85636": "49171c",
+                "6F2919": "2d0e10"
+            }
+        }
+    }
+]
