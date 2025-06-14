@@ -1,0 +1,38 @@
+{
+  // ==============================================================================================
+  //                          UNIVERSAL WARDROBE - COMMON TREASURE POOLS
+  // ==============================================================================================
+
+  // ================================
+  //            Costume Boxes
+  // ================================
+
+  "iwunidrobe_uniquecustomeboxes" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_brigandbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_goldenbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_hellionbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_ironcladbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_neoexplorerbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_technomancerbox", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ],
+
+  "iwunidrobe_miniknogcustomeboxes" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkgheavybox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkglightbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkgurbanbox", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ]
+}

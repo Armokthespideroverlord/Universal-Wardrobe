@@ -1,0 +1,178 @@
+{
+  // ==============================================================================================
+  //                               UNIVERSAL WARDROBE - NPC ITEM DROPS
+  // ==============================================================================================
+
+  // ================================
+  //         ARENA NPC DROPS
+  // ================================
+  
+  "iwunidrobe_arbruiserTreasure" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_arbruiserbox"},
+        {"item" : ["money", 500]}
+      ]
+    }]
+  ],
+
+  "iwunidrobe_arfighterTreasure" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_arfighterbox"},
+        {"item" : ["money", 500]}
+      ]
+    }]
+  ],
+  
+  "iwunidrobe_arshooterTreasure" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_arshooterbox"},
+        {"item" : ["money", 500]}
+      ]
+    }]
+  ],
+
+  "iwunidrobe_arhunterTreasure" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_arhunterbox"},
+        {"item" : ["money", 500]}
+      ]
+    }]
+  ],
+
+  "iwunidrobe_arpyroTreasure" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_arpyrobox"},
+        {"item" : ["money", 500]}
+      ]
+    }]
+  ],
+
+  // ================================
+  //        ENEMY DROPS
+  // ================================
+  
+  "iwunidrobe_banditTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.04, "item" : "iwunidrobe_banditlootbox"},
+        {"weight" : 0.01, "item" : "iwunidrobe_banditchestlootbox"},
+        {"weight" : 0.005, "pool" : "iwunidrobe_uniquecustomeboxes"}
+      ],
+      "poolRounds" : [
+        [0.90, 0],
+        [0.20, 1],
+        [0.01, 2]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+  
+  "iwunidrobe_cultistTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.04, "item" : "iwunidrobe_cultistlootbox"},
+        {"weight" : 0.02, "item" : "iwunidrobe_cultistchestlootbox"}
+      ],
+      "poolRounds" : [
+        [0.70, 0],
+        [0.25, 1],
+        [0.05, 2]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+
+  "iwunidrobe_miniknogTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.04, "pool" : "iwunidrobe_miniknogcustomeboxes"}
+      ],
+      "poolRounds" : [
+        [0.90, 0],
+        [0.20, 1],
+        [0.05, 2]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+
+  "iwunidrobe_cultistGeneralTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.03, "item" : "iwunidrobe_acolytebox"}
+      ],
+      "poolRounds" : [
+        [0.70, 0],
+        [0.05, 1]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+
+  "iwarmory_miniknogGeneralTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.10, "item" : "iwunidrobe_mnkggeneralchest"},
+        {"weight" : 0.10, "item" : "iwunidrobe_mnkggenerallegs"}
+      ],
+      "poolRounds" : [
+        [0.70, 0],
+        [0.25, 1],
+        [0.05, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwunidrobe_scientistCultistTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.03, "item" : "iwunidrobe_cultistlootbox"},
+        {"weight" : 0.02, "item" : "iwunidrobe_cultistchestlootbox"},
+        {"weight" : 0.05, "item" : "iwunidrobe_cultistscientist1chest"},
+        {"weight" : 0.05, "item" : "iwunidrobe_cultistscientist1legs"}
+      ],
+      "poolRounds" : [
+        [0.70, 0],
+        [0.25, 1],
+        [0.05, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+  
+  
+  "iwunidrobe_prisonerTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.02, "item" : "iwunidrobe_prisonerlootbox"}
+      ],
+      "poolRounds" : [
+        [0.70, 0],
+        [0.25, 1],
+        [0.05, 2]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+
+  "iwunidrobe_wildlingTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.02, "item" : "iwunidrobe_wildlinglootbox"}
+      ],
+      "poolRounds" : [
+        [0.70, 0],
+        [0.25, 1],
+        [0.05, 2]
+      ],
+      "allowDuplication" : true
+    }]
+  ]
+}
+

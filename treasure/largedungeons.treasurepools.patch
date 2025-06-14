@@ -1,0 +1,120 @@
+[
+    {
+        "op": "add",
+        "path": "/apextestfacilityChestTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "pool": "iwunidrobe_miniknogcustomeboxes"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/apexbaseChestTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.05,
+            "item": [
+                "iwunidrobe_headimplant",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/apexbaseChestTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.05,
+            "item": [
+                "iwunidrobe_mnkgpilothead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/apexbaseChestTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.05,
+            "item": [
+                "iwunidrobe_mnkgbackpack1",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/apexbaseChestTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.05,
+            "item": [
+                "iwunidrobe_mnkgbackpack2",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/apexbaseChestTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.05,
+            "item": [
+                "iwunidrobe_mnkgbackpack3",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/apexbaseChestTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.05,
+            "item": [
+                "iwunidrobe_mkngvisor",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/apexbaseChestTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.05,
+            "item": [
+                "iwunidrobe_mnkgassassinhead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/apexbaseChestTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.05,
+            "item": [
+                "iwunidrobe_mnkgscouthead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/apexbaseChestTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.05,
+            "item": [
+                "iwunidrobe_mnkgglasseshead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/humanprisonTreasure/0/1/pool/-",
+        "value": {
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_prisonerlootbox",
+                1
+            ]
+        }
+    }
+]

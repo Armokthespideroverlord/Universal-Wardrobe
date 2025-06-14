@@ -1,0 +1,162 @@
+[
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 1,
+            "item": "iwunidrobe_spacescientist2chest"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 1,
+            "item": "iwunidrobe_spacescientist2legs"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 1,
+            "item": "iwunidrobe_oldbreatheppback"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 1,
+            "item": "iwunidrobe_spacehelmet1"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 1,
+            "item": "iwunidrobe_spacehelmet2"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 1,
+            "item": "iwunidrobe_spacehelmet3"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 1,
+            "item": "iwunidrobe_spacehelmet4"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 1,
+            "item": "iwunidrobe_spacehelmet5"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 0.03,
+            "item": "iwunidrobe_stylishsuit1box"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 0.03,
+            "item": "iwunidrobe_safetysuitbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 0.03,
+            "item": "iwunidrobe_astrosuitbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 0.03,
+            "item": "iwunidrobe_cheapsuitbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/1/1/pool/-",
+        "value": {
+            "weight": 0.005,
+            "item": "iwunidrobe_stationsoldierbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/1/1/pool/-",
+        "value": {
+            "weight": 0.005,
+            "item": "iwunidrobe_stationmedicbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/1/1/pool/-",
+        "value": {
+            "weight": 0.005,
+            "item": "iwunidrobe_stationengiebox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/1/1/pool/-",
+        "value": {
+            "weight": 0.005,
+            "item": "iwunidrobe_industrialistbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/1/1/pool/-",
+        "value": {
+            "weight": 0.005,
+            "item": "iwunidrobe_evasuitbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/1/1/pool/-",
+        "value": {
+            "weight": 0.005,
+            "item": "iwunidrobe_astroevasuitbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/1/1/pool/-",
+        "value": {
+            "weight": 0.005,
+            "item": "iwunidrobe_starpilotrandombox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/1/1/pool/-",
+        "value": {
+            "weight": 0.005,
+            "pool": "iwunidrobe_uniquecustomeboxes"
+        }
+    }
+]
