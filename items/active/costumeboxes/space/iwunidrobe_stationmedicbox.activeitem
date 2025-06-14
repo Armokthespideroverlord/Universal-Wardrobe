@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_stationmedicbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "With your brand new medic license you are now able to save lives throughout the galaxy!",
+  "shortdescription" : "Caretaker's Suit",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_stationmedicbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "genericspaceboxicon.png",
+  "animation" : "iwunidrobe_genericspacebox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_stationmedicboxloot",
+    "level" : 1
+  }
+}

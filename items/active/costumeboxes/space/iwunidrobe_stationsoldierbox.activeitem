@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_stationsoldierbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "Hopefully you're a highly trained professional in the field of space combat.",
+  "shortdescription" : "E.V.C Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_stationsoldierbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "genericspaceboxicon.png",
+  "animation" : "iwunidrobe_genericspacebox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_stationsoldierboxloot",
+    "level" : 1
+  }
+}

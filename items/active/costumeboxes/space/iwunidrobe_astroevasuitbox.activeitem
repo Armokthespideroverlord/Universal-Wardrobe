@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_astroevasuitbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "A unique take on the modern E.V.A. suit. Now it's yours!",
+  "shortdescription" : "Astro-E.V.A. Suit",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_astroevabox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "astroboxicon.png",
+  "animation" : "iwunidrobe_astrobox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_astroevasuitboxloot",
+    "level" : 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_starpilotfalconbox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "An official Falcon-type pilot uniform, approved by the Universal Flight Organization.",
+  "shortdescription" : "Falcon-type Suit Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_falconpilotbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "starpilotcase_falconicon.png",
+  "animation" : "iwunidrobe_starpilotfalcon.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_starpilotFalconlootbox",
+    "level" : 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_safetysuitbox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "A clean and new Safety Suit, ready to be used!",
+  "shortdescription" : "Industrial Safety Uniform",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_safetysuitbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "industrialboxicon.png",
+  "animation" : "iwunidrobe_industrialbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_safetysuitboxloot",
+    "level" : 1
+  }
+}

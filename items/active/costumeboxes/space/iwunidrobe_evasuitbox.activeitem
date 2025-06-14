@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_evasuitbox",
+  "price" : 5000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "You got the best choice for space exploration! What are you waiting for?",
+  "shortdescription" : "E.V.A suit",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_evabox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "genericspaceboxicon.png",
+  "animation" : "iwunidrobe_genericspacebox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_evasuitboxloot",
+    "level" : 1
+  }
+}

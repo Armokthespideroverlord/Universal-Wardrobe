@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_starpilotsparrowbox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "An official Sparrow-type pilot uniform, approved by the Universal Flight Organization.",
+  "shortdescription" : "Sparrow-type Suit Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_sparrowpilotbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "starpilotcase_sparrowicon.png",
+  "animation" : "iwunidrobe_starpilotsparrow.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_starpilotSparrowlootbox",
+    "level" : 1
+  }
+}

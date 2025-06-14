@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_astrosuitbox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "A clean and new Astro-Suit, ready to be used!",
+  "shortdescription" : "Astro-Suit Uniform",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_astrosuitbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "astroboxicon.png",
+  "animation" : "iwunidrobe_astrobox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_astrosuitboxloot",
+    "level" : 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_industrialistbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "A new L.C.V suit with a license included. All ready to be used!",
+  "shortdescription" : "L.C.V Exosuit Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_industrialistbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "industrialboxicon.png",
+  "animation" : "iwunidrobe_industrialbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_industrialistboxloot",
+    "level" : 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_starpiloteaglebox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "An official Eagle-type pilot uniform, approved by the Universal Flight Organization.",
+  "shortdescription" : "Eagle-type Suit Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_eaglepilotbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "starpilotcase_eagleicon.png",
+  "animation" : "iwunidrobe_starpiloteagle.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_starpilotEaglelootbox",
+    "level" : 1
+  }
+}

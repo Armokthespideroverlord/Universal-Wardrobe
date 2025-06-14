@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_starpilotkestrelbox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "An official Kestrel-type pilot uniform, approved by the Universal Flight Organization.",
+  "shortdescription" : "Kestrel-type Suit Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_kestrelpilotbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "starpilotcase_kestrelicon.png",
+  "animation" : "iwunidrobe_starpilotkestrel.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_starpilotKestrellootbox",
+    "level" : 1
+  }
+}

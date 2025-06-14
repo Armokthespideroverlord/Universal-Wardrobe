@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_cheapsuitbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "iwuniCostumeSet",
+  "description" : "A clean and new Astro-Suit, ready to be used!",
+  "shortdescription" : "Cheap I.E.V.A suit",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_cheapsuitbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "genericspaceboxicon.png",
+  "animation" : "iwunidrobe_genericspacebox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_cheapsuitboxloot",
+    "level" : 1
+  }
+}
