@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_parkahood2", "count" : 1 },
+    { "item" : "iwunidrobe_balaclava", "count" : 1 }
+  ],
+  "duration" : 2,
+  "output" : { "item" : "iwunidrobe_parkahood3", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_combinedclothes" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_digitalvisor", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_c3digitalvisor", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

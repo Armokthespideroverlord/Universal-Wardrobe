@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_bandithead4a", "count" : 1 },
+    { "item" : "reddye", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_bandithead4b", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}
