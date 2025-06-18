@@ -164,7 +164,7 @@
         },
         {
             "op": "add",
-            "path": "/industrialmerchant/0/1/-",
+            "path": "/astromerchant/0/1/-",
             "value": {
                 "item": {
                     "name": "iwunidrobe_stationsoldierbox"
@@ -174,7 +174,7 @@
         },
         {
             "op": "add",
-            "path": "/industrialmerchant/0/1/-",
+            "path": "/astromerchant/0/1/-",
             "value": {
                 "item": {
                     "name": "iwunidrobe_stationengiebox"
@@ -184,7 +184,7 @@
         },
         {
             "op": "add",
-            "path": "/industrialmerchant/0/1/-",
+            "path": "/astromerchant/0/1/-",
             "value": {
                 "item": {
                     "name": "iwunidrobe_stationmedicbox"
@@ -194,7 +194,7 @@
         },
         {
             "op": "add",
-            "path": "/industrialmerchant/0/1/-",
+            "path": "/astromerchant/0/1/-",
             "value": {
                 "item": {
                     "name": "iwunidrobe_evasuitbox"
@@ -204,7 +204,7 @@
         },
         {
             "op": "add",
-            "path": "/industrialmerchant/0/1/-",
+            "path": "/astromerchant/0/1/-",
             "value": {
                 "item": {
                     "name": "iwunidrobe_starpilotrandombox"
@@ -216,7 +216,7 @@
     [
         {
             "op": "add",
-            "path": "/genericarmour/3/1/22",
+            "path": "/genericarmour/3/1/-",
             "value": {
                 "item": {
                     "name": "iwunidrobe_explorer1head"
@@ -228,7 +228,7 @@
     [
         {
             "op": "add",
-            "path": "/genericarmour/4/1/22",
+            "path": "/genericarmour/4/1/-",
             "value": {
                 "item": {
                     "name": "iwunidrobe_explorer1head"
@@ -240,7 +240,7 @@
     [
         {
             "op": "add",
-            "path": "/genericarmour/5/1/22",
+            "path": "/genericarmour/5/1/-",
             "value": {
                 "item": {
                     "name": "iwunidrobe_explorer1head"
