@@ -1,0 +1,46 @@
+{
+  "itemName" : "iwunidrobe_c1banditvisor6",
+  "price" : 125,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "These are good for looking at a star from a planet's surface; otherwise you would want some starglasses.",
+  "shortdescription" : "Tinted Dark Googles",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+  
+  "colorOptions" : [
+    // DEFAULT - DARK YELLOW
+    { "ffca8a" : "f7bf00", "e0975c" : "bb7d1b", "a85636" : "5c3612", "6f2919" : "2b0802" },
+    // DARK BLACK
+    { "ffca8a" : "a79e90", "e0975c" : "7c705c", "a85636" : "342b2b", "6f2919" : "201717" },
+    // DARK GREY
+    { "ffca8a" : "d5cab8", "e0975c" : "938c82", "a85636" : "564d40", "6f2919" : "342b2b" },
+    // DARK WHITE
+    { "ffca8a" : "ffffff", "e0975c" : "ede9e3", "a85636" : "d5cab8", "6f2919" : "938c82" },
+    // DARK RED
+    { "ffca8a" : "ff231f", "e0975c" : "bb1c19", "a85636" : "5a1514", "6f2919" : "2a0209" },
+    // DARK ORANGE
+    { "ffca8a" : "ff4f1f", "e0975c" : "bb3016", "a85636" : "5b1f14", "6f2919" : "2a0402" },
+    // DARK YELLOW
+    { "ffca8a" : "f7bf00", "e0975c" : "bb7d1b", "a85636" : "5c3612", "6f2919" : "2b0802" },
+    // DARK GREEN
+    { "ffca8a" : "00f643", "e0975c" : "16bb36", "a85636" : "0f5923", "6f2919" : "022706" },
+    // DARK BLUE
+    { "ffca8a" : "179cbe", "e0975c" : "226cad", "a85636" : "192d56", "6f2919" : "000724" },
+    // DARK PURPLE
+    { "ffca8a" : "7c3bff", "e0975c" : "3925b0", "a85636" : "141455", "6f2919" : "000a25" },
+    // DARK PINK
+    { "ffca8a" : "f600c7", "e0975c" : "bb1975", "a85636" : "5a143a", "6f2919" : "2a0214" },
+    // DARK BROWN
+    { "ffca8a" : "c1453d", "e0975c" : "962825", "a85636" : "5b1c14", "6f2919" : "2a0602" }
+  ],
+
+  "learnBlueprintsOnPickup" : [
+	"iwunidrobe_hylotlbanditvisor6"
+  ]
+}

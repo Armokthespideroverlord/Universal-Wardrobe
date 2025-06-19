@@ -1,0 +1,46 @@
+{
+  "itemName" : "iwunidrobe_c1banditvisor7",
+  "price" : 125,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "Whoever got their hands on these really had quite good taste.",
+  "shortdescription" : "Tinted Neo-Glasses",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+  
+  "colorOptions" : [
+    // DEFAULT - VISOR GREEN
+    { "ffca8a" : "ffffff", "e0975c" : "8bffd5", "a85636" : "00f589", "6f2919" : "00a85b" },
+    // VISOR BLACK
+    { "ffca8a" : "ffffff", "e0975c" : "b5b5b5", "a85636" : "808080", "6f2919" : "555555" },
+    // VISOR GREY
+    { "ffca8a" : "ffffff", "e0975c" : "dbdbdb", "a85636" : "b5b5b5", "6f2919" : "808080" },
+    //  VISOR WHITE
+    { "ffca8a" : "ffffff", "e0975c" : "f3f3f3", "a85636" : "dbdbdb", "6f2919" : "b5b5b5" },
+    // VISOR RED
+    { "ffca8a" : "ffffff", "e0975c" : "f2b2a2", "a85636" : "ec5c4c", "6f2919" : "e52d30" },
+    // VISOR ORANGE
+    { "ffca8a" : "ffffff", "e0975c" : "f6c089", "a85636" : "ec8b4c", "6f2919" : "e5522d" },
+    // VISOR YELLOW
+    { "ffca8a" : "ffffff", "e0975c" : "f9e1a3", "a85636" : "ffc971", "6f2919" : "f2ac3c" },
+    // VISOR GREEN
+    { "ffca8a" : "ffffff", "e0975c" : "8bffd5", "a85636" : "00f589", "6f2919" : "00a85b" },
+    // VISOR BLUE
+    { "ffca8a" : "ffffff", "e0975c" : "beccff", "a85636" : "96affc", "6f2919" : "647cf6" },
+    // VISOR PURPLE
+    { "ffca8a" : "ffffff", "e0975c" : "dbc5ff", "a85636" : "a16bff", "6f2919" : "7830ff" },
+    // VISOR PINK
+    { "ffca8a" : "ffffff", "e0975c" : "fccbf2", "a85636" : "f9ace3", "6f2919" : "df50b7" },
+    // VISOR BROWN
+    { "ffca8a" : "ffffff", "e0975c" : "c8ab89", "a85636" : "aa865c", "6f2919" : "a36d45" }
+  ],
+
+  "learnBlueprintsOnPickup" : [
+	"iwunidrobe_hylotlbanditvisor7"
+  ]
+}
