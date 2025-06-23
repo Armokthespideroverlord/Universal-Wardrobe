@@ -15,29 +15,29 @@
   
   "colorOptions" : [
     // DEFAULT - DARK YELLOW
-    { "ffca8a" : "f7bf00", "e0975c" : "bb7d1b", "a85636" : "5c3612", "6f2919" : "2b0802" },
-    // DARK BLACK
-    { "ffca8a" : "a79e90", "e0975c" : "7c705c", "a85636" : "342b2b", "6f2919" : "201717" },
-    // DARK GREY
-    { "ffca8a" : "d5cab8", "e0975c" : "938c82", "a85636" : "564d40", "6f2919" : "342b2b" },
-    // DARK WHITE
-    { "ffca8a" : "ffffff", "e0975c" : "ede9e3", "a85636" : "d5cab8", "6f2919" : "938c82" },
-    // DARK RED
-    { "ffca8a" : "ff231f", "e0975c" : "bb1c19", "a85636" : "5a1514", "6f2919" : "2a0209" },
-    // DARK ORANGE
-    { "ffca8a" : "ff4f1f", "e0975c" : "bb3016", "a85636" : "5b1f14", "6f2919" : "2a0402" },
-    // DARK YELLOW
-    { "ffca8a" : "f7bf00", "e0975c" : "bb7d1b", "a85636" : "5c3612", "6f2919" : "2b0802" },
-    // DARK GREEN
-    { "ffca8a" : "00f643", "e0975c" : "16bb36", "a85636" : "0f5923", "6f2919" : "022706" },
-    // DARK BLUE
-    { "ffca8a" : "179cbe", "e0975c" : "226cad", "a85636" : "192d56", "6f2919" : "000724" },
-    // DARK PURPLE
-    { "ffca8a" : "7c3bff", "e0975c" : "3925b0", "a85636" : "141455", "6f2919" : "000a25" },
-    // DARK PINK
-    { "ffca8a" : "f600c7", "e0975c" : "bb1975", "a85636" : "5a143a", "6f2919" : "2a0214" },
-    // DARK BROWN
-    { "ffca8a" : "c1453d", "e0975c" : "962825", "a85636" : "5b1c14", "6f2919" : "2a0602" }
+    { "ffca8afe" : "f7bf00fe", "e0975cfe" : "bb7d1bfe", "a85636fe" : "5c3612fe", "6f2919fe" : "2b0802fe" },
+    // VISOR BLACK
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "b5b5b5fe", "a85636fe" : "808080fe", "6f2919fe" : "555555fe" },
+    // VISOR GREY
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "dbdbdbfe", "a85636fe" : "b5b5b5fe", "6f2919fe" : "808080fe" },
+    //  VISOR WHITE
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "f3f3f3fe", "a85636fe" : "dbdbdbfe", "6f2919fe" : "b5b5b5fe" },
+    // VISOR RED
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "f2b2a2fe", "a85636fe" : "ec5c4cfe", "6f2919fe" : "e52d30fe" },
+    // VISOR ORANGE
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "f6c089fe", "a85636fe" : "ec8b4cfe", "6f2919fe" : "e5522dfe" },
+    // VISOR YELLOW
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "f9e1a3fe", "a85636fe" : "ffc971fe", "6f2919fe" : "f2ac3cfe" },
+    // VISOR GREEN
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "8bffd5fe", "a85636fe" : "00f589fe", "6f2919fe" : "00a85bfe" },
+    // VISOR BLUE
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "beccfffe", "a85636fe" : "96affcfe", "6f2919fe" : "647cf6fe" },
+    // VISOR PURPLE
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "dbc5fffe", "a85636fe" : "a16bfffe", "6f2919fe" : "7830fffe" },
+    // VISOR PINK
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "fccbf2fe", "a85636fe" : "f9ace3fe", "6f2919fe" : "df50b7fe" },
+    // VISOR BROWN
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "c8ab89fe", "a85636fe" : "aa865cfe", "6f2919fe" : "a36d45fe" }
   ],
 
   "learnBlueprintsOnPickup" : [
