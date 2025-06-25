@@ -4,7 +4,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_cultisthead5",
+                "name": "iwunidrobe_cultistvisor1alt",
                 "parameters": {
                     "colorIndex": 0
                 }
@@ -14,7 +14,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_cultisthead7",
+                "name": "iwunidrobe_cultistvisor2alt",
                 "parameters": {
                     "colorIndex": 0
                 }
@@ -24,7 +24,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_cultisthead8",
+                "name": "iwunidrobe_cultistvisor3alt",
                 "parameters": {
                     "colorIndex": 0
                 }
@@ -34,7 +34,47 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_cultisthead10",
+                "name": "iwunidrobe_cultistvisor5alt",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor1cultist",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor3cultist",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor6cultist",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor7cultist",
                 "parameters": {
                     "colorIndex": 0
                 }
