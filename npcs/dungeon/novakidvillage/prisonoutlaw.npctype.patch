@@ -1,0 +1,235 @@
+[
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "novatier2head",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "novatier3head",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "novatier5ahead",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_novamask1",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_novamask2",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_novamask3",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_novamask4",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_novamask5",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_novamask6",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_novamask7",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/chest/-",
+    "value": {
+      "name": "novatier2chest",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/chest/-",
+    "value": {
+      "name": "novatier3chest",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/chest/-",
+    "value": {
+      "name": "novatier5achest",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/legs/-",
+    "value": {
+      "name": "novatier2pants",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/legs/-",
+    "value": {
+      "name": "novatier3pants",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/legs/-",
+    "value": {
+      "name": "novatier5apants",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/-",
+    "value": {
+      "head": [
+        {
+          "name": "iwunidrobe_jailbirdhead",
+          "parameters": {
+            "colorIndex": [
+              3
+            ]
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_jailbirdchest",
+          "parameters": {
+            "colorIndex": [
+              3
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_jailbirdlegs",
+          "parameters": {
+            "colorIndex": [
+              3
+            ]
+          }
+        }
+      ],
+      "sheathedprimary": [
+        "npcbroadsword",
+        "npcassaultrifle",
+        "npcshotgun"
+      ]
+    }
+  }
+]
