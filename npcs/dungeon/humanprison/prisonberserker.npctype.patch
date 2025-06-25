@@ -12,41 +12,14 @@
     ],
     [
         {
-            "op": "test",
-            "path": "/items/override/0/1/0/chest/1/parameters/colorIndex",
-            "value": 5
-        },
-        {
-            "op": "replace",
-            "path": "/items/override/0/1/0/chest/1/parameters/colorIndex",
-            "value": [
-                1,
-                3
-            ]
-        }
-    ],
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/chest/2/name",
-            "value": "workoutchest"
-        },
-        {
-            "op": "replace",
-            "path": "/items/override/0/1/0/chest/2/name",
-            "value": "iwunidrobe_prisonsuit4chest"
-        }
-    ],
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/chest/2/parameters/colorIndex",
-            "value": 3
-        },
-        {
-            "op": "replace",
-            "path": "/items/override/0/1/0/chest/2/parameters/colorIndex",
-            "value": 5
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwarmory_prisonsuit4chest",
+                "parameters": {
+                    "colorIndex": 5
+                }
+            }
         }
     ],
     [
