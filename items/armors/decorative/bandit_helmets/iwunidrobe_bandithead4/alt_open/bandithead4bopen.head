@@ -1,5 +1,5 @@
 {
-  "itemName" : "iwunidrobe_bandithead4a",
+  "itemName" : "iwunidrobe_bandithead4bopen",
   "price" : 500,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
@@ -42,8 +42,6 @@
 
   "learnBlueprintsOnPickup" : [
     "iwunidrobe_bandithead4b",
-    "iwunidrobe_bandithead4a",
-    "iwunidrobe_bandithead4aopen",
     "iwunidrobe_bandithead4bopen"
   ]
 }

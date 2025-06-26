@@ -41,6 +41,7 @@
   ],
 
   "learnBlueprintsOnPickup" : [
-    "iwunidrobe_bandithead4b"
+    "iwunidrobe_bandithead4b",
+    "iwunidrobe_bandithead4bopen"
   ]
 }
