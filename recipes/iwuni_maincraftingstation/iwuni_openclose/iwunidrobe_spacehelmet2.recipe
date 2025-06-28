@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_spacehelmet2alt", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_spacehelmet2", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_openclosed" ]
+}
