@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "Dust is something one has to be the least concerned about in space.",
-  "shortdescription" : "Tinted Improvised Goggles",
+  "shortdescription" : "^#ff7c46;Tinted^reset; Improvised Goggles",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

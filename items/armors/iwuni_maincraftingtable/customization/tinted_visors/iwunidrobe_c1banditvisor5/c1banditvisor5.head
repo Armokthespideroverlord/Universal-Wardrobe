@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "Wait, this thing is not even on.",
-  "shortdescription" : "Tinted Repurposed Visor",
+  "shortdescription" : "^#ff7c46;Tinted^reset; Repurposed Visor",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

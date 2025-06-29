@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "Maybe it can be used outside in space?.",
-  "shortdescription" : "Tinted Repurposed Respirator",
+  "shortdescription" : "^#ff7c46;Tinted^reset; Repurposed Respirator",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

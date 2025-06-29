@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "Very handy at getting any sort of data to your eyes.",
-  "shortdescription" : "Tinted Salvaged Scanner",
+  "shortdescription" : "^#ff7c46;Tinted^reset; Salvaged Scanner",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

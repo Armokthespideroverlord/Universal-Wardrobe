@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "A pair of obsolete neon-green goggles.",
-  "shortdescription" : "Tinted Salvaged Goggles",
+  "shortdescription" : "^#ff7c46;Tinted^reset; Salvaged Goggles",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

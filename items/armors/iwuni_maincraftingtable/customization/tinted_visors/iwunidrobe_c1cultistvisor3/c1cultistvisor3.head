@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "These glasses are usually worn by workers in industrial areas.",
-  "shortdescription" : "Tinted Industrial Glasses",
+  "shortdescription" : "^#ff7c46;Tinted^reset; Industrial Glasses",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "Whoever got their hands on these really had quite good taste.",
-  "shortdescription" : "Tinted Neo-Glasses",
+  "shortdescription" : "^#ff7c46;Tinted^reset; Neo-Glasses",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

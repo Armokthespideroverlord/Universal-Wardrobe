@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "A military-grade nightvision headset; too bad it doesn't work anymore.",
-  "shortdescription" : "Tinted Nightvision Headset",
+  "shortdescription" : "^#ff7c46;Tinted^reset; Nightvision Headset",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

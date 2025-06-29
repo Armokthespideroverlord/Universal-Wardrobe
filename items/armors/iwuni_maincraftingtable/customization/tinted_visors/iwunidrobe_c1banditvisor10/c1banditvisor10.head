@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "The leather straps are a bit too annoying, but it's better than nothing.",
-  "shortdescription" : "Tinted Handcrafted Goggles",
+  "shortdescription" : "^#ff7c46;Tinted^reset; Handcrafted Goggles",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

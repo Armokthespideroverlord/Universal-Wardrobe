@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "An outdated respirator, maybe it can be used outside in space?",
-  "shortdescription" : "Tinted Salvaged Respirator",
+  "shortdescription" : "^#ff7c46;Tinted^reset; Salvaged Respirator",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
