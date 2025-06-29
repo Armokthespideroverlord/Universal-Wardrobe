@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. Surprisingly functional despite being really old.",
-  "shortdescription" : "Tinted Salvaged Night-Lens",
+  "shortdescription" : "^#ff7c46;Tinted^reset; ^#68afe9;Salvaged Night-Lens^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

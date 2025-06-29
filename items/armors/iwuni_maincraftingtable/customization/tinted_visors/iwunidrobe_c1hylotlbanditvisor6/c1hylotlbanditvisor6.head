@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. These are good for looking at a star from a planet's surface; otherwise you would want some starglasses.",
-  "shortdescription" : "Tinted Dark Googles",
+  "shortdescription" : "^#ff7c46;Tinted^reset; ^#68afe9;Dark Googles^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

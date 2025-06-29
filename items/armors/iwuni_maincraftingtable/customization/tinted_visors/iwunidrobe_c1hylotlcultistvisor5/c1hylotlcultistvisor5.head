@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. Show off these stylish glasses while you slay your enemies!",
-  "shortdescription" : "Tinted Stylish Glasses",
+  "shortdescription" : "^#ff7c46;Tinted^reset; ^#68afe9;Stylish Glasses^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. A unique pair of goggles, meant to be used for industrial activities.",
-  "shortdescription" : "Tinted Industrial Goggles",
+  "shortdescription" : "^#ff7c46;Tinted^reset; ^#68afe9;Industrial Goggles^reset;",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
