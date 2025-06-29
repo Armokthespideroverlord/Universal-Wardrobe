@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_hylotlbanditvisor2", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_c1hylotlbanditvisor2", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}
