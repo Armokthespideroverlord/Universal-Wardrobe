@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. Whoever got their hands on these really had quite good taste.",
-  "shortdescription" : "Neo-Glasses",
+  "shortdescription" : "^#68afe9;Neo-Glasses",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

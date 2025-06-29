@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. There is no reason to think this is a good protection choice.",
-  "shortdescription" : "Improvised Goggles",
+  "shortdescription" : "^#68afe9;Improvised Goggles",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

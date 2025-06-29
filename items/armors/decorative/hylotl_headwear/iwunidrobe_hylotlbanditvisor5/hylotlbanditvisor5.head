@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. Wait, this thing is not even on.",
-  "shortdescription" : "Repurposed Visor",
+  "shortdescription" : "^#68afe9;Repurposed Visor",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

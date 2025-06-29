@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. These glasses are usually worn by workers in industrial areas.",
-  "shortdescription" : "Industrial Glasses",
+  "shortdescription" : "^#68afe9;Industrial Glasses",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

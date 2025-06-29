@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. A military-grade nightvision headset; too bad it doesn't work anymore.",
-  "shortdescription" : "Nightvision Headset",
+  "shortdescription" : "^#68afe9;Nightvision Headset",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

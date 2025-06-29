@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. Show off these stylish glasses while you slay your enemies!",
-  "shortdescription" : "Stylish Glasses",
+  "shortdescription" : "^#68afe9;Stylish Glasses",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. The leather straps are a bit too annoying, but it's better than nothing.",
-  "shortdescription" : "Handcrafted Goggles",
+  "shortdescription" : "^#68afe9;Handcrafted Goggles",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

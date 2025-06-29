@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "headwear",
   "description" : "^blue;Hylotl^reset;. Finally! No more snow in your eyes!",
-  "shortdescription" : "Ski Goggles",
+  "shortdescription" : "^#68afe9;Ski Goggles",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
