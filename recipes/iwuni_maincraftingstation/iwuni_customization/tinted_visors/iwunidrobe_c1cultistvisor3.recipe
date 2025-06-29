@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_cultistvisor3", "count" : 1 },
+    { "item" : "reddye", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_c1cultistvisor3", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}
