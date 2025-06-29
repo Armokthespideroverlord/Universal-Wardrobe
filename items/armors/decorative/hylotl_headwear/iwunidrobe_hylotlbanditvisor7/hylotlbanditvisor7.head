@@ -14,8 +14,8 @@
   "mask" : "mask.png",
   
   "colorOptions" : [
-    // DEFAULT - BLACK
-    { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
+    // DEFAULT - BANDIT DARK METAL
+    { "ffca8a" : "8684a7", "e0975c" : "59577c", "a85636" : "38364f", "6f2919" : "1b1b2a" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
