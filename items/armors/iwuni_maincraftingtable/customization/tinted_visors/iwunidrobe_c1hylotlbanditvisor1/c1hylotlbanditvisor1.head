@@ -1,0 +1,42 @@
+{
+  "itemName" : "iwunidrobe_c1hylotlbanditvisor1",
+  "price" : 125,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "category" : "headwear",
+  "description" : "^blue;Hylotl^reset;. Dust is the thing you have to be the least concerned in space.",
+  "shortdescription" : "Tinted Improvised Goggles",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+  
+  "colorOptions" : [
+    // DEFAULT - VISOR DEFAULT
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "91fff1fe", "a85636fe" : "00ffe8fe", "6f2919fe" : "00b4a3fe" },
+    // VISOR BLACK
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "b5b5b5fe", "a85636fe" : "808080fe", "6f2919fe" : "555555fe" },
+    // VISOR GREY
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "dbdbdbfe", "a85636fe" : "b5b5b5fe", "6f2919fe" : "808080fe" },
+    //  VISOR WHITE
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "f3f3f3fe", "a85636fe" : "dbdbdbfe", "6f2919fe" : "b5b5b5fe" },
+    // VISOR RED
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "f2b2a2fe", "a85636fe" : "ec5c4cfe", "6f2919fe" : "e52d30fe" },
+    // VISOR ORANGE
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "f6c089fe", "a85636fe" : "ec8b4cfe", "6f2919fe" : "e5522dfe" },
+    // VISOR YELLOW
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "f9e1a3fe", "a85636fe" : "ffc971fe", "6f2919fe" : "f2ac3cfe" },
+    // VISOR GREEN
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "8bffd5fe", "a85636fe" : "00f589fe", "6f2919fe" : "00a85bfe" },
+    // VISOR BLUE
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "beccfffe", "a85636fe" : "96affcfe", "6f2919fe" : "647cf6fe" },
+    // VISOR PURPLE
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "dbc5fffe", "a85636fe" : "a16bfffe", "6f2919fe" : "7830fffe" },
+    // VISOR PINK
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "fccbf2fe", "a85636fe" : "f9ace3fe", "6f2919fe" : "df50b7fe" },
+    // VISOR BROWN
+    { "ffca8afe" : "fffffffe", "e0975cfe" : "c8ab89fe", "a85636fe" : "aa865cfe", "6f2919fe" : "a36d45fe" }
+  ]
+}
