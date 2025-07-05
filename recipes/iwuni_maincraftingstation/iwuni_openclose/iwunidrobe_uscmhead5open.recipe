@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_uscmhead5", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_uscmhead5open", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_openclosed" ]
+}
