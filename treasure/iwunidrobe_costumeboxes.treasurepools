@@ -119,6 +119,46 @@
    ]
   ],
 
+  "iwunidrobe_stylishsuit2boxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_stylesuit2chest"},
+        {"weight" : 1, "item" : "iwunidrobe_stylesuit2legs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_spacescientist1box" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_spacescientist1chest"},
+        {"weight" : 1, "item" : "iwunidrobe_spacescientist1legs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_spacescientist2box" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_spacescientist2chest"},
+        {"weight" : 1, "item" : "iwunidrobe_spacescientist2legs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_spacescientist3box" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_spacescientist3chest"},
+        {"weight" : 1, "item" : "iwunidrobe_spacescientist3legs"}
+      ]
+    }
+   ]
+  ],
+
   // ================================
   //     Space Boxes - Starpilot
   // ================================
@@ -391,6 +431,16 @@
     }]
   ],
 
+  "iwunidrobe_cultistscientist1boxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_cultistscientist1chest"},
+        {"weight" : 1, "item" : "iwunidrobe_cultistscientist1legs"}
+      ]
+    }
+   ]
+  ],
+
   "iwunidrobe_acolytelootbox" : [
     [0, {
       "fill" : [
@@ -481,7 +531,55 @@
       "allowDuplication" : false
     }]
   ],
-  
+
+  "iwunidrobe_mnkgheadwearboxloot" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.3, "item" : "iwunidrobe_mkngvisor"},
+        {"weight" : 0.3, "item" : "iwunidrobe_mnkgassassinhead"},
+        {"weight" : 0.3, "item" : "iwunidrobe_mnkgglasseshead"},
+        {"weight" : 0.3, "item" : "iwunidrobe_mnkgpilothead"},
+        {"weight" : 0.3, "item" : "iwunidrobe_mnkgscouthead"},
+        {"weight" : 0.3, "item" : "iwunidrobe_headimplant"}
+      ],
+      "poolRounds" : [
+        [0.9, 1],
+        [0.02, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  "iwunidrobe_novakidstuffboxloot" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.3, "item" : "iwunidrobe_novahat1"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novahat2"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novahat3"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novahat4"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novahat5"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novahat6"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novahat7"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novamask1"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novamask2"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novamask3"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novamask4"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novamask5"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novamask6"},
+        {"weight" : 0.3, "item" : "iwunidrobe_novamask7"},
+        {"weight" : 0.3, "item" : "iwunidrobe_copperlanternback"},
+        {"weight" : 0.3, "item" : "iwunidrobe_dynamitebundle"},
+        {"weight" : 0.3, "item" : "iwunidrobe_minerbackpack"},
+        {"weight" : 0.3, "item" : "iwunidrobe_minerbackpackalt"}
+      ],
+      "poolRounds" : [
+        [0.8, 2],
+        [1.5, 3],
+        [0.5, 4]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
   
   // ================================
   //       Unique/Generic Boxes
@@ -632,6 +730,75 @@
       "fill" : [
         {"weight" : 1, "item" : "iwunidrobe_mnkggeneralchest"},
         {"weight" : 1, "item" : "iwunidrobe_mnkggenerallegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_mnkgheadwearboxloot" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.3, "item" : "iwunidrobe_mkngvisor"},
+        {"weight" : 0.3, "item" : "iwunidrobe_mnkgassassinhead"},
+        {"weight" : 0.3, "item" : "iwunidrobe_mnkgglasseshead"},
+        {"weight" : 0.3, "item" : "iwunidrobe_mnkgpilothead"},
+        {"weight" : 0.3, "item" : "iwunidrobe_mnkgscouthead"},
+        {"weight" : 0.3, "item" : "iwunidrobe_headimplant"}
+      ],
+      "poolRounds" : [
+        [0.9, 1],
+        [0.02, 2]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
+  // ================================
+  //      Races - Unique Boxes
+  // ================================  
+
+
+  "iwunidrobe_mk7outriderboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_mk7outriderhead"},
+        {"weight" : 1, "item" : "iwunidrobe_mk7outriderchest"},
+        {"weight" : 1, "item" : "iwunidrobe_mk7outriderpants"},
+        {"weight" : 1, "item" : "iwunidrobe_mk7outriderback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_jailbirdboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_jailbirdhead"},
+        {"weight" : 1, "item" : "iwunidrobe_jailbirdchest"},
+        {"weight" : 1, "item" : "iwunidrobe_jailbirdlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_prospectorboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_prospectorhead"},
+        {"weight" : 1, "item" : "iwunidrobe_prospectorchest"},
+        {"weight" : 1, "item" : "iwunidrobe_prospectorpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_trapperboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_trapperheada"},
+        {"weight" : 1, "item" : "iwunidrobe_trapperheadb"},
+        {"weight" : 1, "item" : "iwunidrobe_trapperchest"},
+        {"weight" : 1, "item" : "iwunidrobe_trapperlegs"}
       ]
     }
    ]
