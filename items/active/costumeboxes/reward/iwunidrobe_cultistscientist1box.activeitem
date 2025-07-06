@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_cultistscientist1box",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "iwuniCostumeSet",
+  "description" : "A clean and stylish I.V.A suit alongside a laboratory coat.",
+  "shortdescription" : "Stylish Scientist Suit",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_cultistscientist1box.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "cultistscientist1icon.png",
+  "animation" : "iwunidrobe_cultistloot.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_cultistscientist1boxloot",
+    "level" : 1
+  }
+}

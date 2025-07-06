@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_spacescientist2box",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "iwuniCostumeSet",
+  "description" : "A clean space suit alongside a laboratory coat.",
+  "shortdescription" : "Space Scientist Suit",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_spacescientist2box.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "spacescientist2icon.png",
+  "animation" : "iwunidrobe_genericspacebox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_spacescientist2boxloot",
+    "level" : 1
+  }
+}

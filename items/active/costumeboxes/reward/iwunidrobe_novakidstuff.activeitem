@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_novakidstuffbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "mysteriousReward",
+  "description" : "There is a bunch of Novakid clothing stuff in here. Careful with the dynamite!",
+  "shortdescription" : "^orange;Novakid Clothing^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_cultistlootbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "novakidstufficon.png",
+  "animation" : "iwunidrobe_novakidstuff.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_novakidstuffboxloot",
+    "level" : 1
+  }
+}

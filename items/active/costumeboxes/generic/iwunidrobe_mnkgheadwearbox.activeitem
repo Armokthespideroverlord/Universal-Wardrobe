@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_mnkgheadwearbox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "There is some Miniknog headwear in this box, what could be?",
+  "shortdescription" : "Miniknog Headwear",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_mnkgcolonelbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "mnkgheadwearicon.png",
+  "animation" : "iwunidrobe_miniknog.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_mnkgheadwearboxloot",
+    "level" : 1
+  }
+}

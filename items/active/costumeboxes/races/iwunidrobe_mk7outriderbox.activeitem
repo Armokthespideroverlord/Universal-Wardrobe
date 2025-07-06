@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_mk7outriderbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "iwuniCostumeSet",
+  "description" : "A fully functional mkVII Outrider set, sealed in a wellkept package.",
+  "shortdescription" : "MkVII Outrider Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_mk7outriderbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "mk7outridericon.png",
+  "animation" : "iwunidrobe_humanbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_mk7outriderboxloot",
+    "level" : 1
+  }
+}
