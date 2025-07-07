@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "jumpsuitchest", "count" : 1 },
+    { "item" : "jumpsuitlegs", "count" : 1 },
+    { "item" : "fabric", "count" : 15 },
+    { "item" : "whitedye", "count" : 1 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_spacescientist2box", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}
