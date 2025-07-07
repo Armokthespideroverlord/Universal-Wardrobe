@@ -60,7 +60,6 @@
     [1, {
       "pool" : [
         {"weight" : 0.04, "item" : "iwunidrobe_banditlootbox"},
-        {"weight" : 0.01, "item" : "iwunidrobe_banditchestlootbox"},
         {"weight" : 0.005, "pool" : "iwunidrobe_uniquecustomeboxes"}
       ],
       "poolRounds" : [
@@ -75,8 +74,7 @@
   "iwunidrobe_cultistTreasure" : [
     [1, {
       "pool" : [
-        {"weight" : 0.04, "item" : "iwunidrobe_cultistlootbox"},
-        {"weight" : 0.02, "item" : "iwunidrobe_cultistchestlootbox"}
+        {"weight" : 0.04, "item" : "iwunidrobe_cultistlootbox"}
       ],
       "poolRounds" : [
         [0.70, 0],
@@ -117,8 +115,8 @@
   "iwarmory_miniknogGeneralTreasure" : [
     [1, {
       "pool" : [
-        {"weight" : 0.10, "item" : "iwunidrobe_mnkggeneralchest"},
-        {"weight" : 0.10, "item" : "iwunidrobe_mnkggenerallegs"}
+        {"weight" : 0.05, "item" : "iwunidrobe_mnkgcolonelbox"},
+        {"weight" : 0.05, "item" : "iwunidrobe_mnkggeneralbox"}
       ],
       "poolRounds" : [
         [0.70, 0],
@@ -133,7 +131,6 @@
     [1, {
       "pool" : [
         {"weight" : 0.03, "item" : "iwunidrobe_cultistlootbox"},
-        {"weight" : 0.02, "item" : "iwunidrobe_cultistchestlootbox"},
         {"weight" : 0.02, "item" : "iwunidrobe_cultistscientist1box"}
       ],
       "poolRounds" : [
