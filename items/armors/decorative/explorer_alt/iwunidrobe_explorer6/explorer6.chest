@@ -73,5 +73,10 @@
     { "ffca8a" : "eab3db", "e0975c" : "d35eae", "a85636" : "97276d", "6f2919" : "59163f", "ff575d" : "9efffc", "e61c24" : "1ce0e6", "a60b08" : "088fa6" },
     // BROWN
     { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13", "ff575d" : "de4777", "e61c24" : "b31e4d", "a60b08" : "611632" }
+  ],
+
+  "learnBlueprintsOnPickup" : [
+    "iwunidrobe_explorer6achest",
+    "iwunidrobe_explorer6bchest"
   ]
 }
