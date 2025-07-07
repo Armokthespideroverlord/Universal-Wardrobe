@@ -15,14 +15,7 @@
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": {
-            "item": "iwunidrobe_spacescientist2chest"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/defaultBlueprints/tier1/-",
-        "value": {
-            "item": "iwunidrobe_spacescientist2legs"
+            "item": "iwunidrobe_spacescientist2box"
         }
     },
 
