@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_explorer3chest", "count" : 1 },
+    { "item" : "copperbar", "count" : 2 },
+    { "item" : "ironbar", "count" : 2 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_explorer3bchest", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}
