@@ -185,6 +185,28 @@
     "value": {
       "weight": 0.0003,
       "item": [
+        "iwunidrobe_stranglerwrap",
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/costume/0/1/pool/-",
+    "value": {
+      "weight": 0.0003,
+      "item": [
+        "iwunidrobe_stranglerwrapalt",
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/costume/0/1/pool/-",
+    "value": {
+      "weight": 0.0003,
+      "item": [
         "iwunidrobe_banditlootbox",
         1
       ]

@@ -3,16 +3,24 @@
         "op": "add",
         "path": "/spaceCostume/0/1/pool/-",
         "value": {
-            "weight": 1,
-            "item": "iwunidrobe_spacescientist2chest"
+            "weight": 0.03,
+            "item": "iwunidrobe_spacescientist1box"
         }
     },
     {
         "op": "add",
         "path": "/spaceCostume/0/1/pool/-",
         "value": {
-            "weight": 1,
-            "item": "iwunidrobe_spacescientist2legs"
+            "weight": 0.03,
+            "item": "iwunidrobe_spacescientist2box"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 0.03,
+            "item": "iwunidrobe_spacescientist3box"
         }
     },
     {
@@ -69,6 +77,14 @@
         "value": {
             "weight": 0.03,
             "item": "iwunidrobe_stylishsuit1box"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/0/1/pool/-",
+        "value": {
+            "weight": 0.03,
+            "item": "iwunidrobe_stylishsuit2box"
         }
     },
     {
