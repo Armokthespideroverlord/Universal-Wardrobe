@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "leather", "count" : 3 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_trapperheada", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

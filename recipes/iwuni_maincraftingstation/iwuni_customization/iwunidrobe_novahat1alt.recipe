@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_novahat1", "count" : 1 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_novahat1alt", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

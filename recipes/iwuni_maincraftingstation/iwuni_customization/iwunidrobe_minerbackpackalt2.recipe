@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_minerbackpack", "count" : 1 },
+    { "item" : "silverpickaxe", "count" : 1 },
+    { "item" : "iwunidrobe_copperlanternback", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_minerbackpackalt", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}
