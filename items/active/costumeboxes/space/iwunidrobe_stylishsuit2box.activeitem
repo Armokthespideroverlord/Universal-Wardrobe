@@ -24,5 +24,9 @@
   "treasure" : {
     "pool" : "iwunidrobe_stylishsuit2boxloot",
     "level" : 1
-  }
+  },
+
+  "learnBlueprintsOnPickup" : [
+    "iwunidrobe_spacescientist3box"
+  ]
 }
