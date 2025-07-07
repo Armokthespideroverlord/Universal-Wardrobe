@@ -8,7 +8,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "Some folks prefer the sounds of a lively Mooshi herd over a rowdy gun fight.",
-  "shortdescription" : "Rancher Hat",
+  "shortdescription" : "Plain Rancher Hat",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -8,7 +8,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "This hat's a little bent. Fortunately, it makes for a unique style.",
-  "shortdescription" : "Lookout Hat",
+  "shortdescription" : "Plain Lookout Hat",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

@@ -8,7 +8,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "This hat looks like it would belong to someone who nicknamed themselves 'Hawk-Eye'.",
-  "shortdescription" : "Sharpshooter Hat",
+  "shortdescription" : "Plain Sharpshooter Hat",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

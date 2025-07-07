@@ -8,7 +8,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "A good look for dealing both cards and lead.",
-  "shortdescription" : "Dealer Hat",
+  "shortdescription" : "Plain Dealer Hat",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",

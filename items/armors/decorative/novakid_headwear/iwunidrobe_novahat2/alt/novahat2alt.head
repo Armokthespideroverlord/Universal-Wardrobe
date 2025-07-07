@@ -8,7 +8,7 @@
   "rarity" : "Common",
   "category" : "headwear",
   "description" : "Either worn by bankers or some gentlefolk who try to bring manners to the wild.",
-  "shortdescription" : "Gentlegunner Hat",
+  "shortdescription" : "Plain Gentlegunner Hat",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
