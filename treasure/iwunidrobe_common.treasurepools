@@ -28,7 +28,8 @@
       "pool" : [
         {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkgheavybox", 1]},
         {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkglightbox", 1]},
-        {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkgurbanbox", 1]}
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkgurbanbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkgheadwearbox", 1]}
       ],
       "poolRounds" : [
         [1, 1]

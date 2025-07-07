@@ -134,8 +134,7 @@
       "pool" : [
         {"weight" : 0.03, "item" : "iwunidrobe_cultistlootbox"},
         {"weight" : 0.02, "item" : "iwunidrobe_cultistchestlootbox"},
-        {"weight" : 0.05, "item" : "iwunidrobe_cultistscientist1chest"},
-        {"weight" : 0.05, "item" : "iwunidrobe_cultistscientist1legs"}
+        {"weight" : 0.02, "item" : "iwunidrobe_cultistscientist1box"}
       ],
       "poolRounds" : [
         [0.70, 0],
@@ -165,6 +164,20 @@
     [1, {
       "pool" : [
         {"weight" : 0.02, "item" : "iwunidrobe_wildlinglootbox"}
+      ],
+      "poolRounds" : [
+        [0.70, 0],
+        [0.25, 1],
+        [0.05, 2]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+
+  "iwunidrobe_novathreatBaseTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.02, "item" : "iwunidrobe_novakidstuffbox"}
       ],
       "poolRounds" : [
         [0.70, 0],
