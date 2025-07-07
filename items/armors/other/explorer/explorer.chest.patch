@@ -1,0 +1,15 @@
+[
+    {
+        "op": "test",
+        "path": "/learnBlueprintsOnPickup",
+        "inverse": true
+    },
+    {
+        "op": "add",
+        "path": "/learnBlueprintsOnPickup",
+        "value": [
+            "iwunidrobe_explorer1achest",
+            "iwunidrobe_explorer1bchest"
+        ]
+    }
+]
