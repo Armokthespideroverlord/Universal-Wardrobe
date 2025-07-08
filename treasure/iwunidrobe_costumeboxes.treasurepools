@@ -129,7 +129,7 @@
    ]
   ],
 
-  "iwunidrobe_spacescientist1box" : [
+  "iwunidrobe_spacescientist1boxloot" : [
     [0, {
       "fill" : [
         {"weight" : 1, "item" : "iwunidrobe_spacescientist1chest"},
@@ -139,7 +139,7 @@
    ]
   ],
 
-  "iwunidrobe_spacescientist2box" : [
+  "iwunidrobe_spacescientist2boxloot" : [
     [0, {
       "fill" : [
         {"weight" : 1, "item" : "iwunidrobe_spacescientist2chest"},
@@ -149,7 +149,7 @@
    ]
   ],
 
-  "iwunidrobe_spacescientist3box" : [
+  "iwunidrobe_spacescientist3boxloot" : [
     [0, {
       "fill" : [
         {"weight" : 1, "item" : "iwunidrobe_spacescientist3chest"},
