@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "A fully functional mkVII Outrider set, sealed in a wellkept package.",
+  "description" : "A fully functional mkVII Outrider set, sealed in a well-kept package.",
   "shortdescription" : "MkVII Outrider Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
