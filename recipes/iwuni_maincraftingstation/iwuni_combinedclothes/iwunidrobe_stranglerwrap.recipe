@@ -1,9 +1,9 @@
 {
   "input" : [
-    { "item" : "iwunidrobe_stranglerwrapalt", "count" : 1 }
+    { "item" : "iwunidrobe_stranglerwrapalt", "count" : 2 }
 
   ],
   "duration" : 1,
-  "output" : { "item" : "iwunidrobe_stranglerwrap", "count" : 2 },
+  "output" : { "item" : "iwunidrobe_stranglerwrap", "count" : 1 },
   "groups" : [ "iwuni_maincraftingstation", "iwuni_combinedclothes" ]
 }
