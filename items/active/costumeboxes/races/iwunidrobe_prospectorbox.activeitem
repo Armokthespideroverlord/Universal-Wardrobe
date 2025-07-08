@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "A set of clothes fit for mining and prospection activities.",
+  "description" : "A set of clothes fit for mining and prospecting activities.",
   "shortdescription" : "Prospector Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
