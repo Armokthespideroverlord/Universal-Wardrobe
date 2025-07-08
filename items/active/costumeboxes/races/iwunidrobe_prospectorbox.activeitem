@@ -5,8 +5,8 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "A clean jail uniform. Looks like it was taken out from a very old movie.",
-  "shortdescription" : "Jailbird Set",
+  "description" : "A set of clothes fit for mining and prospection activities.",
+  "shortdescription" : "Prospector Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/iwuni_prospectorbox.png"
