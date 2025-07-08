@@ -543,24 +543,6 @@
     }]
   ],
 
-  "iwunidrobe_mnkgheadwearboxloot" : [
-    [0, {
-      "pool" : [
-        {"weight" : 0.3, "item" : "iwunidrobe_mkngvisor"},
-        {"weight" : 0.3, "item" : "iwunidrobe_mnkgassassinhead"},
-        {"weight" : 0.3, "item" : "iwunidrobe_mnkgglasseshead"},
-        {"weight" : 0.3, "item" : "iwunidrobe_mnkgpilothead"},
-        {"weight" : 0.3, "item" : "iwunidrobe_mnkgscouthead"},
-        {"weight" : 0.3, "item" : "iwunidrobe_headimplant"}
-      ],
-      "poolRounds" : [
-        [0.9, 1],
-        [0.02, 2]
-      ],
-      "allowDuplication" : false
-    }]
-  ],
-
   "iwunidrobe_novakidstuffboxloot" : [
     [0, {
       "pool" : [
