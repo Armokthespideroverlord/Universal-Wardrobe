@@ -43,7 +43,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/chest/-",
             "value": {
-                "name": "iwarmory_prisonsuit4chest",
+                "name": "iwunidrobe_prisonsuit4chest",
                 "parameters": {
                     "colorIndex": 5
                 }
