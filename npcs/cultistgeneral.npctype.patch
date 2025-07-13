@@ -170,6 +170,18 @@
                     ]
                 }
             }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/15",
+            "value": {
+                "name": "iwunidrobe_mk7outriderback",
+                "parameters": {
+                    "colorIndex": [
+                        9
+                    ]
+                }
+            }
         }
     ],
     [
@@ -290,6 +302,14 @@
                         "parameters": {
                             "colorIndex": [
                                 2
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_mk7outriderback",
+                        "parameters": {
+                            "colorIndex": [
+                                9
                             ]
                         }
                     },
