@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_mutineerbox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "A kit of military clothes, used by the rebeld soldiers of the USCM.",
+  "shortdescription" : "Makeshift Mutineer Clothes",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_mutineerbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "mutineericon.png",
+  "animation" : "iwunidrobe_uscm.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_mutineerboxloot",
+    "level" : 1
+  }
+}

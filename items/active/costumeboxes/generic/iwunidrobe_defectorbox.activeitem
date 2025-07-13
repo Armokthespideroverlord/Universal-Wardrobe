@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_defectorbox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "A bunch of modified Antiriot items, used by the defectors of the USCM.",
+  "shortdescription" : "Makeshift Defector Armor",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_defectorbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "defectoricon.png",
+  "animation" : "iwunidrobe_uscm.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_defectorboxloot",
+    "level" : 1
+  }
+}
