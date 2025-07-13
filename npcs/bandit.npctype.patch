@@ -201,7 +201,21 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
+                "name": "iwunidrobe_bandithead4aopen"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
                 "name": "iwunidrobe_bandithead4b"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead4bopen"
             }
         },
         {
