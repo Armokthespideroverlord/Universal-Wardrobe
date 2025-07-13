@@ -273,6 +273,20 @@
             "value": {
                 "name": "iwunidrobe_cheapsuitalthead"
             }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_stranglerwrap"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_stranglerwrapalt"
+            }
         }
     ],
     [
