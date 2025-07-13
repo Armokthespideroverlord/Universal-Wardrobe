@@ -60,7 +60,23 @@
     [1, {
       "pool" : [
         {"weight" : 0.04, "item" : "iwunidrobe_banditlootbox"},
-        {"weight" : 0.005, "pool" : "iwunidrobe_uniquecustomeboxes"}
+        {"weight" : 0.005, "pool" : "iwunidrobe_uniquecustomeboxes"},
+        {"weight" : 0.002, "pool" : "iwunidrobe_uscmcustomeboxes"}
+      ],
+      "poolRounds" : [
+        [0.90, 0],
+        [0.20, 1],
+        [0.01, 2]
+      ],
+      "allowDuplication" : true
+    }]
+  ],
+
+  "iwunidrobe_uscmThreatBaseTreasure" : [
+    [1, {
+      "pool" : [
+        {"weight" : 0.04, "item" : "iwunidrobe_banditlootbox"},
+        {"weight" : 0.005, "pool" : "iwunidrobe_uscmcustomeboxes"}
       ],
       "poolRounds" : [
         [0.90, 0],

@@ -578,25 +578,6 @@
   //       Unique/Generic Boxes
   // ================================
 
-  "iwunidrobe_armorRandomBoxLoot" : [
-    [0, {
-      "pool" : [
-        {"weight" : 0.3, "pool" : "iwunidrobe_brigandRandom"},
-        {"weight" : 0.3, "pool" : "iwunidrobe_goldenRandom"},
-        {"weight" : 0.3, "pool" : "iwunidrobe_hellionRandom"},
-        {"weight" : 0.3, "pool" : "iwunidrobe_ironcladRandom"},
-        {"weight" : 0.3, "pool" : "iwunidrobe_technomancerRandom"},
-        {"weight" : 0.3, "pool" : "iwunidrobe_neoexplorerRandom"}
-      ],
-      "poolRounds" : [
-        [1, 1],
-        [0.001, 2]
-      ],
-      "allowDuplication" : false
-    }]
-  ],
-
-
   "iwunidrobe_hidecosmeticboxloot" : [
     [0, {
       "fill" : [
@@ -744,6 +725,29 @@
       ],
       "allowDuplication" : false
     }]
+  ],
+
+  "iwunidrobe_uscmdefectorboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_defectorhead"},
+        {"weight" : 1, "item" : "iwunidrobe_defectorchest"},
+        {"weight" : 1, "item" : "iwunidrobe_defectorpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_uscmmutineerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_mutineerheadb"},
+        {"weight" : 1, "item" : "iwunidrobe_mutineerheada"},
+        {"weight" : 1, "item" : "iwunidrobe_mutineerchest"},
+        {"weight" : 1, "item" : "iwunidrobe_mutineerpants"}
+      ]
+    }
+   ]
   ],
 
   // ================================
