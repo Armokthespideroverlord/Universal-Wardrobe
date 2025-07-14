@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
-  "description" : "A bunch of modified Antiriot items, used by the defectors of the USCM.",
+  "description" : "A bunch of modified Antiriot items, used by defectors from the USCM.",
   "shortdescription" : "Makeshift Defector Armor",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
