@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 5 },
+    { "item" : "reddye", "count" : 1 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_mutineerheadb", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}
