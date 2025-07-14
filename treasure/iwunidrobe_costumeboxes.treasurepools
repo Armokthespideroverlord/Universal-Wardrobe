@@ -772,6 +772,34 @@
    ]
   ],
 
+  "iwunidrobe_uscmheadwearboxloot" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead1"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead2"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead3"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead4"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead5"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead6"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead7"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead8"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead9"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead9alt"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead10"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead11"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead12"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead13"},
+        {"weight" : 0.3, "item" : "iwunidrobe_uscmhead14"}
+      ],
+      "poolRounds" : [
+        [0.8, 2],
+        [1.5, 3],
+        [0.5, 4]
+      ],
+      "allowDuplication" : false
+    }]
+  ],
+
   // ================================
   //      Races - Unique Boxes
   // ================================  

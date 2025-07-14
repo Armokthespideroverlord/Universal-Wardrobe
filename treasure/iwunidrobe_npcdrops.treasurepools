@@ -75,7 +75,6 @@
   "iwunidrobe_uscmThreatBaseTreasure" : [
     [1, {
       "pool" : [
-        {"weight" : 0.05, "item" : "iwunidrobe_banditlootbox"},
         {"weight" : 0.005, "pool" : "iwunidrobe_uscmcustomeboxes"}
       ],
       "poolRounds" : [

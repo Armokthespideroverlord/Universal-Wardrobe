@@ -29,7 +29,8 @@
         {"weight" : 0.0003, "item" : [ "iwunidrobe_defectorbox", 1]},
         {"weight" : 0.0003, "item" : [ "iwunidrobe_mutineerbox", 1]},
         {"weight" : 0.0003, "item" : [ "iwunidrobe_runawaybox", 1]},
-        {"weight" : 0.0003, "item" : [ "iwunidrobe_stalwartbox", 1]}
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_stalwartbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_uscmheadwearbox", 1]}
       ],
       "poolRounds" : [
         [1, 1]
