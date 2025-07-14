@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_mutineerheada", "count" : 1 },
+    { "item" : "iwunidrobe_mutineerheadb", "count" : 1 },
+    { "item" : "iwunidrobe_banditvisor7", "count" : 1 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_uscmhead14", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_combinedclothes" ]
+}
