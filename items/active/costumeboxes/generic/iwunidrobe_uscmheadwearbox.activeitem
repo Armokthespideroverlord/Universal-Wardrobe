@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_uscmheadwearbox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Rare",
+  "category" : "iwuniCostumeSet",
+  "description" : "There is some USCM headwear in this box, what could be?",
+  "shortdescription" : "Makeshift USCM Headwear",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_mnkgheadwearbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "uscmheadwearicon.png",
+  "animation" : "iwunidrobe_uscm.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_uscmheadwearboxloot",
+    "level" : 1
+  }
+}
