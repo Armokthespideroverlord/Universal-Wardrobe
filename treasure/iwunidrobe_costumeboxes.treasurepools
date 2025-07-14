@@ -750,6 +750,28 @@
    ]
   ],
 
+  "iwunidrobe_uscmrunawayboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_runawayhead"},
+        {"weight" : 1, "item" : "iwunidrobe_runawaychest"},
+        {"weight" : 1, "item" : "iwunidrobe_runawaypants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_uscmstalwartboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_stalwarthead"},
+        {"weight" : 1, "item" : "iwunidrobe_stalwartchest"},
+        {"weight" : 1, "item" : "iwunidrobe_stalwartpants"}
+      ]
+    }
+   ]
+  ],
+
   // ================================
   //      Races - Unique Boxes
   // ================================  
