@@ -1,19 +1,19 @@
 {
-  "itemName" : "iwunidrobe_defectorbox",
+  "itemName" : "iwunidrobe_stalwartbox",
   "price" : 1500,
   "level" : 1,
   "maxStack" : 1000,
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
-  "description" : "A bunch of modified Antiriot items, used by the defectors of the USCM.",
-  "shortdescription" : "Makeshift Defector Armor",
+  "description" : "This is a USCM Stalwart suit, still sealed in its original case.",
+  "shortdescription" : "Stalwart Space Uniform",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
-    "objectImage" : "/interface/iwuni_costumebox/iwuni_defectorbox.png"
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_stalwartbox.png"
   },
   "twoHanded" : true,
 
-  "inventoryIcon" : "defectoricon.png",
+  "inventoryIcon" : "stalwarticon.png",
   "animation" : "iwunidrobe_uscm.animation",
   "animationCustom" : {},
   "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
@@ -22,7 +22,7 @@
   "fireOffset" : [0.0, 0.0],
 
   "treasure" : {
-    "pool" : "iwunidrobe_uscmdefectorboxloot",
+    "pool" : "iwunidrobe_stalwartboxloot",
     "level" : 1
   }
 }
