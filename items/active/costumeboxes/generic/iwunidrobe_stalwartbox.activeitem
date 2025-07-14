@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Rare",
   "category" : "iwuniCostumeSet",
-  "description" : "This is a USCM Stalwart suit, still sealed in its original case.",
+  "description" : "A USCM Stalwart suit, still sealed in its original case.",
   "shortdescription" : "Stalwart Space Uniform",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
