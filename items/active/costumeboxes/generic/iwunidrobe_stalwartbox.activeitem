@@ -22,7 +22,7 @@
   "fireOffset" : [0.0, 0.0],
 
   "treasure" : {
-    "pool" : "iwunidrobe_stalwartboxloot",
+    "pool" : "iwunidrobe_uscmstalwartboxloot",
     "level" : 1
   }
 }
