@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_uscmgreendye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_uscmgreendye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#8c9d48;Military Green^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "8c9d48", "e0975c" : "596c30", "a85636" : "394c20", "6f2919" : "1c2d11"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

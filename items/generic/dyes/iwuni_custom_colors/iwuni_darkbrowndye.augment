@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_darkbrowndye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "clothingDye",
+  "inventoryIcon" : "iwuni_darkbrowndye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#8d6456;Dark Brown^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "8d6456", "e0975c" : "704f3c", "a85636" : "513b2d", "6f2919" : "2b1812"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}
