@@ -22,7 +22,7 @@
   "fireOffset" : [0.0, 0.0],
 
   "treasure" : {
-    "pool" : "iwunidrobe_mutineerboxloot",
+    "pool" : "iwunidrobe_uscmmutineerboxloot",
     "level" : 1
   }
 }
