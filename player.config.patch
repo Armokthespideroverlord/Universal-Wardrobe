@@ -51,7 +51,7 @@
     },
 
 //UNIVERSAL WARDROBE - DYES
-
+//CUSTOM
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -101,9 +101,37 @@
             "item": "iwuni_oldleatherdye"
         }
     },
+        {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_darkbrowndye"
+        }
+    },
+        {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_olivegreendye"
+        }
+    },
+        {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_uscmgreendye"
+        }
+    },
+        {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_winereddye"
+        }
+    },
 
 
-
+//OLD PALETTE
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -183,7 +211,7 @@
     },
 
 
-
+//BRIGHT PALETTE
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
@@ -264,7 +292,7 @@
 
 
 
-
+//SPACE PALETTE
     {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
