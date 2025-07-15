@@ -9,7 +9,7 @@
   "shortdescription" : "Makeshift USCM Headwear",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
-    "objectImage" : "/interface/iwuni_costumebox/iwuni_mnkgheadwearbox.png"
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_uscmheadwearbox.png"
   },
   "twoHanded" : true,
 
