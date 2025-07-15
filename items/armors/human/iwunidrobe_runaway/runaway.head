@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "headwear",
   "description" : "An old USCM standard combat helmet adorned with tactical attachments.",
-  "shortdescription" : "Runaway Tactic Helmet",
+  "shortdescription" : "Runaway Tactical Helmet",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
