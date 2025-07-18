@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novahat2",
+                "parameters": {
+                    "colorIndex": 11
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novahat2alt",
+                "parameters": {
+                    "colorIndex": 11
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novahat7",
+                "parameters": {
+                    "colorIndex": 11
+                }
+            }
+        }
+    ]
+]

@@ -61,6 +61,16 @@
             "path": "/industrialmerchant/0/1/-",
             "value": {
                 "item": {
+                    "name": "iwunidrobe_stylishsuit2box"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/industrialmerchant/0/1/-",
+            "value": {
+                "item": {
                     "name": "iwunidrobe_stationsoldierbox"
                 },
                 "rarity": 0.1
@@ -158,6 +168,16 @@
             "value": {
                 "item": {
                     "name": "iwunidrobe_stylishsuit1box"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/astromerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_stylishsuit2box"
                 },
                 "rarity": 0.2
             }
@@ -302,6 +322,15 @@
                     "name": "iwunidrobe_bigbackpack"
                 }
             }
+        },
+        {
+            "op": "add",
+            "path": "/humanclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_mk7outriderbox"
+                }
+            }
         }
     ],
     [
@@ -371,6 +400,81 @@
                         "colorIndex": 11
                     }
                 }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_jailbirdbox"
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_prospectorbox"
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidclothes/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_trapperbox"
+                }
+            }
+        }
+    ],
+
+//MODDED PATCHES - TENANT PACK
+    [
+        {
+            "op": "test",
+            "path": "/kitshopmerchant/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/kitshopmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_defectorbox"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/kitshopmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_mutineerbox"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/kitshopmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_runawaybox"
+                },
+                "rarity": 0.2
+            }
+        },
+        {
+            "op": "add",
+            "path": "/kitshopmerchant/0/1/-",
+            "value": {
+                "item": {
+                    "name": "iwunidrobe_stalwartbox"
+                },
+                "rarity": 0.2
             }
         }
     ]

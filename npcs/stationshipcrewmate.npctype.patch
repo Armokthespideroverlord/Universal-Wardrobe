@@ -1,0 +1,114 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_stationsoldierhead"
+                    },
+                    {
+                        "name": "iwunidrobe_stationsoldieralthead"
+                    },
+                    {
+                        "name": "mechpilothead",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2alt",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_stationsoldierchest"
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_stationsoldierlegs"
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "industrialcrewhead",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                2,
+                                3
+                            ]
+                        }
+                    },
+                    {
+                        "name": "glasses5head",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                3
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2alt",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                3
+                            ]
+                        }
+                    },
+                    {
+                        "name": "devhead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_stylesuit2chest"
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_stylesuit2legs"
+                    }
+                ]
+            }
+        }
+    ]
+]

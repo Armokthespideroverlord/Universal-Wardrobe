@@ -1,0 +1,203 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/matchColorIndices",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/matchColorIndices",
+            "value": true
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "symbiotehead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist1chest",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist1legs",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10
+                            ]
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpistol",
+                    "npcdagger",
+                    "npcmachinepistol"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "symbiotehead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist2chest",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist2legs",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10
+                            ]
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpistol",
+                    "npcdagger",
+                    "npcmachinepistol"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "symbiotehead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist3chest",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist3legs",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10
+                            ]
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpistol",
+                    "npcdagger",
+                    "npcmachinepistol"
+                ]
+            }
+        }
+    ]
+]

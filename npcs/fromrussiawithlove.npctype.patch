@@ -1,0 +1,294 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_regularplssback",
+                "parameters": {
+                    "colorIndex": 4
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "breathprotectionback",
+                "parameters": {
+                    "colorIndex": 4
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "spacesuitback",
+                "parameters": {
+                    "colorIndex": 4
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_astroplssback",
+                "parameters": {
+                    "colorIndex": 4
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_oldbreatheppback",
+                "parameters": {
+                    "colorIndex": 4
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "ushankahead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "bearhead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "humantier1head",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "industrialcrewhead",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "foundrygoggleshead",
+                        "parameters": {
+                            "colorIndex": [
+                                4
+                            ]
+                        }
+                    },
+                    {
+                        "name": "visorhead",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_cheapsuithead",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_cheapsuitalthead",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_cheapsuitchest",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_cheapsuitlegs",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "coldprotectionback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "breathprotectionback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "spacesuitback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_astroplssback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "ushankahead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "bearhead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "humantier1head",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "industrialcrewhead",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "foundrygoggleshead",
+                        "parameters": {
+                            "colorIndex": [
+                                4
+                            ]
+                        }
+                    },
+                    {
+                        "name": "visorhead",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_evasuithead",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_evasuitalthead",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_evasuitchest",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_evasuitlegs",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "coldprotectionback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "breathprotectionback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "spacesuitback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_astroplssback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+]
