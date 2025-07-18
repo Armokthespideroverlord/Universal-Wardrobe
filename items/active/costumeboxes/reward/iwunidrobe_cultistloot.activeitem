@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "mysteriousReward",
   "description" : "Luckily there's still something to be salvaged.",
-  "shortdescription" : "^#ffffa7;Cultist's Headwear Spoils^reset;",
+  "shortdescription" : "^#ffffa7;Cultist's Spoils^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/iwuni_cultistlootbox.png"
