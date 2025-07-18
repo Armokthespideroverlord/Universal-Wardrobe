@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "mysteriousReward",
   "description" : "Hopefully there's something valuable in here.",
-  "shortdescription" : "^red;Bandit's Headwear Plunder^reset;",
+  "shortdescription" : "^red;Bandit's Plunder^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/iwuni_banditlootbox.png"
