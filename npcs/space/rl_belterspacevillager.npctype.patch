@@ -1,0 +1,1552 @@
+[
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/0",
+            "value": {
+                "name": "industrialcrewhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacehelmet4",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        4,
+                        5,
+                        6,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacehelmet2",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacehelmet2alt",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/1/head",
+            "value": [
+                {
+                    "name": "iwunidrobe_astrosuithead",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet5",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            4,
+                            5,
+                            6,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet3",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet1",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet2",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet2alt",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet6",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet7",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet8",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/1/back",
+            "value": [
+                {
+                    "name": "spacesuitback",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_regularplssback",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_oldbreatheppback",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "oxygentank",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "survivalgearback",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "foundryback",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "hikerback",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            5,
+                            6,
+                            7,
+                            8,
+                            9,
+                            10,
+                            11
+                        ]
+                    }
+                },
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/3/head",
+            "value": [
+                {
+                    "name": "spacesuithead",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            5,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_cheapsuitalthead",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            5,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_cheapsuithead",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            5,
+                            11
+                        ]
+                    }
+                },
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/3/back",
+            "value": [
+                {
+                    "name": "spacesuitback",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            5,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_regularplssback",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            5,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_oldbreatheppback",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            5,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "oxygentank",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            5,
+                            11
+                        ]
+                    }
+                },
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/3/chest/0/parameters/colorIndex/1",
+            "value": 1
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/3/chest/0/parameters/colorIndex/-",
+            "value": 11
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/3/legs/0/parameters/colorIndex/1",
+            "value": 1
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/3/legs/0/parameters/colorIndex/-",
+            "value": 11
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/4/head",
+            "value": [
+                {
+                    "name": "iwunidrobe_spacehelmet5"
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet1",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            5,
+                            7
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet6",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            5,
+                            7
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet7",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            5,
+                            7
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet8",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            5,
+                            7
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet9",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            5,
+                            7
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet10",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            5,
+                            7
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_spacehelmet4",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            5,
+                            7
+                        ]
+                    }
+                },
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_cheapsuitalthead"
+                    },
+                    {
+                        "name": "iwunidrobe_cheapsuithead"
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet6",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                3,
+                                5,
+                                6,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet7",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                3,
+                                5,
+                                6,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet4",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                9,
+                                10,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet5"
+                    },
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_cheapsuitchest",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_cheapsuitlegs",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "spacesuitback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "oxygentank",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    "",
+                    "",
+                    ""
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_astrosuithead",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                9,
+                                10,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2alt",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                9,
+                                10,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet6",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                3,
+                                5,
+                                6,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet7",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                3,
+                                5,
+                                6,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet5"
+                    },
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_stylesuit1chest",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_stylesuit1legs",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "spacesuitback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "oxygentank",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "survivalgearback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "foundryback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "hikerback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_spacehelmet2",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                9,
+                                10,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2alt",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6,
+                                7,
+                                9,
+                                10,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet6",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                3,
+                                5,
+                                6,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet7",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                3,
+                                5,
+                                6,
+                                8
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet5"
+                    },
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_stylesuit2chest",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_stylesuit2legs",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "spacesuitback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "oxygentank",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "survivalgearback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "foundryback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "hikerback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                4,
+                                5,
+                                6,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    "",
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_evasuithead",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_evasuitalthead",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet9",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet10",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet4",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_evasuitchest",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_evasuitlegs",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    "",
+                    ""
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_astrosuithead"
+                    },
+                    "",
+                    "",
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_astrosuitchest",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_astrosuitlegs",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_astroplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    },
+                    "",
+                    ""
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "industrialcrewhead"
+                    },
+                    "",
+                    "",
+                    "",
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_safetysuitchest",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_safetysuitlegs",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                8,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_spacehelmet6",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet7",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet8",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet9",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet10",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                11
+                            ]
+                        }
+                    },
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_starpilotchest",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_starpilotpants",
+                        "parameters": {
+                            "colorIndex": [
+                                1,
+                                2,
+                                3,
+                                6,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ]
+]

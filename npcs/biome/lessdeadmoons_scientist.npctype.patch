@@ -1,0 +1,233 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "scientisthead"
+                    },
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist2chest",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist2legs",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpistol"
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "scientisthead"
+                    },
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist2chest",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist2legs",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpistol"
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "scientisthead"
+                    },
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist3chest"
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist3legs"
+                    }
+                ],
+                "primary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/1/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/1/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_spacehelmet1"
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2"
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2alt"
+                    },
+                    {
+                        "name": "iwunidrobe_c1banditvisor8",
+                        "parameters": {
+                            "colorIndex": [
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist2chest",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist2legs",
+                        "parameters": {
+                            "colorIndex": 3
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpistol"
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/1/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_spacehelmet1"
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2"
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2alt"
+                    },
+                    {
+                        "name": "iwunidrobe_c1banditvisor8",
+                        "parameters": {
+                            "colorIndex": [
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist2chest",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist2legs",
+                        "parameters": {
+                            "colorIndex": 4
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpistol"
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/1/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_spacehelmet1"
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2"
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet2alt"
+                    },
+                    {
+                        "name": "iwunidrobe_c1banditvisor8",
+                        "parameters": {
+                            "colorIndex": [
+                                4,
+                                8
+                            ]
+                        }
+                    },
+                    ""
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist3chest"
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist3legs"
+                    }
+                ],
+                "primary": [
+                    "npcpistol"
+                ]
+            }
+        }
+    ]
+]

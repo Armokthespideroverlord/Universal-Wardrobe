@@ -1,0 +1,539 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/avian/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/avian/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        4,
+                        5,
+                        6,
+                        7,
+                        8
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/apex/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": 1
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/apex/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": 2
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/apex/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": 3
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/apex/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": 8
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/apex/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": 9
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/floran/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/floran/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/floran/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/floran/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/floran/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/floran/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/floran/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/floran/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/floran/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/glitch/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/glitch/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/glitch/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/glitch/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/glitch/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/glitch/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/human/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/human/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        8,
+                        9,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/human/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        8,
+                        9,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/human/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        8,
+                        9,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/human/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        8,
+                        9,
+                        11
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/hylotl/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/hylotl/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/hylotl/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/hylotl/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/hylotl/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/novakid/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/novakid/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_flatcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        8,
+                        9,
+                        11
+                    ]
+                }
+            }
+        }
+    ]
+]

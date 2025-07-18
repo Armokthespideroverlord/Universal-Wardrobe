@@ -1,0 +1,91 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "humanskullhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "apexskullhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "avianskullhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "apexskullhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "hylotlskullhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_skullalpacahead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_skulldeadbeathead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_skullfeneroxhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_skullfrogghead"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "spearback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "jeffback"
+            }
+        }
+    ]
+]

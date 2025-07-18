@@ -1,0 +1,61 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "mininghathead",
+                        "parameters": {
+                            "colorIndex": [
+                                5,
+                                6
+                            ]
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_prospectorchest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_minerbackpack",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                11
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_copperlanternback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                11
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_prospectorpants",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+]

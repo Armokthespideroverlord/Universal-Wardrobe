@@ -1,0 +1,260 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacehelmet1",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacehelmet2",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacehelmet2alt",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacehelmet5",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacehelmet6",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_cheapsuithead",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_cheapsuitalthead",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacepilot",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacebiker",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_outlandishvisor",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_cheapsuitchest",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        3,
+                        5,
+                        6,
+                        11
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "spacesuitback",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_oldbreatheppback",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_regularplssback",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        2,
+                        3
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/legs/-",
+            "value": {
+                "name": "iwunidrobe_cheapsuitlegs",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1,
+                        3,
+                        5,
+                        6,
+                        11
+                    ]
+                }
+            }
+        }
+    ]
+]

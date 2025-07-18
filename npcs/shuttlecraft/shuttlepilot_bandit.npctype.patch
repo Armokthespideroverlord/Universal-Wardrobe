@@ -1,0 +1,287 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "bandithat1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "bandithat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead4a"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead4b"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead5"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead6"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead7"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead8a"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead8b"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead9"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_bandithead10"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor3alt"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor4alt"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "pathfinderchest",
+                "parameters": {
+                    "colorIndex": 2
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "voyagerchest",
+                "parameters": {
+                    "colorIndex": 2
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_cheapsuitchest",
+                "parameters": {
+                    "colorIndex": 2
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer1achest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer1bchest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer2chest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer2achest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer2bchest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer3chest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer3achest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer3bchest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer4chest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer4achest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer4bchest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer5chest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer5achest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer5bchest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer6chest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer6achest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer6bchest"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/legs/-",
+            "value": {
+                "name": "pathfinderlegs",
+                "parameters": {
+                    "colorIndex": 2
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/legs/-",
+            "value": {
+                "name": "iwunidrobe_cheapsuitlegs",
+                "parameters": {
+                    "colorIndex": 2
+                }
+            }
+        }
+    ]
+]

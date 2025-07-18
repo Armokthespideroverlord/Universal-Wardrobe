@@ -1,0 +1,103 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/dropPools"
+        },
+        {
+            "op": "add",
+            "path": "/dropPools/-",
+            "value": "iwunidrobe_novathreatBaseTreasure"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head",
+            "value": [
+                {
+                    "name": "novatier2head"
+                },
+                {
+                    "name": "iwunidrobe_novamask1"
+                },
+                {
+                    "name": "iwunidrobe_novamask2"
+                },
+                {
+                    "name": "iwunidrobe_novamask3"
+                },
+                {
+                    "name": "iwunidrobe_novamask4"
+                },
+                {
+                    "name": "iwunidrobe_novamask5"
+                },
+                {
+                    "name": "iwunidrobe_novamask6"
+                },
+                {
+                    "name": "iwunidrobe_novamask7"
+                },
+                {
+                    "name": "iwunidrobe_novahat1"
+                },
+                {
+                    "name": "iwunidrobe_novahat2"
+                },
+                {
+                    "name": "iwunidrobe_novahat3"
+                },
+                {
+                    "name": "iwunidrobe_novahat4"
+                },
+                {
+                    "name": "iwunidrobe_novahat4alt"
+                },
+                {
+                    "name": "iwunidrobe_novahat7"
+                },
+                {
+                    "name": "iwunidrobe_stranglerwrapalt"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "novatier3chest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_dustychest",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        6,
+                        8,
+                        9,
+                        11
+                    ]
+                }
+            }
+        }
+    ]
+]

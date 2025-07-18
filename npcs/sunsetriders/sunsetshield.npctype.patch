@@ -1,0 +1,197 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/dropPools"
+        },
+        {
+            "op": "add",
+            "path": "/dropPools/-",
+            "value": "iwunidrobe_novathreatBaseTreasure"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novamask1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novamask2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novamask3"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novamask4"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novamask5"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novamask6"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novamask7"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novahat1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novahat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novahat3"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novahat4"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_novahat4alt"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_trapperheadb"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "novatier3head"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "novatier2chest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_dustychest",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        4,
+                        5,
+                        6,
+                        8,
+                        9,
+                        11
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_trapperhead"
+                    },
+                    {
+                        "name": "iwunidrobe_trapperheada"
+                    },
+                    {
+                        "name": "iwunidrobe_trapperheadb"
+                    },
+                    {
+                        "name": "novatier3head",
+                        "parameters": {
+                            "colorIndex": [
+                                1
+                            ]
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_trapperchest"
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_trapperlegs"
+                    }
+                ],
+                "primary": [
+                    "npcpistol"
+                ],
+                "alt": [
+                    "commonsmallshield",
+                    "commonlargeshield"
+                ]
+            }
+        }
+    ]
+]

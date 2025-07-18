@@ -1,0 +1,39 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "visorhead"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "scientistchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_spacescientist3chest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "scientistlegs"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_spacescientist3legs"
+        }
+    ]
+]

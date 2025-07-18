@@ -1,0 +1,43 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/human/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/human/0/1/-",
+            "value": {
+                "back": [
+                    {
+                        "name": "shortcapeback",
+                        "parameters": {
+                            "colorIndex": 1
+                        }
+                    }
+                ],
+                "head": [
+                    {
+                        "name": "iwunidrobe_neoexplorerhead"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_neoexplorerchest"
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_neoexplorerpants"
+                    }
+                ],
+                "primary": [
+                    "spaceplasmarifle"
+                ],
+                "sheathedprimary": [
+                    "flamethrower"
+                ]
+            }
+        }
+    ]
+]

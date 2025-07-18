@@ -1,0 +1,42 @@
+[
+    {
+        "op": "test",
+        "path": "/items/override/0/1"
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/-",
+        "value": {
+            "head": [
+                "iwunidrobe_mutineerheada"
+            ],
+            "chest": [
+                "iwunidrobe_mutineerchest"
+            ],
+            "legs": [
+                "iwunidrobe_mutineerpants"
+            ],
+            "sheathedprimary": [
+                "npcpistol"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/-",
+        "value": {
+            "head": [
+                "iwunidrobe_runawayhead"
+            ],
+            "chest": [
+                "iwunidrobe_runawaychest"
+            ],
+            "legs": [
+                "iwunidrobe_runawaypants"
+            ],
+            "sheathedprimary": [
+                "npcpistol"
+            ]
+        }
+    }
+]

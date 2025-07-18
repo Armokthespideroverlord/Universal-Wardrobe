@@ -1,0 +1,75 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/dropPools"
+        },
+        {
+            "op": "add",
+            "path": "/dropPools/-",
+            "value": "iwunidrobe_uscmThreatBaseTreasure"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "pathfinderhead"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_stalwarthead"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_uscmhead7",
+                "parameters": {
+                    "colorIndex": 4
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_uscmhead8",
+                "parameters": {
+                    "colorIndex": 4
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "pathfinderchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_stalwartchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "pathfinderlegs"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_stalwartpants"
+        }
+    ]
+]

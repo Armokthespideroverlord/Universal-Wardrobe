@@ -1,0 +1,42 @@
+[
+    {
+        "op": "test",
+        "path": "/items/override/0/1"
+    },
+    {
+        "op": "add",
+        "path": "/items/override/0/1/-",
+        "value": {
+            "back": [
+                {
+                    "name": "iwunidrobe_regularplssback",
+                    "parameters": {
+                        "colorIndex": [
+                            2
+                        ]
+                    }
+                }
+            ],
+            "chest": [
+                {
+                    "name": "iwunidrobe_astrosuitchest",
+                    "parameters": {
+                        "colorIndex": [
+                            0
+                        ]
+                    }
+                }
+            ],
+            "legs": [
+                {
+                    "name": "iwunidrobe_astrosuitlegs",
+                    "parameters": {
+                        "colorIndex": [
+                            0
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+]
