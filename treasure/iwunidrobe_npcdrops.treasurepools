@@ -75,7 +75,7 @@
   "iwunidrobe_uscmThreatBaseTreasure" : [
     [1, {
       "pool" : [
-        {"weight" : 0.005, "pool" : "iwunidrobe_uscmcustomeboxes"}
+        {"weight" : 0.02, "pool" : "iwunidrobe_uscmcustomeboxes"}
       ],
       "poolRounds" : [
         [0.90, 0],
@@ -103,7 +103,7 @@
   "iwunidrobe_miniknogTreasure" : [
     [1, {
       "pool" : [
-        {"weight" : 0.04, "pool" : "iwunidrobe_miniknogcustomeboxes"}
+        {"weight" : 0.02, "pool" : "iwunidrobe_miniknogcustomeboxes"}
       ],
       "poolRounds" : [
         [0.90, 0],
@@ -189,11 +189,11 @@
   "iwunidrobe_novathreatBaseTreasure" : [
     [1, {
       "pool" : [
-        {"weight" : 0.02, "item" : "iwunidrobe_novakidstuffbox"}
+        {"weight" : 0.02, "pool" : "iwunidrobe_novakidcustomeboxes"}
       ],
       "poolRounds" : [
-        [0.70, 0],
-        [0.25, 1],
+        [0.90, 0],
+        [0.20, 1],
         [0.05, 2]
       ],
       "allowDuplication" : true

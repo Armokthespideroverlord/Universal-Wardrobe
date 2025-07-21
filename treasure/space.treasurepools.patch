@@ -174,5 +174,13 @@
             "weight": 0.005,
             "pool": "iwunidrobe_uniquecustomeboxes"
         }
+    },
+    {
+        "op": "add",
+        "path": "/spaceCostume/1/1/pool/-",
+        "value": {
+            "weight": 0.005,
+            "item": "iwunidrobe_stalwartbox"
+        }
     }
 ]
