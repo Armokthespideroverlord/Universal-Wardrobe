@@ -4,6 +4,20 @@
     "path": "/dropPools/-",
     "value": "iwunidrobe_uscmThreatBaseTreasure"
   },
+{
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_banditvisor7"
+    }
+  },
+{
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_cultistvisor2"
+    }
+  },
   {
     "op": "add",
     "path": "/items/override/0/1/0/chest/0/count",
@@ -91,6 +105,18 @@
     "op": "replace",
     "path": "/items/override/0/1/2/chest/0/name",
     "value": "iwunidrobe_defectorchest"
+  },
+{
+    "op": "add",
+    "path": "/items/override/0/1/2/back",
+    "value": [
+      {
+        "name": "survivalgearback",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    ]
   },
   {
     "op": "remove",
@@ -218,10 +244,8 @@
       ],
       "back": [
         {
-          "name": "survivalgearback",
-          "parameters": {
-            "colorIndex": 0
-          }
+          "name": "iwunidrobe_combatplss",
+          "count":1, "parameters": {"directives":"?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711" }
         }
       ],
       "legs": [
@@ -230,20 +254,10 @@
         }
       ],
       "primary": [
-        "npcassaultrifle",
-        "npcshotgun",
-        "npcsniperrifle",
-        "npcrocketlauncher",
-        "commongrenadelauncher",
-        "r-npcflamethrower"
+        "npcpulserailgun"
       ],
       "sheathedprimary": [
-        "npcshortsword",
-        "npcpistol",
-        "npcmachinepistol"
-      ],
-      "alt": [
-        "r-uscmriotshield"
+        "npcshortsword"
       ]
     }
   },

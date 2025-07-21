@@ -1,270 +1,278 @@
 [
-  {
-    "op": "test",
-    "path": "/costume/0/1/pool"
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "soldierhead",
-        1
-      ]
+    {
+        "op": "test",
+        "path": "/costume/0/1/pool"
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "soldierhead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "soldierchest",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "soldierpants",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "cupidshead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "cupidschest",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "cupidslegs",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "cupidsback",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "barrelhead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "barrelchest",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "cardboardboxarmor",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_flatcaphead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_hazardminer",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_outlandishvisor",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_spacepilot",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_spacebiker",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_digitalvisor",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_stranglerwrap",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_stranglerwrapalt",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_banditlootbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_cultistlootbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_hidecosmeticbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "pool": "iwunidrobe_uniquecustomeboxes"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_runawaybox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_defectorbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_mutineerbox",
+                1
+            ]
+        }
     }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "soldierchest",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "soldierpants",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "cupidshead",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "cupidschest",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "cupidslegs",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "cupidsback",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "barrelhead",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "barrelchest",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "cardboardboxarmor",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_flatcaphead",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_hazardminer",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_outlandishvisor",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_spacepilot",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_spacebiker",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_digitalvisor",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_stranglerwrap",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_stranglerwrapalt",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_banditlootbox",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_banditchestlootbox",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_cultistlootbox",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_cultistchestlootbox",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.00001,
-      "item": [
-        "iwunidrobe_hidecosmeticbox",
-        1
-      ]
-    }
-  },
-  {
-    "op": "add",
-    "path": "/costume/0/1/pool/-",
-    "value": {
-      "weight": 0.0003,
-      "item": [
-        "iwunidrobe_uniquecustomeboxes",
-        1
-      ]
-    }
-  }
 ]
