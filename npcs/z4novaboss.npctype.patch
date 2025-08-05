@@ -81,7 +81,7 @@
     ],
     [
         {
-            "op": "add",
+            "op": "test",
             "path": "/items/override/0/1"
         },
         {
@@ -148,7 +148,7 @@
     ],
     [
         {
-            "op": "add",
+            "op": "test",
             "path": "/items/override/0/1"
         },
         {
