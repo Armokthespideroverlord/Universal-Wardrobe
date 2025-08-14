@@ -334,11 +334,13 @@
         {"weight" : 0.3, "item" : "iwunidrobe_banditvisor8"},
         {"weight" : 0.3, "item" : "iwunidrobe_banditvisor9"},
         {"weight" : 0.3, "item" : "iwunidrobe_banditvisor10"},
+        {"weight" : 0.01, "item" : "explorerchest"},
         {"weight" : 0.01, "item" : "iwunidrobe_explorer2chest"},
         {"weight" : 0.01, "item" : "iwunidrobe_explorer3chest"},
         {"weight" : 0.01, "item" : "iwunidrobe_explorer4chest"},
         {"weight" : 0.01, "item" : "iwunidrobe_explorer5chest"},
-        {"weight" : 0.01, "item" : "iwunidrobe_explorer6chest"}
+        {"weight" : 0.01, "item" : "iwunidrobe_explorer6chest"},
+        {"weight" : 0.01, "item" : "explorerlegs"}
       ],
       "poolRounds" : [
         [0.8, 2],
@@ -386,6 +388,7 @@
         {"weight" : 0.3, "item" : "iwunidrobe_cultistvisor3"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultistvisor4"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultistvisor5"},
+        {"weight" : 0.3, "item" : "cultisthead"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultisthead1"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultisthead2"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultisthead3"},
@@ -396,12 +399,14 @@
         {"weight" : 0.3, "item" : "iwunidrobe_cultisthead8"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultisthead9"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultisthead10"},
+        {"weight" : 0.3, "item" : "cultistchest"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultistarmor1chest"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultistarmor2chest"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultistarmor3chest"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultistarmor4chest"},
         {"weight" : 0.3, "item" : "iwunidrobe_cultistarmor5chest"},
-        {"weight" : 0.3, "item" : "iwunidrobe_cultistarmor6chest"}
+        {"weight" : 0.3, "item" : "iwunidrobe_cultistarmor6chest"},
+        {"weight" : 0.3, "item" : "cultistlegs"}
       ],
       "poolRounds" : [
         [0.9, 2],
