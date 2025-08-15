@@ -5,11 +5,11 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "A well-kept prison antiriot set.",
-  "shortdescription" : "USCM Antiriot Set",
+  "description" : "A well-kept USCM prison antiriot set.",
+  "shortdescription" : "Prison Antiriot Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
-    "objectImage" : "/interface/iwuni_costumebox/iwuni_prisonlootbox.png"
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_antiriotbox.png"
   },
   "twoHanded" : true,
 
