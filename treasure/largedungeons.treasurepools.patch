@@ -132,24 +132,11 @@
         "op": "add",
         "path": "/humanprisonTreasure/0/1/pool/-",
         "value": {
-            "weight": 0.006,
-            "item": "iwunidrobe_prisonantiriothead"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/humanprisonTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.006,
-            "item": "iwunidrobe_prisonantiriotchest"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/humanprisonTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.006,
-            "item": "iwunidrobe_prisonantiriotpants"
+            "weight": 0.003,
+            "item": [
+                "iwunidrobe_antiriotbox",
+                1
+            ]
         }
     },
     {
