@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_antiriotbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "iwuniCostumeSet",
+  "description" : "A well-kept prison antiriot set.",
+  "shortdescription" : "USCM Antiriot Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_prisonlootbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "antiriotlooticon.png",
+  "animation" : "iwunidrobe_prisonerloot.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_antiriotboxloot",
+    "level" : 1
+  }
+}
