@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
-  "description" : "With your brand new medic license you are now able to save lives throughout the galaxy!",
+  "description" : "With your brand new medic license you'll now be able to save lives throughout the galaxy!",
   "shortdescription" : "Caretaker's Suit",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
