@@ -7,7 +7,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "headwear",
-  "description" : "A little more protection than welding goggles, less than a welding mask.",
+  "description" : "A little more protection than welding goggles, less so than a welding mask.",
   "shortdescription" : "Welder Visor",
   "tooltipKind" : "armor",
 
