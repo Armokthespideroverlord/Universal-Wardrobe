@@ -6,7 +6,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "A template for chestwear such as shirts, jackets, chestplate armour and the likes.",
+  "description" : "A template for chestwear such as shirts, jackets, chestplate armour and the like.",
   "shortdescription" : "Bomber Jacket",
   "tooltipKind" : "armor",
   
