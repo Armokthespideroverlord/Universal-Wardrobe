@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
-  "description" : "Hopefully you're a highly trained professional in the field of space combat.",
+  "description" : "Hopefully you're a highly trained professional in the field of space combat, else you wouldn't be eligible for this suit.",
   "shortdescription" : "E.V.C Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
