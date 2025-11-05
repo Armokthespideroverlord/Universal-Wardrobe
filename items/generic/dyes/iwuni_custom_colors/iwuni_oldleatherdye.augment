@@ -2,7 +2,7 @@
   "itemName" : "iwuni_oldleatherdye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniUniqueDye",
   "inventoryIcon" : "iwuni_oldleatherdye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
   "shortdescription" : "^#99876f;Old Leather^reset; Dye",

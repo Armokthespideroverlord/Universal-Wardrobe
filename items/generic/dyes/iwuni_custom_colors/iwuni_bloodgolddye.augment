@@ -2,7 +2,7 @@
   "itemName" : "iwuni_bloodgolddye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniUniqueDye",
   "inventoryIcon" : "iwuni_bloodgolddye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
   "shortdescription" : "^#e8b21f;Blood Gold^reset; Dye",

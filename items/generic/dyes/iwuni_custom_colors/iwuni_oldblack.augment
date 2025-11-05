@@ -2,10 +2,10 @@
   "itemName" : "iwuni_oldblackdye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniCustomDye",
   "inventoryIcon" : "iwuni_oldblackdye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
-  "shortdescription" : "Old Black Dye",
+  "shortdescription" : "^#c49675;Old^reset; Black Dye",
 
   "dyeDirectives" : {"ffca8a" : "685157", "e0975c" : "4d353c", "a85636" : "2a1c20", "6f2919" : "12070a"},
   "dyeColorIndex": false,

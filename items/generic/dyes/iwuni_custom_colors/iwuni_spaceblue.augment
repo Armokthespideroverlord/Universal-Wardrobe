@@ -2,10 +2,10 @@
   "itemName" : "iwuni_spacebluedye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniCustomDye",
   "inventoryIcon" : "iwuni_spacebluedye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
-  "shortdescription" : "Space Blue Dye",
+  "shortdescription" : "^#8b75c4;Space^reset; Blue Dye",
 
   "dyeDirectives" : {"ffca8a" : "4c59b4", "e0975c" : "283283", "a85636" : "181f58", "6f2919" : "0a0d31"},
   "dyeColorIndex": false,

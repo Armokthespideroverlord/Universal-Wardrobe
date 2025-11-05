@@ -2,10 +2,10 @@
   "itemName" : "iwuni_brightblackdye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniCustomDye",
   "inventoryIcon" : "iwuni_brightblackdye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
-  "shortdescription" : "Bright Black Dye",
+  "shortdescription" : "^#eedd8b;Bright^reset; Black Dye",
 
   "dyeDirectives" : {"ffca8a" : "67537b", "e0975c" : "4b4354", "a85636" : "38323e", "6f2919" : "22152d"},
   "dyeColorIndex": false,

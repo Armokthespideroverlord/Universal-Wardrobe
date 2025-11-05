@@ -2,10 +2,13 @@
   "itemName" : "iwuni_industrialgraydye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniVanillaDye",
   "inventoryIcon" : "iwuni_industrialgraydye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
   "shortdescription" : "^#8da6b0;Industrial Gray^reset; Dye",
+  "tooltipFields" : {
+    "iwuniModIcon" : "/interface/iwuni_modicon.png"
+  },
 
   "dyeDirectives" : {"ffca8a" : "8da6b0", "e0975c" : "657988", "a85636" : "444d5e", "6f2919" : "323247"},
   "dyeColorIndex": false,

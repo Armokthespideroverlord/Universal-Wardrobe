@@ -2,10 +2,10 @@
   "itemName" : "iwuni_spacebrowndye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniCustomDye",
   "inventoryIcon" : "iwuni_spacebrowndye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
-  "shortdescription" : "Space Brown Dye",
+  "shortdescription" : "^#8b75c4;Space^reset; Brown Dye",
 
   "dyeDirectives" : {"ffca8a" : "9a513a", "e0975c" : "762c22", "a85636" : "49171c", "6f2919" : "2d0e10"},
   "dyeColorIndex": false,

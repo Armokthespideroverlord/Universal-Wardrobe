@@ -2,10 +2,13 @@
   "itemName" : "iwuni_bonedye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniVanillaDye",
   "inventoryIcon" : "iwuni_bonedye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
   "shortdescription" : "^#bcad80;Bone^reset; Dye",
+  "tooltipFields" : {
+    "iwuniModIcon" : "/interface/iwuni_modicon.png"
+  },
 
   "dyeDirectives" : {"ffca8a" : "e7dfbd", "e0975c" : "bcad80", "a85636" : "8d7b58", "6f2919" : "5d4f34"},
   "dyeColorIndex": false,

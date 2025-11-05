@@ -2,10 +2,13 @@
   "itemName" : "iwuni_neoorangedye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniVanillaDye",
   "inventoryIcon" : "iwuni_neoorangedye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
   "shortdescription" : "^#ff6b3d;Neo-Orange^reset; Dye",
+  "tooltipFields" : {
+    "iwuniModIcon" : "/interface/iwuni_modicon.png"
+  },
 
   "dyeDirectives" : {"ffca8a" : "ff6b3d", "e0975c" : "dc5327", "a85636" : "9d321c", "6f2919" : "620d0e"},
   "dyeColorIndex": false,

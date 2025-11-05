@@ -2,7 +2,7 @@
   "itemName" : "iwuni_winereddye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniUniqueDye",
   "inventoryIcon" : "iwuni_winereddye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
   "shortdescription" : "^#ec3b45;Wine Red^reset; Dye",

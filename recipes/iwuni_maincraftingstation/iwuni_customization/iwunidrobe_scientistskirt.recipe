@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "scientistlegs", "count" : 1 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_scientistskirt", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

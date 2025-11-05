@@ -2,10 +2,10 @@
   "itemName" : "iwuni_brightwhitedye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniCustomDye",
   "inventoryIcon" : "iwuni_brightwhitedye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
-  "shortdescription" : "Bright White Dye",
+  "shortdescription" : "^#eedd8b;Bright^reset; White Dye",
 
   "dyeDirectives" : {"ffca8a" : "e2e2e2", "e0975c" : "b0cbc7", "a85636" : "7ea096", "6f2919" : "5b8076"},
   "dyeColorIndex": false,

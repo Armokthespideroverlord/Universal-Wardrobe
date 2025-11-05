@@ -2,7 +2,7 @@
   "itemName" : "iwuni_uscmgreendye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniVanillaDye",
   "inventoryIcon" : "iwuni_uscmgreendye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
   "shortdescription" : "^#8c9d48;Military Green^reset; Dye",

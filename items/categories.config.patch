@@ -3,5 +3,20 @@
     "op": "add",
     "path": "/labels/iwuniCostumeSet",
     "value": "Costume Set"
+  },
+  {
+    "op": "add",
+    "path": "/labels/iwuniVanillaDye",
+    "value": "Vanilla Clothing Dye"
+  },
+  {
+    "op": "add",
+    "path": "/labels/iwuniUniqueDye",
+    "value": "Unique Clothing Dye"
+  },
+  {
+    "op": "add",
+    "path": "/labels/iwuniCustomDye",
+    "value": "Custom Clothing Dye"
   }
 ]

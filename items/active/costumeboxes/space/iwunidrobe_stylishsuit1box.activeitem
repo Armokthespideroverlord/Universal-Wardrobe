@@ -13,7 +13,7 @@
   },
   "twoHanded" : true,
 
-  "inventoryIcon" : "genericspaceboxicon.png",
+  "inventoryIcon" : "stylishsuit1boxicon.png",
   "animation" : "iwunidrobe_genericspacebox.animation",
   "animationCustom" : {},
   "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],

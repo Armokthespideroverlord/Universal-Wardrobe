@@ -2,10 +2,10 @@
   "itemName" : "iwuni_brightgreendye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniCustomDye",
   "inventoryIcon" : "iwuni_brightgreendye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
-  "shortdescription" : "Bright Green Dye",
+  "shortdescription" : "^#eedd8b;Bright^reset; Green Dye",
 
   "dyeDirectives" : {"ffca8a" : "00cd36", "e0975c" : "009d25", "a85636" : "006e3d", "6f2919" : "034724"},
   "dyeColorIndex": false,

@@ -18,6 +18,13 @@
             "item": "iwunidrobe_spacescientist2box"
         }
     },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_scientistskirt"
+        }
+    },
 
 //UNIVERSAL WARDROBE - CLOTHES/UNIQUE
 

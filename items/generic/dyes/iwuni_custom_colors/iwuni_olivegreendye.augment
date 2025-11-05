@@ -2,7 +2,7 @@
   "itemName" : "iwuni_olivegreendye",
   "price" : 25,
   "rarity" : "Common",
-  "category" : "clothingDye",
+  "category" : "iwuniUniqueDye",
   "inventoryIcon" : "iwuni_olivegreendye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
   "shortdescription" : "^#afb47e;Olive Green^reset; Dye",

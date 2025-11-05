@@ -13,7 +13,7 @@
   },
   "twoHanded" : true,
 
-  "inventoryIcon" : "astroboxicon.png",
+  "inventoryIcon" : "astrosuitboxicon.png",
   "animation" : "iwunidrobe_astrobox.animation",
   "animationCustom" : {},
   "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
