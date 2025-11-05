@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
-  "description" : "Congratulations! Now you're one of the most demanded professionals in the galaxy.",
+  "description" : "Congratulations! With this suit you'll have one of the most demanded professions in the galaxy.",
   "shortdescription" : "Cyberneticist's Space Suit",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
