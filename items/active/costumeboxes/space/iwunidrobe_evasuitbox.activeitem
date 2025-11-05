@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
-  "description" : "You got the best choice for space exploration! What are you waiting for?",
+  "description" : "The best choice for space exploration!",
   "shortdescription" : "E.V.A suit",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
