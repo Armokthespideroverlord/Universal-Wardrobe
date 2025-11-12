@@ -18,29 +18,11 @@
       "name": "iwunidrobe_cultistvisor2"
     }
   },
-  {
-    "op": "add",
-    "path": "/items/override/0/1/0/chest/0/count",
-    "value": 1
-  },
-  {
-    "op": "add",
-    "path": "/items/override/0/1/0/chest/0/parameters",
-    "value": {
-      "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/items/override/0/1/1/head/0/count",
-    "value": 1
-  },
-  {
-    "op": "add",
-    "path": "/items/override/0/1/1/head/0/parameters",
-    "value": {
-      "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
-    }
+{
+    "op": "replace",
+    "path": "/items/override/0/1/0/back/0/name",
+    "value": "name": "iwunidrobe_haversack1back"
+    ]
   },
   {
     "op": "add",
@@ -56,17 +38,11 @@
       "name": "iwunidrobe_uscmhead5open"
     }
   },
-  {
-    "op": "add",
-    "path": "/items/override/0/1/1/chest/0/count",
-    "value": 1
-  },
-  {
-    "op": "add",
-    "path": "/items/override/0/1/1/chest/0/parameters",
-    "value": {
-      "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
-    }
+{
+    "op": "replace",
+    "path": "/items/override/0/1/1/back/0/name",
+    "value": "name": "iwunidrobe_rucksack1back"
+    ]
   },
   {
     "op": "add",
@@ -111,10 +87,7 @@
     "path": "/items/override/0/1/2/back",
     "value": [
       {
-        "name": "survivalgearback",
-        "parameters": {
-          "colorIndex": 0
-        }
+        "name": "iwunidrobe_rucksack1back"
       }
     ]
   },
@@ -175,10 +148,7 @@
       ],
       "back": [
         {
-          "name": "survivalgearback",
-          "parameters": {
-            "colorIndex": 0
-          }
+          "name": "iwunidrobe_radiobackpack"
         }
       ],
       "legs": [
