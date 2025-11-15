@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "A jacket that makes anyone who wears it to look cool.",
+  "description" : "A jacket that makes anyone who wears it look cool.",
   "shortdescription" : "Leather Jacket",
   "tooltipKind" : "armor",
   
@@ -46,3 +46,4 @@
     { "ffca8a" : "ccae7c", "e0975c" : "a47844", "a85636" : "754c23", "6f2919" : "472b13" }
   ]
 }
+
