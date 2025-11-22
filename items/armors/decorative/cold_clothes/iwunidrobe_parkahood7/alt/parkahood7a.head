@@ -1,5 +1,5 @@
 {
-  "itemName" : "iwunidrobe_parkahood4a",
+  "itemName" : "iwunidrobe_parkahood7a",
   "price" : 2500,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
@@ -41,7 +41,7 @@
   ],
   
   "learnBlueprintsOnPickup" : [
-    "iwunidrobe_parkahood4",
-    "iwunidrobe_parkahood4a"
+    "iwunidrobe_parkahood7",
+    "iwunidrobe_parkahood7a"
   ]
 }

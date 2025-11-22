@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "headwear",
   "description" : "You wouldn't want to take out the goggles, your eyes would freeze!",
-  "shortdescription" : "Hooded Ski Goggles",
+  "shortdescription" : "Hooded Snow Goggles",
   "tooltipKind" : "armor",
 
   "maleFrames" : "head.png",
@@ -41,7 +41,7 @@
   ],
   
   "learnBlueprintsOnPickup" : [
-    "iwunidrobe_parkahood4",
-    "iwunidrobe_parkahood4a"
+    "iwunidrobe_parkahood5",
+    "iwunidrobe_parkahood5a"
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "itemName" : "iwunidrobe_parkahood4a",
+  "itemName" : "iwunidrobe_parkahood7",
   "price" : 2500,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "headwear",
-  "description" : "You wouldn't want to take out the goggles, your eyes would freeze!",
+  "description" : "\"That's it! Now I'm immune to cold and ice!\"",
   "shortdescription" : "Hooded Ski Goggles",
   "tooltipKind" : "armor",
 
@@ -41,7 +41,7 @@
   ],
   
   "learnBlueprintsOnPickup" : [
-    "iwunidrobe_parkahood4",
-    "iwunidrobe_parkahood4a"
+    "iwunidrobe_parkahood7",
+    "iwunidrobe_parkahood7a"
   ]
 }
