@@ -56,6 +56,34 @@
             "item": "iwunidrobe_customhelmet4"
         }
     },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_customhelmet5"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_customhelmet6"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_customhelmet7"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_customhelmet8"
+        }
+    },
 
 //UNIVERSAL WARDROBE - DYES
 //CUSTOM
