@@ -379,7 +379,7 @@
                 "weight": 0.01,
                 "item": "iwunidrobe_prospectorbox"
             }
-        }
+        },
         {
             "op": "add",
             "path": "/novakidvillageChestTreasure/0/1/pool/-",
