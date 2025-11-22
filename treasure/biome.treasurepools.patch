@@ -15,8 +15,17 @@
                 "weight": 0.05,
                 "item": "iwunidrobe_oldbreatheppback"
             }
+        },
+        {
+            "op": "add",
+            "path": "/oceanFloorTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": "iwunidrobe_hawaiishirt"
+            }
         }
     ],
+
     [
         {
             "op": "add",
@@ -27,6 +36,7 @@
             }
         }
     ],
+
     [
         {
             "op": "add",
@@ -37,6 +47,7 @@
             }
         }
     ],
+
     [
         {
             "op": "add",
@@ -45,8 +56,17 @@
                 "weight": 0.3,
                 "item": "iwunidrobe_oldheateppback"
             }
+        },
+        {
+            "op": "add",
+            "path": "/volcanicTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.2,
+                "item": "iwunidrobe_weldervisor"
+            }
         }
     ],
+
     [
         {
             "op": "test",
@@ -127,6 +147,7 @@
             }
         }
     ],
+
     [
         {
             "op": "test",
@@ -153,6 +174,22 @@
             "path": "/snowTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.3,
+                "item": "iwunidrobe_coldcoverup"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/snowTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "iwunidrobe_snowgoggles"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/snowTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
                 "item": "iwunidrobe_parkahood1"
             }
         },
@@ -170,6 +207,22 @@
             "value": {
                 "weight": 0.3,
                 "item": "iwunidrobe_parkajacket"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/snowTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "iwunidrobe_windbreaker"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/snowTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "iwunidrobe_puffyjacket"
             }
         },
         {

@@ -207,7 +207,84 @@
         "value": {
             "weight": 0.0003,
             "item": [
-                "iwunidrobe_banditlootbox",
+                "iwunidrobe_bikerjacket",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_leatherjacket",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_leatherjacket",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_polkadothood",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_propellerhat",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_sunvisor1",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_sunvisorlarge1",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_thinheadwrap",
                 1
             ]
         }

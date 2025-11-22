@@ -1,233 +1,444 @@
 [
-    {
-        "op": "add",
-        "path": "/apextestfacilityChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.003,
-            "pool": "iwunidrobe_miniknogcustomeboxes"
+    [
+	  //Apex Test Facility
+        {
+            "op": "add",
+            "path": "/apextestfacilityChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.003,
+                "pool": "iwunidrobe_miniknogcustomeboxes"
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/apexbaseChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.05,
-            "item": [
-                "iwunidrobe_headimplant",
-                1
-            ]
+    ],
+
+    [
+	  //Apex Miniknog Base
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_headimplant",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_mnkgpilothead",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_mnkgbackpack1",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_mnkgbackpack2",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_mnkgbackpack3",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_mkngvisor",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_mnkgassassinhead",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_mnkgscouthead",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_mnkgglasseshead",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_mnkgcaphead",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexbaseChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": [
+                    "iwunidrobe_mnkgheadwearbox",
+                    1
+                ]
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/apexbaseChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.05,
-            "item": [
-                "iwunidrobe_mnkgpilothead",
-                1
-            ]
+    ],
+
+    [
+	  //Apex Rebel Camp
+        {
+            "op": "add",
+            "path": "/apexcampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": "iwunidrobe_rebeldothood"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexcampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_haversack1back"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexcampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_radiobackpack"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexcampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_rucksack1back"
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/apexbaseChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.05,
-            "item": [
-                "iwunidrobe_mnkgbackpack1",
-                1
-            ]
+    ],
+
+    [
+	  //Glitch Castle
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_pointedhelmet"
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/apexbaseChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.05,
-            "item": [
-                "iwunidrobe_mnkgbackpack2",
-                1
-            ]
+    ],
+
+    [
+	  //Glitch Village
+        {
+            "op": "add",
+            "path": "/glitchvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_pointedhelmet"
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/apexbaseChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.05,
-            "item": [
-                "iwunidrobe_mnkgbackpack3",
-                1
-            ]
+    ],
+
+    [
+	  //Human Prison
+        {
+            "op": "add",
+            "path": "/humanprisonTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.003,
+                "item": [
+                    "iwunidrobe_prisonerlootbox",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/humanprisonTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.003,
+                "item": [
+                    "iwunidrobe_antiriotbox",
+                    1
+                ]
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/apexbaseChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.05,
-            "item": [
-                "iwunidrobe_mkngvisor",
-                1
-            ]
+    ],
+
+    [
+	  //Human Campsite
+        {
+            "op": "add",
+            "path": "/humancampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": [
+                    "iwunidrobe_mk7outriderbox",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/humancampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_blouse",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/humancampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_bomberjacket",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/humancampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_blousonjacket",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/humancampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_flightjacket",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/humancampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_hardworkingheadband",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/humancampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_headscarf",
+                    1
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/humancampChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": [
+                    "iwunidrobe_hovertruckercap",
+                    1
+                ]
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/apexbaseChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.05,
-            "item": [
-                "iwunidrobe_mnkgassassinhead",
-                1
-            ]
+    ],
+
+    [
+	  //Hylotl Ruined Castle
+        {
+            "op": "add",
+            "path": "/hylotlruinedcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_fablemask"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hylotlruinedcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_illmeaninggrimace"
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/apexbaseChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.05,
-            "item": [
-                "iwunidrobe_mnkgscouthead",
-                1
-            ]
+    ],
+
+    [
+	  //Hylotl Surface Village
+        {
+            "op": "add",
+            "path": "/hylotlcityChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_fablemask"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hylotlcityChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_illmeaninggrimace"
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/apexbaseChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.05,
-            "item": [
-                "iwunidrobe_mnkgglasseshead",
-                1
-            ]
+    ],
+
+    [
+	  //Novakid Village
+        {
+            "op": "add",
+            "path": "/novakidvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_novakidstuffbox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_jailbirdbox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_prospectorbox"
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/apexbaseChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.02,
-            "item": [
-                "iwunidrobe_mnkgheadwearbox",
-                1
-            ]
+        {
+            "op": "add",
+            "path": "/novakidvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_trapperbox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_dustychest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_wheatstem"
+            }
+        },
+    ],
+
+    [
+	  //Mines
+        {
+            "op": "add",
+            "path": "/naturalcaveChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_copperlanternback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/naturalcaveChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_dynamitebundle"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/naturalcaveChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_minerbackpack"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/naturalcaveChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_minerbackpackalt"
+            }
         }
-    },
-    {
-        "op": "add",
-        "path": "/humanprisonTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.003,
-            "item": [
-                "iwunidrobe_prisonerlootbox",
-                1
-            ]
-        }
-    },
-    {
-        "op": "add",
-        "path": "/humanprisonTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.003,
-            "item": [
-                "iwunidrobe_antiriotbox",
-                1
-            ]
-        }
-    },
-    {
-        "op": "add",
-        "path": "/humancampChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.02,
-            "item": [
-                "iwunidrobe_mk7outriderbox",
-                1
-            ]
-        }
-    },
-    {
-        "op": "add",
-        "path": "/novakidvillageChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.01,
-            "item": "iwunidrobe_novakidstuffbox"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/novakidvillageChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.01,
-            "item": "iwunidrobe_jailbirdbox"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/novakidvillageChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.01,
-            "item": "iwunidrobe_prospectorbox"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/novakidvillageChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.01,
-            "item": "iwunidrobe_trapperbox"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/novakidvillageChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.01,
-            "item": "iwunidrobe_dustychest"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/novakidvillageChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.01,
-            "item": "iwunidrobe_wheatstem"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/naturalcaveChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.01,
-            "item": "iwunidrobe_copperlanternback"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/naturalcaveChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.01,
-            "item": "iwunidrobe_dynamitebundle"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/naturalcaveChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.01,
-            "item": "iwunidrobe_minerbackpack"
-        }
-    },
-    {
-        "op": "add",
-        "path": "/naturalcaveChestTreasure/0/1/pool/-",
-        "value": {
-            "weight": 0.01,
-            "item": "iwunidrobe_minerbackpackalt"
-        }
-    }
+    ]
 ]
