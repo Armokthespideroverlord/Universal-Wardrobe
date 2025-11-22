@@ -22,6 +22,15 @@
     ],
     [
         {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_mnkgcaphead"
+            }
+        }
+    ],
+    [
+        {
             "op": "test",
             "path": "/items/override/0/1/0/chest/0/name",
             "value": "apextier2chest"

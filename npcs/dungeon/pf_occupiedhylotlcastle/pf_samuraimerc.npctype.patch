@@ -1,0 +1,50 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_illmeaninggrimace",
+                "parameters": {
+                    "colorIndex": [
+                        5,
+                        6,
+                        7
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_fablemask",
+                "parameters": {
+                    "colorIndex": [
+                        5,
+                        6,
+                        7
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "insidioushead",
+                "parameters": {
+                    "colorIndex": [
+                        5,
+                        6,
+                        7
+                    ]
+                }
+            }
+        }
+    ]
+]

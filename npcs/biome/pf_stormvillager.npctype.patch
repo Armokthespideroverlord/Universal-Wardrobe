@@ -1,0 +1,164 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "pf_stormgearhead",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "ushankahead",
+                "parameters": {
+                    "colorIndex": 11
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_coldcoverup",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        5,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_snowgoggles",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_parkahood3",
+                "parameters": {
+                    "colorIndex": 5
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_parkahood3a",
+                "parameters": {
+                    "colorIndex": 5
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_parkahood6",
+                "parameters": {
+                    "colorIndex": 5
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_parkahood6a",
+                "parameters": {
+                    "colorIndex": 5
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "pf_stormgearchest",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_flightjacket",
+                "parameters": {
+                    "colorIndex": 5
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "hikerchest",
+                "parameters": {
+                    "colorIndex": 5
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "pf_stormgearback",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/2",
+            "value": {
+                "name": "foundryforemanback",
+                "parameters": {
+                    "colorIndex": 11
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/3",
+            "value": {
+                "name": "survivalgearback",
+                "parameters": {
+                    "colorIndex": 11
+                }
+            }
+        }
+    ]
+]
