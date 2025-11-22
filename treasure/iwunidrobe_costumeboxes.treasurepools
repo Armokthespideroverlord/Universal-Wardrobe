@@ -733,7 +733,8 @@
         {"weight" : 0.3, "item" : "iwunidrobe_mnkgglasseshead"},
         {"weight" : 0.3, "item" : "iwunidrobe_mnkgpilothead"},
         {"weight" : 0.3, "item" : "iwunidrobe_mnkgscouthead"},
-        {"weight" : 0.3, "item" : "iwunidrobe_headimplant"}
+        {"weight" : 0.3, "item" : "iwunidrobe_headimplant"},
+		{"weight" : 0.3, "item" : "iwunidrobe_mnkgcaphead"}
       ],
       "poolRounds" : [
         [0.9, 1],
