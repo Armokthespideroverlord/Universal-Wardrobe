@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_openheadscarf", "count" : 1 }
+  ],
+  "duration" : 2,
+  "output" : { "item" : "iwunidrobe_headscarf", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_openclosed" ]
+}
