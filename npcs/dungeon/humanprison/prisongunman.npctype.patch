@@ -30,11 +30,25 @@
                     "name": "iwunidrobe_prisonarmor3head"
                 },
                 {
-                    "name": "iwunidrobe_hidecosmetichead"
+                    "name": "iwunidrobe_hardworkingheadband"
                 },
                 {
-                    "name": "iwunidrobe_hidecosmetichead"
-                }
+                    "name": "iwunidrobe_openheadscarf",
+                    "parameters": {
+                        "colorIndex": 5
+                    }
+                },
+                {
+                    "name": "iwunidrobe_thinheadwrap",
+                    "parameters": {
+                        "directives": "?replace;ffca8a=d7c1a8;e0975c=b08960;a85636=946237;6f2919=5f2d0a;"
+                    }
+                },
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         }
     ],
