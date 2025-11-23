@@ -1,0 +1,117 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back",
+            "value": [
+                {
+                    "name": "survivalgearback",
+                    "parameters": {
+                        "colorIndex": [
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "foundryforemanback",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_haversack1back",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_radiobackpack",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_rucksack1back",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            1,
+                            2,
+                            11
+                        ]
+                    }
+                },
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_rebeldothood",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        4,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_coldcoverup",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_mnkgcaphead",
+                "parameters": {
+                    "colorIndex": [
+                        1,
+                        2,
+                        11
+                    ]
+                }
+            }
+        }
+    ]
+]
