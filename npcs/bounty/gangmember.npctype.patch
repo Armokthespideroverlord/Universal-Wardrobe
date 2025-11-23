@@ -1,0 +1,129 @@
+[
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer2chest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer5chest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_explorer1achest"
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/2/chest/-",
+            "value": {
+                "name": "iwunidrobe_bikerjacket"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/2/chest/-",
+            "value": {
+                "name": "iwunidrobe_leatherjacket"
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/4/chest/-",
+            "value": {
+                "name": "iwunidrobe_bikerjacket"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/4/chest/-",
+            "value": {
+                "name": "iwunidrobe_leatherjacket"
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "bandithat1"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_safetysuitchest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_safetysuitlegs",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpetcapturepod"
+                ],
+                "sheathedprimary": [
+                    "npcneoshotgun",
+                    "npcneotommygun"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "bandithat1"
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_stylesuit2chest",
+                        "parameters": {
+                            "colorIndex": 1
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_stylesuit2legs",
+                        "parameters": {
+                            "colorIndex": 1
+                        }
+                    }
+                ],
+                "primary": [
+                    "npcpetcapturepod"
+                ],
+                "sheathedprimary": [
+                    "npcneoshotgun",
+                    "npcneotommygun"
+                ]
+            }
+        }
+    ]
+]
