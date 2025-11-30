@@ -1,0 +1,218 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back",
+            "inverse": true
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back",
+            "value": [
+                {
+                    "name": "spearback"
+                },
+                {
+                    "name": "jeffback"
+                },
+                {
+                    "name": "predatoryback"
+                },
+                {
+                    "name": "iwunidrobe_oldbreatheppback",
+                    "parameters": {
+                        "colorIndex": [
+                            0,
+                            3,
+                            11
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_combatplss",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            3
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_regularplssback",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            3
+                        ]
+                    }
+                },
+                {
+                    "name": "spacesuitback",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            2,
+                            3
+                        ]
+                    }
+                },
+                {
+                    "name": "breathprotectionback",
+                    "parameters": {
+                        "colorIndex": [
+                            1,
+                            2,
+                            3
+                        ]
+                    }
+                },
+                {
+                    "name": "iwunidrobe_mk7outriderback",
+                    "parameters": {
+                        "colorIndex": [
+                            1
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_stalwarthead",
+                "parameters": {
+                    "colorIndex": [
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_customhelmet8",
+                "parameters": {
+                    "colorIndex": [
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_customhelmet3",
+                "parameters": {
+                    "colorIndex": [
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_explorer1head",
+                "parameters": {
+                    "colorIndex": [
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_spacehelmet5",
+                "parameters": {
+                    "colorIndex": [
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_mk7outriderhead",
+                "parameters": {
+                    "colorIndex": [
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_stalwartchest",
+                "parameters": {
+                    "colorIndex": [
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_mk7outriderchest",
+                "parameters": {
+                    "colorIndex": [
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/legs/-",
+            "value": {
+                "name": "iwunidrobe_stalwartpants",
+                "parameters": {
+                    "colorIndex": [
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/legs/-",
+            "value": {
+                "name": "iwunidrobe_mk7outriderpants",
+                "parameters": {
+                    "colorIndex": [
+                        1
+                    ]
+                }
+            }
+        }
+    ]
+]

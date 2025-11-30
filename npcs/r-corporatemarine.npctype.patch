@@ -1,0 +1,493 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/dropPools"
+        },
+        {
+            "op": "add",
+            "path": "/dropPools/-",
+            "value": "iwunidrobe_uscmThreatBaseTreasure"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "humantier4head"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/name",
+            "value": "iwunidrobe_stalwarthead"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head/0/parameters/colorIndex",
+            "value": 1
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/head/0/parameters/colorIndex",
+            "value": 0
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_uscmhead1",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_uscmhead1open",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_uscmhead2",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_uscmhead2open",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_uscmhead4",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_uscmhead7",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_uscmhead8",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "pathfinderchest"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/name",
+            "value": "iwunidrobe_stalwartchest"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest/0/parameters/colorIndex",
+            "value": 1
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/chest/0/parameters/colorIndex",
+            "value": 0
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "pathfinderlegs"
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/name",
+            "value": "iwunidrobe_stalwartpants"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/legs/0/parameters/colorIndex",
+            "value": 1
+        },
+        {
+            "op": "replace",
+            "path": "/items/override/0/1/0/legs/0/parameters/colorIndex",
+            "value": 0
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back/0/parameters/colorIndex"
+        },
+        {
+            "op": "remove",
+            "path": "/items/override/0/1/0/back/0/parameters/colorIndex"
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/0/parameters/directives",
+            "value": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_combatplss",
+                "parameters": {
+                    "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_oldbreatheppback",
+                "parameters": {
+                    "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_regularplssback",
+                "parameters": {
+                    "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_runawayhead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead3",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead5",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead5open",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead9",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead9alt",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead10",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_runawaychest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_runawaypants",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "spacesuitback",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_combatplss",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    }
+                ],
+                "primary": [
+                    "spaceplasmarifle"
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_mutineerhead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_mutineerheada",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead13",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead13alt",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead14",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead14alt",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_mutineerchest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_mutineerpants",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "spacesuitback",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_combatplss",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    }
+                ],
+                "primary": [
+                    "spaceplasmarifle"
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "iwunidrobe_defectorhead",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead6",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead11",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead12",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_uscmhead3",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_prisonantiriothead",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_defectorchest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_defectorpants",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "spacesuitback",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_combatplss",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "directives": "?replace;ffca8a=afb47e;e0975c=888d59;a85636=4c592a;6f2919=2c3711"
+                        }
+                    }
+                ],
+                "primary": [
+                    "spaceplasmarifle"
+                ]
+            }
+        }
+    ]
+]

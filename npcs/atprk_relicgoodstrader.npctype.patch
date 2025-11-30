@@ -1,0 +1,48 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_hardworkingheadband",
+                "parameters": {
+                    "colorIndex": 7
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_thinheadwrap",
+                "parameters": {
+                    "colorIndex": 7
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_headscarf",
+                "parameters": {
+                    "colorIndex": 7
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_openheadscarf",
+                "parameters": {
+                    "colorIndex": 7
+                }
+            }
+        }
+    ]
+]

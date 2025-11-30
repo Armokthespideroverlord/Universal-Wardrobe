@@ -1,0 +1,138 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor6",
+                "parameters": {
+                    "colorIndex": [
+                        0
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor6alt",
+                "parameters": {
+                    "colorIndex": [
+                        7
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor8",
+                "parameters": {
+                    "colorIndex": [
+                        0
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor8alt",
+                "parameters": {
+                    "colorIndex": [
+                        7
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor10",
+                "parameters": {
+                    "colorIndex": [
+                        0
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_banditvisor10alt",
+                "parameters": {
+                    "colorIndex": [
+                        7
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_minerbackpackalt",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_minerbackpack",
+                "parameters": {
+                    "colorIndex": [
+                        0,
+                        1
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_cultistarmor1chest",
+                "parameters": {
+                    "colorIndex": 11
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_cultistarmor2chest",
+                "parameters": {
+                    "colorIndex": 11
+                }
+            }
+        }
+    ]
+]

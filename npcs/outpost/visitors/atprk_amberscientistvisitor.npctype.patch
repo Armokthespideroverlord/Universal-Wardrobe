@@ -1,0 +1,98 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "bioluminhead",
+                        "parameters": {
+                            "colorIndex": 6
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist1chest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist1legs",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "bioluminhead",
+                        "parameters": {
+                            "colorIndex": 6
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist2chest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist2legs",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/-",
+            "value": {
+                "head": [
+                    {
+                        "name": "bioluminhead",
+                        "parameters": {
+                            "colorIndex": 6
+                        }
+                    }
+                ],
+                "chest": [
+                    {
+                        "name": "iwunidrobe_spacescientist2chest",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_spacescientist2legs",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+]

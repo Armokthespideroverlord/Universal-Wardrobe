@@ -1,0 +1,73 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_weldervisor",
+                "parameters": {
+                    "colorIndex": 0
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/back"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_oldbreatheppback",
+                "parameters": {
+                    "colorIndex": 1
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/back/-",
+            "value": {
+                "name": "iwunidrobe_oldcoldeppback",
+                "parameters": {
+                    "colorIndex": 1
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_prisonsuit1chest",
+                "parameters": {
+                    "colorIndex": 1
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_prisonworkout2chest",
+                "parameters": {
+                    "colorIndex": [
+                        2,
+                        3
+                    ]
+                }
+            }
+        }
+    ]
+]

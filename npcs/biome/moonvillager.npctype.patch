@@ -1,0 +1,652 @@
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/default/0/1",
+        },
+        {
+            "op": "add",
+            "path": "/items/default/0/1/-",
+            "value": {
+                "chest": [
+                    {
+                        "name": "iwunidrobe_evasuitchest",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_evasuitlegs",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "head": [
+                    {
+                        "name": "iwunidrobe_evasuithead",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_evasuitalthead",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "spaceplasmarifle"
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/default/0/1/-",
+            "value": {
+                "chest": [
+                    {
+                        "name": "iwunidrobe_cheapsuitchest",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_cheapsuitlegs",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "head": [
+                    {
+                        "name": "iwunidrobe_cheapsuithead",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_cheapsuitalthead",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet1",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet4",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_spacehelmet5",
+                        "parameters": {
+                            "colorIndex": 0
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "spacesuitback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "spaceplasmarifle"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/nuu/0/1",
+        },
+        {
+            "op": "add",
+            "path": "/items/nuu/0/1/-",
+            "value": {
+                "chest": [
+                    {
+                        "name": "iwunidrobe_evasuitchest",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_evasuitlegs",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "head": [
+                    {
+                        "name": "nuuspacehelmet",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "spaceplasmarifle"
+                ]
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/nuu/0/1/-",
+            "value": {
+                "chest": [
+                    {
+                        "name": "iwunidrobe_cheapsuitchest",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "legs": [
+                    {
+                        "name": "iwunidrobe_cheapsuitlegs",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "head": [
+                    {
+                        "name": "nuuspacehelmet",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "back": [
+                    {
+                        "name": "spacesuitback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_regularplssback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    },
+                    {
+                        "name": "iwunidrobe_oldbreatheppback",
+                        "parameters": {
+                            "colorIndex": [
+                                0,
+                                0,
+                                0,
+                                0,
+                                1,
+                                2,
+                                2,
+                                3,
+                                3,
+                                4,
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9
+                            ]
+                        }
+                    }
+                ],
+                "primary": [
+                    ""
+                ],
+                "sheathedprimary": [
+                    "spaceplasmarifle"
+                ]
+            }
+        }
+    ]
+]
