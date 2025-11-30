@@ -1,38 +1,140 @@
-{
-  "type" : "rl_belteroutlawbarbarian",
-  "baseType" : "outlawbarbarian",
-
-  "items" : {
-    "override" : [
-      [0, [
-          {
-            "head" : [
-              { "name" : "gladiatorhead" },
-              { "name" : "ethnichead", "parameters" : { "colorIndex" : [4,7,11] } },
-              { "name" : "floranskullhead" },
-              { "name" : "vicioushead" },
-              { "name" : "goathead" },
-              { "name" : "apextier5shead", "parameters" : { "colorIndex" : [4,7,11] } },
-              { "name" : "florantier6mhead", "parameters" : { "colorIndex" : [4,7,11] } },
-              { "name" : "florantier5mhead", "parameters" : { "colorIndex" : [4,7,11] } }
-            ],
-            "back" : [
-              { "name" : "spearback" },
-              { "name" : "jeffback" },
-              { "name" : "predatoryback" }
-            ],
-            "chest" : [
-              { "name" : "florantier6mchest", "parameters" : { "colorIndex" : [4,7,11] } },
-              { "name" : "florantier5mchest", "parameters" : { "colorIndex" : [4,7,11] } }
-            ],
-            "legs" : [
-              { "name" : "florantier6mpants", "parameters" : { "colorIndex" : [4,7,11] } },
-              { "name" : "florantier5mpants", "parameters" : { "colorIndex" : [4,7,11] } }
-            ],
-            "primary" : [ "npchammer", "npcpetcapturepod" ],
-            "sheathedprimary" : [ "npcfloranassaultrifle" ]
-          }
-        ] ]
+[
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/head"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_skullagaranhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_skullalpacahead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_skulldeadbeathead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_skullfeneroxhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_skullfrogghead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_skullshadowhead"
+            }
+        }
+    ],
+    [
+        {
+            "op": "test",
+            "path": "/items/override/0/1/0/chest"
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_ribwoollychest",
+                "parameters": {
+                    "colorIndex": [
+                        4,
+                        7,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_ribwoollyachest",
+                "parameters": {
+                    "colorIndex": [
+                        4,
+                        7,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_ribwoollybchest",
+                "parameters": {
+                    "colorIndex": [
+                        4,
+                        7,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_ribstrapschest",
+                "parameters": {
+                    "colorIndex": [
+                        4,
+                        7,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_ribstrapsachest",
+                "parameters": {
+                    "colorIndex": [
+                        4,
+                        7,
+                        11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_ribstrapsbchest",
+                "parameters": {
+                    "colorIndex": [
+                        4,
+                        7,
+                        11
+                    ]
+                }
+            }
+        }
     ]
-  }
-}
+]
