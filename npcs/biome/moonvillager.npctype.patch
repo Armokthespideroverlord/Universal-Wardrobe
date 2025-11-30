@@ -2,7 +2,7 @@
     [
         {
             "op": "test",
-            "path": "/items/default/0/1",
+            "path": "/items/default/0/1"
         },
         {
             "op": "add",
@@ -376,7 +376,7 @@
     [
         {
             "op": "test",
-            "path": "/items/nuu/0/1",
+            "path": "/items/nuu/0/1"
         },
         {
             "op": "add",
