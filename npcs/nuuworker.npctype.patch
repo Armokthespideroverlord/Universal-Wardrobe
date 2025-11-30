@@ -2,7 +2,7 @@
     [
         {
             "op": "test",
-            "path": "/items/override/0/1/0/head",
+            "path": "/items/override/0/1/0/head"
         },
         {
             "op": "add",
