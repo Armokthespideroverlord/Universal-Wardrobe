@@ -84,6 +84,7 @@
 -atprk_amberscientistvisitor
 -atprk_devoutattackengineer
 -atprk_devoutattackmelter
+-atprk_apexufopilot
 
 //LEGACY USCM SHIP & LOSTBOUND
 -r-corporatemarine
