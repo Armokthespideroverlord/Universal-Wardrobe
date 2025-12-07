@@ -24,8 +24,8 @@
     ],
     [
         {
-            "op": "replace",
-            "path": "/items/override/0/1/0/back/0/name",
+            "op": "add",
+            "path": "/items/override/0/1/0/back",
             "value": {
                 "name": "iwunidrobe_haversack1back"
             }
@@ -318,4 +318,5 @@
             }
         }
     ]
+
 ]
