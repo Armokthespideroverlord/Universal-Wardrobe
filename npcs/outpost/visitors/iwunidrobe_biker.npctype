@@ -1,0 +1,36 @@
+{
+  "type" : "iwunidrobe_biker",
+  "baseType" : "outpostvisitor",
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "We were on our way to Earth when it got blown to smithereens!",
+            "The only thing I miss of riding on space is the wind hitting my face!",
+            "The good thing about space is that it never runs out!",
+            "Where I'm going? Nowhere! I'm a free spirit on this endless road called space!",
+            "No one can stop you from going at speed light in your space bike!",
+            "Many tried to be faster than me, yet they all died as they tried!"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "iwunidrobe_spacebiker", "parameters" : { "colorIndex" : 3 } } ],
+            "chest" : [ { "name" : "iwunidrobe_bikerjacket" } ],
+            "legs" : [
+              { "name" : "humantier1pants", "parameters" : { "colorIndex" : [1, 2] } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}
+

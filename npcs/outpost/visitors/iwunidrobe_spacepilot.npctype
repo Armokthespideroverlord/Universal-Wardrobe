@@ -1,0 +1,84 @@
+{
+  "type" : "iwunidrobe_spacepilot",
+  "baseType" : "outpostvisitor",
+
+  "scriptConfig" : {
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "I hate Masteroids, they always ruin my ship hull!",
+            "I have found plenty of pirates in all of my flights, they are a headache.",
+            "I like space ships, you have such a freedom to be on your own.",
+            "Grabbing some snacks for my next flight! What about you?",
+            "I like my ship, but I also like to have some rest here.",
+            "Have a good flight my friend!"
+          ]
+        }
+      }
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              "",
+              { "name" : "iwunidrobe_spacehelmet6", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } }, 
+              { "name" : "iwunidrobe_spacehelmet7", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
+              { "name" : "iwunidrobe_spacehelmet8", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
+              { "name" : "iwunidrobe_spacehelmet9", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } },
+              { "name" : "iwunidrobe_spacehelmet10", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } }
+            ],
+            "chest" : [
+              { "name" : "iwunidrobe_starpilotchest", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_starpilotpants", "parameters" : { "colorIndex" : [0,1,2,3,4,5,6,7,8,9,10,11] } }
+            ]
+          },
+          {
+            "head" : [
+              "",
+              { "name" : "medichead", "parameters" : { "colorIndex" : [0] } }, 
+              { "name" : "eyepatchhead", "parameters" : { "colorIndex" : [1] } },
+              { "name" : "berethead", "parameters" : { "colorIndex" : [1] } },
+              { "name" : "captainshead", "parameters" : { "colorIndex" : [1,2] } },
+              { "name" : "apextier5mhead", "parameters" : { "colorIndex" : [1,2] } },
+              { "name" : "apextier5shead", "parameters" : { "colorIndex" : [1,2,3,4,11] } }
+            ],
+            "chest" : [
+              { "name" : "medicchest", "parameters" : { "colorIndex" : [0,2,11] } },
+              { "name" : "apextier4chest", "parameters" : { "colorIndex" : [0,2,11] } }
+            ],
+            "legs" : [
+              { "name" : "mediclegs", "parameters" : { "colorIndex" : [0,2,11] } },
+              { "name" : "apextier4pants", "parameters" : { "colorIndex" : [0,2,11] } }
+            ]
+          },
+          {
+            "head" : [
+              "",
+              { "name" : "iwunidrobe_spacehelmet4", "parameters" : { "colorIndex" : [1,5,6,11] } }, 
+              { "name" : "iwunidrobe_spacehelmet5", "parameters" : { "colorIndex" : [0] } },
+              { "name" : "iwunidrobe_cheapsuithead", "parameters" : { "colorIndex" : [1,5,6,11] } },
+              { "name" : "iwunidrobe_customhelmet1", "parameters" : { "colorIndex" : [1,5,6,11] } },
+              { "name" : "iwunidrobe_customhelmet3", "parameters" : { "colorIndex" : [1,5,6,11] } },
+              { "name" : "iwunidrobe_customhelmet6", "parameters" : { "colorIndex" : [1,5,6,11] } },
+              { "name" : "iwunidrobe_customhelmet8", "parameters" : { "colorIndex" : [1,5,6,11] } }
+            ],
+            "chest" : [
+              { "name" : "medicchest", "parameters" : { "colorIndex" : [1,5,6,11] } },
+              { "name" : "iwunidrobe_cheapsuitchest", "parameters" : { "colorIndex" : [1,5,6,11] } }
+            ],
+            "legs" : [
+              { "name" : "iwunidrobe_cheapsuitlegs", "parameters" : { "colorIndex" : [1,5,6,11] } },
+              { "name" : "iwunidrobe_safetysuitlegs", "parameters" : { "colorIndex" : [1,5,6,11] } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

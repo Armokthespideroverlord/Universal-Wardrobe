@@ -1,0 +1,90 @@
+{
+  // ==============================================================================================
+  //                             UNIVERSAL WARDROBE DUNGEON ENCOUNTERS
+  // ==============================================================================================
+  
+  // ================================
+  //        Space Encounters
+  // ================================
+
+  "iwuni_pkstationBastionSet" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_bandithead12"}
+      ],
+      "poolRounds" : [
+        [0.2, 3],
+        [0.5, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"}
+      ]
+    }]
+  ],
+
+  "iwuni_pkstationSpaceSheriffHelmet" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_bandithead12"}
+      ],
+      "poolRounds" : [
+        [0.2, 3],
+        [0.5, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"}
+      ]
+    }]
+  ],
+
+  "iwuni_criminalLairSet" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_bandithead12"}
+      ],
+      "poolRounds" : [
+        [0.2, 3],
+        [0.5, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"}
+      ]
+    }]
+  ],
+
+  "iwuni_criminalLairHeadwear" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_bandithead12"}
+      ],
+      "poolRounds" : [
+        [0.2, 3],
+        [0.5, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"}
+      ]
+    }]
+  ],
+
+  "iwuni_criminalLairSecret" : [
+    [0, {
+      "fill" : [
+        {"item" : "iwunidrobe_bandithead12"}
+      ],
+      "poolRounds" : [
+        [0.2, 3],
+        [0.5, 4]
+      ],
+      "pool" : [
+        {"weight" : 0.32, "pool" : "chestMoney"},
+        {"weight" : 0.65, "pool" : "commonSpaceItem"}
+      ]
+    }]
+  ]
+}
+

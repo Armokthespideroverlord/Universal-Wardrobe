@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_banditmetaldye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniUniqueDye",
+  "inventoryIcon" : "iwuni_banditmetaldye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#7d7aa8;Bandit Metal^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "7d7aa8", "e0975c" : "59577c", "a85636" : "38364f", "6f2919" : "1b1b2a"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

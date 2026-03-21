@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_livelywooddye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniUniqueDye",
+  "inventoryIcon" : "iwuni_livelywooddye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#d09858;Lively Wood^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "d09858", "e0975c" : "b06c36", "a85636" : "834c27", "6f2919" : "5c2119"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

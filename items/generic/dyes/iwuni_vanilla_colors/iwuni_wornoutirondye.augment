@@ -1,13 +1,13 @@
 {
-  "itemName" : "iwuni_neobrowndye",
+  "itemName" : "iwuni_wornoutirondye",
   "price" : 25,
   "rarity" : "Common",
   "category" : "iwuniVanillaDye",
-  "inventoryIcon" : "iwuni_neobrowndye.png",
+  "inventoryIcon" : "iwuni_wornoutirondye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
-  "shortdescription" : "^#a7674e;Neo-Brown^reset; Dye",
+  "shortdescription" : "^#a69488;Worn-out Iron^reset; Dye",
 
-  "dyeDirectives" : {"ffca8a" : "a7674e", "e0975c" : "7c4e38", "a85636" : "583728", "6f2919" : "382117"},
+  "dyeDirectives" : {"ffca8a" : "a69488", "e0975c" : "6f625a", "a85636" : "524a47", "6f2919" : "2f2a28"},
   "dyeColorIndex": false,
 
   "radioMessagesOnPickup" : [ "pickupdye" ],

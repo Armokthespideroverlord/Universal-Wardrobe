@@ -1,13 +1,13 @@
 {
-  "itemName" : "iwuni_neobrowndye",
+  "itemName" : "iwuni_wooddye",
   "price" : 25,
   "rarity" : "Common",
   "category" : "iwuniVanillaDye",
-  "inventoryIcon" : "iwuni_neobrowndye.png",
+  "inventoryIcon" : "iwuni_wooddye.png",
   "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
-  "shortdescription" : "^#a7674e;Neo-Brown^reset; Dye",
+  "shortdescription" : "^#a49a73;Wood^reset; Dye",
 
-  "dyeDirectives" : {"ffca8a" : "a7674e", "e0975c" : "7c4e38", "a85636" : "583728", "6f2919" : "382117"},
+  "dyeDirectives" : {"ffca8a" : "897c4c", "e0975c" : "6d632f", "a85636" : "463818", "6f2919" : "241c0b"},
   "dyeColorIndex": false,
 
   "radioMessagesOnPickup" : [ "pickupdye" ],
