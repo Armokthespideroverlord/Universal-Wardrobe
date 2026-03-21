@@ -8,8 +8,8 @@
         "op": "add",
         "path": "/learnBlueprintsOnPickup",
         "value": [
-            "iwunidrobe_explorer1achest",
-            "iwunidrobe_explorer1bchest"
+            "iwunidrobe_explorerachest",
+            "iwunidrobe_explorerbchest"
         ]
     }
 ]
