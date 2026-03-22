@@ -5,7 +5,7 @@
   "maxStack" : 1,
   "rarity" : "Uncommon",
   "category" : "chestwear",
-  "description" : "A durable generic chestpiece and a mechanical arm.",
+  "description" : "A durable generic chestpiece with a mechanical arm.",
   "shortdescription" : "Bandits's Chestpiece",
   "tooltipKind" : "armor",
 
