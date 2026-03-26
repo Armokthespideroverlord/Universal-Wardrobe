@@ -4,7 +4,7 @@
   "inventoryIcon" : "icon.png",
   "rarity" : "Legendary",
   "category" : "backwear",
-  "description" : "A corporate backpack with a canister attachment; it's purpose its unknown.",
+  "description" : "A corporate backpack with a canister attachment; its purpose is unknown.",
   "shortdescription" : "Corporate Hazmat Canister",
   "tooltipKind" : "back",
 
