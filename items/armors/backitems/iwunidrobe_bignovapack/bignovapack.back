@@ -4,7 +4,7 @@
   "inventoryIcon" : "icon.png",
   "rarity" : "Uncommon",
   "category" : "backwear",
-  "description" : "A bunch of crates tied together. It will hurt to use it.",
+  "description" : "A bunch of crates tied together. It will hurt to carry it.",
   "shortdescription" : "Merchant's Stockpile",
   "tooltipKind" : "back",
 
