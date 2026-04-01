@@ -1,0 +1,53 @@
+[
+  {
+    "op": "add",
+    "path": "/items/default/0/1/-",
+    "value": {
+      "head": [
+        {
+          "name": "iwunidrobe_oldpkantiriothead",
+          "parameters": {
+            "colorIndex": [
+              0
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_spacepkhelmet",
+          "parameters": {
+            "colorIndex": [
+              0
+            ]
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_oldpkantiriotchest",
+          "parameters": {
+            "colorIndex": [
+              0
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_oldpkantiriotpants",
+          "parameters": {
+            "colorIndex": [
+              0
+            ]
+          }
+        }
+      ],
+      "primary": [
+        "peacekeepernpcpetcapturepod"
+      ],
+      "sheathedprimary": [
+        "npcneolaserlauncher",
+        "gluesprayer"
+      ]
+    }
+  }
+]
