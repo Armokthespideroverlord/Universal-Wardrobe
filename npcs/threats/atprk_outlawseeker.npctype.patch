@@ -108,31 +108,5 @@
                 }
             }
         }
-    ],
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/chest"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_cultistarmor1chest",
-                "parameters": {
-                    "colorIndex": 11
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_cultistarmor2chest",
-                "parameters": {
-                    "colorIndex": 11
-                }
-            }
-        }
     ]
 ]

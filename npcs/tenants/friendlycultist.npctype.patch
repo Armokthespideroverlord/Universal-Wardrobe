@@ -4,7 +4,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_cultistvisor1alt",
+                "name": "iwunidrobe_cultistvisor1",
                 "parameters": {
                     "colorIndex": 0
                 }
@@ -14,7 +14,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_cultistvisor2alt",
+                "name": "iwunidrobe_cultistvisor2",
                 "parameters": {
                     "colorIndex": 0
                 }
@@ -24,7 +24,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_cultistvisor3alt",
+                "name": "iwunidrobe_cultistvisor3",
                 "parameters": {
                     "colorIndex": 0
                 }
@@ -34,7 +34,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_cultistvisor5alt",
+                "name": "iwunidrobe_cultistvisor5",
                 "parameters": {
                     "colorIndex": 0
                 }
@@ -44,7 +44,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_banditvisor1cultist",
+                "name": "iwunidrobe_banditvisor1",
                 "parameters": {
                     "colorIndex": 0
                 }
@@ -54,7 +54,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_banditvisor3cultist",
+                "name": "iwunidrobe_banditvisor3",
                 "parameters": {
                     "colorIndex": 0
                 }
@@ -64,7 +64,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_banditvisor6cultist",
+                "name": "iwunidrobe_banditvisor6",
                 "parameters": {
                     "colorIndex": 0
                 }
@@ -74,49 +74,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
-                "name": "iwunidrobe_banditvisor7cultist",
-                "parameters": {
-                    "colorIndex": 0
-                }
-            }
-        }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_cultistarmor1chest",
-                "parameters": {
-                    "colorIndex": 0
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_cultistarmor3bchest",
-                "parameters": {
-                    "colorIndex": 0
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_cultistarmor4chest",
-                "parameters": {
-                    "colorIndex": 0
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_cultistarmor6chest",
+                "name": "iwunidrobe_banditvisor7",
                 "parameters": {
                     "colorIndex": 0
                 }
