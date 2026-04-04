@@ -1,10 +1,10 @@
 {
   //Made by Tea-Loving Lad
   "itemName" : "iwunidrobe_lurkeraltchest",
-  "price" : 100,
+  "price" : 500,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "chestwear",
   "description" : "The scruffy, tattered exterior hides a few extra bone plates.",
   "shortdescription" : "Lurker Armored Pelt",

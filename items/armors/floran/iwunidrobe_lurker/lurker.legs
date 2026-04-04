@@ -1,7 +1,7 @@
 {
   //Made by Tea-Loving Lad
   "itemName" : "iwunidrobe_lurkerpants",
-  "price" : 100,
+  "price" : 125,
   "type" : "Legs",
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,

@@ -1,11 +1,11 @@
 {
   //Made by Tea-Loving Lad
   "itemName" : "iwunidrobe_lurkeraltlegs",
-  "price" : 100,
+  "price" : 500,
   "type" : "Legs",
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "legwear",
   "description" : "Ready to pounce on the next stabbing opportunity.",
   "shortdescription" : "Lurker Hind Legs",

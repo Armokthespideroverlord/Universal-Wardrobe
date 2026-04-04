@@ -1,11 +1,11 @@
 {
   //Made by Tea-Loving Lad
   "itemName" : "iwunidrobe_lurkeralthead",
-  "price" : 100,
+  "price" : 500,
   "size" : [43, 43],
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "headwear",
   "description" : "Not the most pleasant sight to see before you get stabbed.",
   "shortdescription" : "Lurker Horned Visage",

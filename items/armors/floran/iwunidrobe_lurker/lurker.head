@@ -1,7 +1,7 @@
 {
   //Made by Tea-Loving Lad
   "itemName" : "iwunidrobe_lurkerhead",
-  "price" : 100,
+  "price" : 125,
   "size" : [43, 43],
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,

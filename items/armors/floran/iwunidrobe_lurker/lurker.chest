@@ -1,7 +1,7 @@
 {
   //Made by Tea-Loving Lad
   "itemName" : "iwunidrobe_lurkerchest",
-  "price" : 100,
+  "price" : 125,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Common",
