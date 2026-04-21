@@ -15,7 +15,7 @@
             "mode" : "transition",
             "transition" : "confetti",
             "properties" : {
-              "immediateSound" : "/sfx/objects/bunkercabinet_open.ogg",
+              "immediateSound" : "/sfx/objects/chest_small_open.ogg",
               "particleEmittersOff" : [ "confetti" ]
             },
             "frameProperties" : {
