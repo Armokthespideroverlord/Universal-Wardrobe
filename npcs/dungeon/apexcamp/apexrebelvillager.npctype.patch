@@ -3,7 +3,7 @@
     {
       "op": "test",
       "path": "/items/override/0/1/0/back",
-      "inverse": true,
+      "inverse": true
     },
     {
       "op": "add",
