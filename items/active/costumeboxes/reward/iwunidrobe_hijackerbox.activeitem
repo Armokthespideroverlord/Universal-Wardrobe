@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "A modified explorer armor still in it's case.",
+  "description" : "A set of modified explorer armor still in it's case.",
   "shortdescription" : "^red;Hijacker's Armor Case^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
