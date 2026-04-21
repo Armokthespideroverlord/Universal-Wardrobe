@@ -6,5 +6,5 @@
   ],
   "duration" : 1,
   "output" : { "item" : "iwunidrobe_corporesearcherbox", "count" : 1 },
-  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_uniqueclothes" ]
 }
