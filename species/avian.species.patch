@@ -1,0 +1,184 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/defaultBlueprints/tier1"
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_traderchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_warriorchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_traderpants"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_warriorpants"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat1"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat2"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat3"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat4"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat5"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat6"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat7"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat8"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat9"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat10"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat11"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_avianhat12"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/0/shirt"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_traderchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_warriorchest"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/0/pants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/pants/-",
+      "value": "iwunidrobe_traderpants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/pants/-",
+      "value": "iwunidrobe_warriorpants"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/1/shirt"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_traderchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_warriorchest"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/1/pants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/pants/-",
+      "value": "iwunidrobe_traderpants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/pants/-",
+      "value": "iwunidrobe_warriorpants"
+    }
+  ]
+]

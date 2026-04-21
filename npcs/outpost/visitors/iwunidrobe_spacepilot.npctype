@@ -1,6 +1,7 @@
 {
   "type" : "iwunidrobe_spacepilot",
   "baseType" : "outpostvisitor",
+  "displayTitle" : "Space Pilot",
 
   "scriptConfig" : {
     "dialog" : {

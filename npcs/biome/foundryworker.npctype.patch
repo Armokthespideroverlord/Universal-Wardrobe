@@ -1,0 +1,87 @@
+[
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigscrappack",
+        "parameters": {
+          "colorIndex": [
+            0,
+            1
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": ""
+          },
+          {
+            "name": "foundryback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_bigscrappack",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1
+              ]
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_safetysuitchest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                6
+              ]
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "foundryhardhathead",
+            "parameters": {
+              "colorIndex": 5
+            }
+          },
+          {
+            "name": "foundryhardhathead",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "foundryhardhathead",
+            "parameters": {
+              "colorIndex": 8
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_safetysuitlegs",
+            "parameters": {
+              "colorIndex": [
+                0,
+                6
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+]

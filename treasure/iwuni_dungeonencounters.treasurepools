@@ -10,7 +10,7 @@
   "iwuni_pkstationBastionSet" : [
     [0, {
       "fill" : [
-        {"item" : "iwunidrobe_bandithead12"}
+        {"item" : "iwunidrobe_oldantiriotbox"}
       ],
       "poolRounds" : [
         [0.2, 3],
@@ -26,7 +26,7 @@
   "iwuni_pkstationSpaceSheriffHelmet" : [
     [0, {
       "fill" : [
-        {"item" : "iwunidrobe_bandithead12"}
+        {"item" : "iwunidrobe_spacepkhelmet"}
       ],
       "poolRounds" : [
         [0.2, 3],
@@ -42,7 +42,7 @@
   "iwuni_criminalLairSet" : [
     [0, {
       "fill" : [
-        {"item" : "iwunidrobe_bandithead12"}
+        {"item" : "iwunidrobe_neopiratebox"}
       ],
       "poolRounds" : [
         [0.2, 3],
@@ -58,7 +58,7 @@
   "iwuni_criminalLairHeadwear" : [
     [0, {
       "fill" : [
-        {"item" : "iwunidrobe_bandithead12"}
+        {"item" : "iwunidrobe_banditlootbox"}
       ],
       "poolRounds" : [
         [0.2, 3],
@@ -74,7 +74,7 @@
   "iwuni_criminalLairSecret" : [
     [0, {
       "fill" : [
-        {"item" : "iwunidrobe_bandithead12"}
+        {"pool" : "iwunidrobe_lairHelmetReward"}
       ],
       "poolRounds" : [
         [0.2, 3],

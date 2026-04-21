@@ -140,6 +140,48 @@
 	  //Apex Rebel Camp
         {
             "op": "add",
+            "path": "/apexcampTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_apexrebeldhat1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexcampTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_apexrebeldhat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexcampTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_apexrebeldhat3"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexcampTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_apexrebeldhat4"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/apexcampTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_apexrebeldhat5"
+            }
+        },
+
+
+        {
+            "op": "add",
             "path": "/apexcampChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.05,
@@ -173,19 +215,603 @@
     ],
 
     [
+	  //Avian Grounded Village
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat3"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat4"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat5"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat6"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat7"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat8"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat9"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat10"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat11"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat12"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/avianvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_owlearhathead"
+            }
+        }
+    ],
+
+    [
+	  //Avian Native Village
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat3"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat4"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat5"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat6"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat7"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat8"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat9"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat10"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat11"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/aviannativevillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_avianhat12"
+            }
+        }
+    ],
+
+    [
+	  //Avian Airship
+        {
+            "op": "add",
+            "path": "/avianairshipChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_owlearhathead"
+            }
+        }
+    ],
+
+    [
+	  //Floran Hunting Grounds
+        {
+            "op": "add",
+            "path": "/floranhuntinggroundsTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhuntinggroundsTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat3b"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhuntinggroundsTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat4a"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhuntinggroundsTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat4c"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhuntinggroundsTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat5a"
+            }
+        }
+    ],
+
+    [
+	  //Floran Canyon
+        {
+            "op": "add",
+            "path": "/florancanyonTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/florancanyonTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat3b"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/florancanyonTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat4a"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/florancanyonTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat4c"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/florancanyonTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat5a"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/florancanyonTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_lurkerbox"
+            }
+        }
+    ],
+
+    [
+	  //Floran Treetop Village
+        {
+            "op": "add",
+            "path": "/floranvillagetowerTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranvillagetowerTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat3"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranvillagetowerTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat3a"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranvillagetowerTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat4"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranvillagetowerTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat4b"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranvillagetowerTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat4d"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranvillagetowerTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat5"
+            }
+        }
+    ],
+
+    [
+	  //Floran Hut Village
+        {
+            "op": "add",
+            "path": "/floranhutvillageTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhutvillageTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhutvillageTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat3"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhutvillageTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat3a"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhutvillageTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat4"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhutvillageTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat4b"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhutvillageTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat4d"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/floranhutvillageTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.04,
+                "item": "iwunidrobe_floranhat5"
+            }
+        }
+    ],
+
+    [
+	  //Glitch Dungeon Crawler
+        {
+            "op": "add",
+            "path": "/dungeoncrawlerChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_glitchhat3b"
+            }
+        }
+    ],
+
+    [
 	  //Glitch Castle
         {
             "op": "add",
             "path": "/glitchcastleChestTreasure/0/1/pool/-",
             "value": {
-                "weight": 0.04,
+                "weight": 0.03,
                 "item": "iwunidrobe_pointedhelmet"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat6"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat7"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat7a"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat7b"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat8"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat9"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat10"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat11"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "glitchroyalhead"
             }
         }
     ],
 
     [
 	  //Glitch Village
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat3"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat3a"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat3b"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat4"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.03,
+                "item": "iwunidrobe_glitchhat5"
+            }
+        },
         {
             "op": "add",
             "path": "/glitchvillageChestTreasure/0/1/pool/-",
@@ -331,11 +957,103 @@
                 "weight": 0.02,
                 "item": "iwunidrobe_illmeaninggrimace"
             }
+        },
+        {
+            "op": "add",
+            "path": "/hylotlruinedcastleChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_kaizokubox"
+            }
+        }
+    ],
+
+    [
+	  //Hylotl Underwater City
+        {
+            "op": "add",
+            "path": "/hylotloceancityChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_hylotlhat1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hylotloceancityChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_hylotlhat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hylotloceancityChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_hylotlhat3"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hylotloceancityChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_hylotlhat4"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hylotloceancityChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_hylotlhat5"
+            }
         }
     ],
 
     [
 	  //Hylotl Surface Village
+        {
+            "op": "add",
+            "path": "/hylotlcityTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_hylotlhat1"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hylotlcityTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_hylotlhat2"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hylotlcityTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_hylotlhat3"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hylotlcityTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_hylotlhat4"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/hylotlcityTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.02,
+                "item": "iwunidrobe_hylotlhat5"
+            }
+        },
         {
             "op": "add",
             "path": "/hylotlcityChestTreasure/0/1/pool/-",
@@ -402,6 +1120,14 @@
             "value": {
                 "weight": 0.01,
                 "item": "iwunidrobe_wheatstem"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/novakidvillageChestTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.01,
+                "item": "iwunidrobe_desperadobox"
             }
         }
     ],

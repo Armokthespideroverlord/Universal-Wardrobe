@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_apexrebeldhat3", "count" : 1 },
+    { "item" : "ironbar", "count" : 1 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_apexrebeldhat3a", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

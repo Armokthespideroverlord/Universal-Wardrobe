@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "leather", "count" : 1 },
+    { "item" : "string", "count" : 5 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "iwunidrobe_apexrebeldhat5", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

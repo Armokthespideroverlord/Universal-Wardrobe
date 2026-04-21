@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_plundererbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "iwuniCostumeSet",
+  "description" : "A modified explorer armor still in it's case.",
+  "shortdescription" : "^red;Plunderer's Armor Case^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_banditplundererbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "plundererboxicon.png",
+  "animation" : "iwunidrobe_banditloot.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_plundererlootbox",
+    "level" : 1
+  }
+}

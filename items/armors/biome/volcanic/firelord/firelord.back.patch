@@ -1,0 +1,50 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/colorOptions/0/ffca8a",
+      "value": "b2e89d"
+    },
+    {
+      "op": "replace",
+      "path": "/colorOptions/0/ffca8a",
+      "value": "fffcc6"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/colorOptions/0/e0975c",
+      "value": "51bd3b"
+    },
+    {
+      "op": "replace",
+      "path": "/colorOptions/0/e0975c",
+      "value": "fff548"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/colorOptions/0/a85636",
+      "value": "247824"
+    },
+    {
+      "op": "replace",
+      "path": "/colorOptions/0/a85636",
+      "value": "ffc029"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/colorOptions/0/6f2919",
+      "value": "144216"
+    },
+    {
+      "op": "replace",
+      "path": "/colorOptions/0/6f2919",
+      "value": "ed6e24"
+    }
+  ]
+]

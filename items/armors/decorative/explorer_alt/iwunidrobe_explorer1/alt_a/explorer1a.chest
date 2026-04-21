@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "chestwear",
   "description" : "A durable generic chestpiece with a mechanical arm.",
-  "shortdescription" : "Bandit's Chestpiece",
+  "shortdescription" : "Plunderer's Chestpiece",
   "tooltipKind" : "armor",
 
   "maleFrames" : {

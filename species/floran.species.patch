@@ -1,0 +1,135 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/defaultBlueprints/tier1"
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_butcherchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_sawboneschest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_butcherpants"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_sawbonespants"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_floranhat1"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_floranhat2"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_floranhat3"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_floranhat4"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_floranhat5"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/0/shirt"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_butcherchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_sawboneschest"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/0/pants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/pants/-",
+      "value": "iwunidrobe_butcherpants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/pants/-",
+      "value": "iwunidrobe_sawbonespants"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/1/shirt"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_butcherchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_sawboneschest"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/1/pants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/pants/-",
+      "value": "iwunidrobe_butcherpants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/pants/-",
+      "value": "iwunidrobe_sawbonespants"
+    }
+  ]
+]

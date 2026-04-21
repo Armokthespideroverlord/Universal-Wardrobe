@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_lurkerhead", "count" : 1 },
+    { "item" : "iwunidrobe_lurkerchest", "count" : 1 },
+    { "item" : "iwunidrobe_lurkerpants", "count" : 1 },
+    { "item" : "bone", "count" : 5 },
+    { "item" : "leather", "count" : 2 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_lurkeraltbox", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

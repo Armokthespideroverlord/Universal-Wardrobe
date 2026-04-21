@@ -1,932 +1,3461 @@
 [
-    [
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_hovertruckercap",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_hovertruckercap",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_hovertruckercap",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_hovertruckercap",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_sunvisor1",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_sunvisor1",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_sunvisor1",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_sunvisor1",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_sunvisorlarge1",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_sunvisorlarge1",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_sunvisorlarge1",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_sunvisorlarge1",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_hardworkingheadband",
+      "parameters": {
+        "colorIndex": 4
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_hardworkingheadband",
+      "parameters": {
+        "colorIndex": 5
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_hardworkingheadband",
+      "parameters": {
+        "colorIndex": 6
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_hardworkingheadband",
+      "parameters": {
+        "colorIndex": 7
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_hardworkingheadband",
+      "parameters": {
+        "colorIndex": 8
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_headscarf",
+      "parameters": {
+        "colorIndex": 4
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_headscarf",
+      "parameters": {
+        "colorIndex": 5
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_headscarf",
+      "parameters": {
+        "colorIndex": 6
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_headscarf",
+      "parameters": {
+        "colorIndex": 7
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_headscarf",
+      "parameters": {
+        "colorIndex": 8
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_openheadscarf",
+      "parameters": {
+        "colorIndex": 4
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_openheadscarf",
+      "parameters": {
+        "colorIndex": 5
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_openheadscarf",
+      "parameters": {
+        "colorIndex": 6
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_openheadscarf",
+      "parameters": {
+        "colorIndex": 7
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_openheadscarf",
+      "parameters": {
+        "colorIndex": 8
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_thinheadwrap",
+      "parameters": {
+        "colorIndex": 4
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_thinheadwrap",
+      "parameters": {
+        "colorIndex": 5
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_thinheadwrap",
+      "parameters": {
+        "colorIndex": 6
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_thinheadwrap",
+      "parameters": {
+        "colorIndex": 7
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_thinheadwrap",
+      "parameters": {
+        "colorIndex": 8
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_blouse",
+      "parameters": {
+        "colorIndex": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_blousonjacket",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_bomberjacket",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_flightjacket",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_flightjacketalt",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_windbreaker",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_leatherjacket",
+      "parameters": {
+        "colorIndex": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_camperchest",
+      "parameters": {
+        "colorIndex": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 0
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 2
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 4
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 6
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 7
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 8
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/chest/-",
+    "value": {
+      "name": "iwunidrobe_blouse",
+      "parameters": {
+        "colorIndex": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/chest/-",
+    "value": {
+      "name": "iwunidrobe_blousonjacket",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/chest/-",
+    "value": {
+      "name": "iwunidrobe_bomberjacket",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/chest/-",
+    "value": {
+      "name": "iwunidrobe_flightjacket",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/chest/-",
+    "value": {
+      "name": "iwunidrobe_flightjacketalt",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/chest/-",
+    "value": {
+      "name": "iwunidrobe_windbreaker",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/chest/-",
+    "value": {
+      "name": "iwunidrobe_leatherjacket",
+      "parameters": {
+        "colorIndex": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/chest/-",
+    "value": {
+      "name": "iwunidrobe_camperchest",
+      "parameters": {
+        "colorIndex": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 0
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 2
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 4
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 6
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 7
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/1/legs/-",
+    "value": {
+      "name": "iwunidrobe_camperpants",
+      "parameters": {
+        "colorIndex": 8
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/2/chest/-",
+    "value": {
+      "name": "iwunidrobe_blouse",
+      "parameters": {
+        "colorIndex": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/2/chest/-",
+    "value": {
+      "name": "iwunidrobe_hawaiishirt",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/2/chest/-",
+    "value": {
+      "name": "iwunidrobe_climberchest",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/2/legs/-",
+    "value": {
+      "name": "iwunidrobe_climberpants",
+      "parameters": {
+        "colorIndex": 1
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/2/legs/-",
+    "value": {
+      "name": "iwunidrobe_climberpants",
+      "parameters": {
+        "colorIndex": 2
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/2/legs/-",
+    "value": {
+      "name": "iwunidrobe_climberpants",
+      "parameters": {
+        "colorIndex": 6
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/human/0/1/2/legs/-",
+    "value": {
+      "name": "iwunidrobe_climberpants",
+      "parameters": {
+        "colorIndex": 11
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/avian/0/1/-",
+    "value": {
+      "head": [
+        "",
+        "",
         {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_hovertruckercap",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
+          "name": "iwunidrobe_avianhat1",
+          "parameters": {
+            "colorIndex": 0
+          }
         },
         {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_hovertruckercap",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
+          "name": "iwunidrobe_avianhat4",
+          "parameters": {
+            "colorIndex": 0
+          }
         },
         {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_hovertruckercap",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
+          "name": "iwunidrobe_avianhat7",
+          "parameters": {
+            "colorIndex": 0
+          }
         },
         {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_hovertruckercap",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
+          "name": "iwunidrobe_avianhat10",
+          "parameters": {
+            "colorIndex": 0
+          }
         },
         {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_sunvisor1",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_sunvisor1",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_sunvisor1",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_sunvisor1",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_sunvisorlarge1",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_sunvisorlarge1",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_sunvisorlarge1",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_sunvisorlarge1",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_hardworkingheadband",
-                "parameters": {
-                    "colorIndex": 4
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_hardworkingheadband",
-                "parameters": {
-                    "colorIndex": 5
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_hardworkingheadband",
-                "parameters": {
-                    "colorIndex": 6
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_hardworkingheadband",
-                "parameters": {
-                    "colorIndex": 7
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_hardworkingheadband",
-                "parameters": {
-                    "colorIndex": 8
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_headscarf",
-                "parameters": {
-                    "colorIndex": 4
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_headscarf",
-                "parameters": {
-                    "colorIndex": 5
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_headscarf",
-                "parameters": {
-                    "colorIndex": 6
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_headscarf",
-                "parameters": {
-                    "colorIndex": 7
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_headscarf",
-                "parameters": {
-                    "colorIndex": 8
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_openheadscarf",
-                "parameters": {
-                    "colorIndex": 4
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_openheadscarf",
-                "parameters": {
-                    "colorIndex": 5
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_openheadscarf",
-                "parameters": {
-                    "colorIndex": 6
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_openheadscarf",
-                "parameters": {
-                    "colorIndex": 7
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_openheadscarf",
-                "parameters": {
-                    "colorIndex": 8
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_thinheadwrap",
-                "parameters": {
-                    "colorIndex": 4
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_thinheadwrap",
-                "parameters": {
-                    "colorIndex": 5
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_thinheadwrap",
-                "parameters": {
-                    "colorIndex": 6
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_thinheadwrap",
-                "parameters": {
-                    "colorIndex": 7
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_thinheadwrap",
-                "parameters": {
-                    "colorIndex": 8
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_blouse",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_blousonjacket",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_bomberjacket",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_flightjacket",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_flightjacketalt",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_windbreaker",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_leatherjacket",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/1/chest/-",
-            "value": {
-                "name": "iwunidrobe_blouse",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/1/chest/-",
-            "value": {
-                "name": "iwunidrobe_blousonjacket",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/1/chest/-",
-            "value": {
-                "name": "iwunidrobe_bomberjacket",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/1/chest/-",
-            "value": {
-                "name": "iwunidrobe_flightjacket",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/1/chest/-",
-            "value": {
-                "name": "iwunidrobe_flightjacketalt",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/1/chest/-",
-            "value": {
-                "name": "iwunidrobe_windbreaker",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/1/chest/-",
-            "value": {
-                "name": "iwunidrobe_leatherjacket",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        11
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/2/chest/-",
-            "value": {
-                "name": "iwunidrobe_blouse",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/human/0/1/2/chest/-",
-            "value": {
-                "name": "iwunidrobe_hawaiishirt",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9,
-                        10
-                    ]
-                }
-            }
+          "name": "featherhead",
+          "parameters": {
+            "colorIndex": 0
+          }
         }
-    ],
-    [
+      ],
+      "chest": [
         {
-            "op": "add",
-            "path": "/items/glitch/0/1/0/head",
-            "value": [
-                {
-                    "name": "iwunidrobe_polkadothood",
-                    "parameters": {
-                        "colorIndex": [
-                            1,
-                            3,
-                            4,
-                            5,
-                            6,
-                            7,
-                            8,
-                            9
-                        ]
-                    }
-                },
-                {
-                    "name": "iwunidrobe_thinheadwrap",
-                    "parameters": {
-                        "colorIndex": [
-                            1,
-                            3,
-                            4,
-                            5,
-                            6,
-                            7,
-                            8,
-                            9
-                        ]
-                    }
-                },
-                {
-                    "name": "plainhoodhead",
-                    "parameters": {
-                        "colorIndex": [
-                            1,
-                            4,
-                            5,
-                            6,
-                            7,
-                            8,
-                            9
-                        ]
-                    }
-                },
-                {
-                    "name": "phrygiancaphead",
-                    "parameters": {
-                        "colorIndex": [
-                            1,
-                            4,
-                            5,
-                            6,
-                            7,
-                            8,
-                            9
-                        ]
-                    }
-                },
-                "",
-                "",
-                "",
-                "",
-                ""
+          "name": "avianadventurershirt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
             ]
+          }
         },
         {
-            "op": "add",
-            "path": "/items/glitch/0/1/0/chest/-",
-            "value": {
-                "name": "craftsmenchest",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/glitch/0/1/0/legs/-",
-            "value": {
-                "name": "craftsmenlegs",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        }
-    ],
-    [
-        {
-            "op": "add",
-            "path": "/items/novakid/0/1/0/head",
-            "value": [
-                {
-                    "name": "iwunidrobe_novahat1alt",
-                    "parameters": {
-                        "colorIndex": [
-                            1
-                        ]
-                    }
-                },
-                {
-                    "name": "iwunidrobe_novahat1alt",
-                    "parameters": {
-                        "colorIndex": [
-                            11
-                        ]
-                    }
-                },
-                {
-                    "name": "iwunidrobe_novahat3alt",
-                    "parameters": {
-                        "colorIndex": [
-                            1
-                        ]
-                    }
-                },
-                {
-                    "name": "iwunidrobe_novahat3alt",
-                    "parameters": {
-                        "colorIndex": [
-                            11
-                        ]
-                    }
-                },
-                {
-                    "name": "iwunidrobe_novahat4alt",
-                    "parameters": {
-                        "colorIndex": [
-                            1
-                        ]
-                    }
-                },
-                {
-                    "name": "iwunidrobe_novahat4alt",
-                    "parameters": {
-                        "colorIndex": [
-                            11
-                        ]
-                    }
-                },
-                {
-                    "name": "iwunidrobe_novahat5alt",
-                    "parameters": {
-                        "colorIndex": [
-                            1
-                        ]
-                    }
-                },
-                {
-                    "name": "iwunidrobe_novahat5alt",
-                    "parameters": {
-                        "colorIndex": [
-                            11
-                        ]
-                    }
-                },
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
+          "name": "aviancommonershirt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
             ]
+          }
+        },
+        {
+          "name": "avianfancyshirt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "avianworkershirt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
         }
+      ],
+      "legs": [
+        {
+          "name": "avianadventurerpants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "aviancommonerlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "avianfancyskirt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/avian/0/1/-",
+    "value": {
+      "head": [
+        "",
+        {
+          "name": "iwunidrobe_avianhat2",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat5",
+          "parameters": {
+            "colorIndex": [
+              0,
+              3,
+              4,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat8",
+          "parameters": {
+            "colorIndex": [
+              0,
+              8,
+              9,
+              10
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat11",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          }
+        },
+        {
+          "name": "featherhead",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 4
+          }
+        },
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 5
+          }
+        },
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 6
+          }
+        },
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 7
+          }
+        },
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 8
+          }
+        },
+        {
+          "name": "iwunidrobe_traderchest",
+          "parameters": {
+            "colorIndex": 9
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_traderpants",
+          "parameters": {
+            "colorIndex": 4
+          }
+        },
+        {
+          "name": "iwunidrobe_traderpants",
+          "parameters": {
+            "colorIndex": 5
+          }
+        },
+        {
+          "name": "iwunidrobe_traderpants",
+          "parameters": {
+            "colorIndex": 6
+          }
+        },
+        {
+          "name": "iwunidrobe_traderpants",
+          "parameters": {
+            "colorIndex": 7
+          }
+        },
+        {
+          "name": "iwunidrobe_traderpants",
+          "parameters": {
+            "colorIndex": 8
+          }
+        },
+        {
+          "name": "iwunidrobe_traderpants",
+          "parameters": {
+            "colorIndex": 9
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/avian/0/1/-",
+    "value": {
+      "head": [
+        "",
+        {
+          "name": "iwunidrobe_avianhat3",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat6",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat9",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat12",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              11
+            ]
+          }
+        },
+        {
+          "name": "featherhead",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_warriorchest",
+          "parameters": {
+            "colorIndex": [
+              4,
+              5,
+              6
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_warriorpants",
+          "parameters": {
+            "colorIndex": [
+              4,
+              5,
+              6
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/apex/0/1/-",
+    "value": {
+      "head": [
+        "",
+        "",
+        {
+          "name": "iwunidrobe_apexmerchanthead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_mnkgglasseshead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_mnkgcaphead",
+          "parameters": {
+            "colorIndex": 2
+          }
+        },
+        {
+          "name": "iwunidrobe_avianhat12",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              11
+            ]
+          }
+        },
+        {
+          "name": "featherhead",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "apexcommanderjacket",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "apexnavyjacket",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "apexspecialistjacket",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "apexcommanderpants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "apexnavypants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "apexspecialistpants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/apex/0/1/-",
+    "value": {
+      "head": [
+        "",
+        "",
+        {
+          "name": "iwunidrobe_flatcaphead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              2,
+              11
+            ]
+          }
+        },
+        {
+          "name": "fancyhead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              2,
+              3
+            ]
+          }
+        },
+        {
+          "name": "fedora",
+          "parameters": {
+            "colorIndex": [
+              1,
+              2,
+              3
+            ]
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_alphachest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              2,
+              3
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_alphapants",
+          "parameters": {
+            "colorIndex": 1
+          }
+        },
+        {
+          "name": "iwunidrobe_alphapants",
+          "parameters": {
+            "colorIndex": 2
+          }
+        },
+        {
+          "name": "iwunidrobe_alphapants",
+          "parameters": {
+            "colorIndex": 3
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/apex/0/1/-",
+    "value": {
+      "head": [
+        "",
+        "",
+        "",
+        "",
+        {
+          "name": "iwunidrobe_flatcaphead",
+          "parameters": {
+            "colorIndex": 11
+          }
+        },
+        {
+          "name": "iwunidrobe_apexrebeldhat1",
+          "parameters": {
+            "colorIndex": 11
+          }
+        },
+        {
+          "name": "iwunidrobe_headimplant",
+          "parameters": {
+            "colorIndex": 3
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_epsilonchest"
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_epsilonpants"
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/floran/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_butcherchest",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/floran/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_sawboneschest",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/floran/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_butcherpants",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/floran/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_sawbonespants",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/floran/0/1/-",
+    "value": {
+      "head": [
+        "",
+        {
+          "name": "iwunidrobe_floranhat1",
+          "parameters": {
+            "colorIndex": [
+              0,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat2",
+          "parameters": {
+            "colorIndex": [
+              3,
+              5,
+              7,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat3",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat3a",
+          "parameters": {
+            "colorIndex": [
+              0,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat4",
+          "parameters": {
+            "colorIndex": [
+              0,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat4b",
+          "parameters": {
+            "colorIndex": [
+              0,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat4d",
+          "parameters": {
+            "colorIndex": [
+              0,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_floranhat5",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "floranfurnivourchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "floranhunterchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "floranleafchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "floranpeltchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_butcherchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_sawboneschest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "floranfurnivourlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "floranhunterlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "floranleaflegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "floranpeltlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_butcherpants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_sawbonespants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/glitch/0/1/0/head",
+    "value": [
+      "",
+      "",
+      "",
+      "",
+      {
+        "name": "iwunidrobe_polkadothood",
+        "parameters": {
+          "colorIndex": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_thinheadwrap",
+        "parameters": {
+          "colorIndex": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "plainhoodhead",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat2",
+        "parameters": {
+          "colorIndex": 0
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat3",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat3a",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat4",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat4a",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat6",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat7",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat7",
+        "parameters": {
+          "colorIndex": 0
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat7a",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat7a",
+        "parameters": {
+          "colorIndex": 0
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat7b",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat7b",
+        "parameters": {
+          "colorIndex": 0
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat7open",
+        "parameters": {
+          "colorIndex": [
+            1,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat7open",
+        "parameters": {
+          "colorIndex": 0
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat1",
+        "parameters": {
+          "colorIndex": [
+            1,
+            3,
+            11
+          ]
+        }
+      },
+      {
+        "name": "iwunidrobe_glitchhat1alt",
+        "parameters": {
+          "colorIndex": [
+            1,
+            3,
+            11
+          ]
+        }
+      }
     ]
+  },
+  {
+    "op": "add",
+    "path": "/items/glitch/0/1/0/chest/-",
+    "value": {
+      "name": "craftsmenchest",
+      "parameters": {
+        "colorIndex": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/glitch/0/1/0/legs/-",
+    "value": {
+      "name": "craftsmenlegs",
+      "parameters": {
+        "colorIndex": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/glitch/0/1/-",
+    "value": {
+      "head": [
+        "",
+        "",
+        "",
+        "",
+        {
+          "name": "iwunidrobe_polkadothood",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_thinheadwrap",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "plainhoodhead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat3",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat3a",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat6",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7a",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7a",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7b",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7b",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7open",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat7open",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchmh3",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchmh4",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "noblechest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "craftsmenchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_minstrelchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "noblelegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "craftsmenlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_minstrelpants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/glitch/0/1/-",
+    "value": {
+      "head": [
+        "",
+        "",
+        "",
+        "",
+        {
+          "name": "iwunidrobe_polkadothood",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_thinheadwrap",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "plainhoodhead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat1",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat1alt",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat2",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat3",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat3a",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat4",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchhat4a",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchmh1",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_glitchmh2",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              11
+            ]
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "peasantchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              11
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "peasantlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              11
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/glitch/0/1/-",
+    "value": {
+      "head": [
+        "",
+        "",
+        "",
+        "",
+        {
+          "name": "plainhoodhead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              11
+            ]
+          }
+        },
+        {
+          "name": "phrygiancaphead",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              11
+            ]
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_monkchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              11
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_monkpants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              11
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/hylotl/0/1/0/chest/3",
+    "value": {
+      "name": "traineechest",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/hylotl/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_calligrapherchest",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/hylotl/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_performerchest",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/hylotl/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_calligrapherlegs",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/hylotl/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_performerlegs",
+      "parameters": {
+        "colorIndex": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/hylotl/0/1/-",
+    "value": {
+      "head": [
+        "",
+        "",
+        {
+          "name": "iwunidrobe_hylotlhat1",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_hylotlhat2",
+          "parameters": {
+            "colorIndex": 0
+          }
+        },
+        {
+          "name": "iwunidrobe_hylotlhat4",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "traditionalchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "traineechest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_performerchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "traditionallegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "traineelegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_performerlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/hylotl/0/1/-",
+    "value": {
+      "head": [
+        "",
+        "",
+        {
+          "name": "iwunidrobe_hylotlhat3",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_hylotlhat5",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_hylotlhat4",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "glasses3eyes",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "kimonochest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "monkchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_calligrapherchest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "kimonolegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "monklegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_calligrapherlegs",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/novakid/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_farmerchest",
+      "parameters": {
+        "colorIndex": [
+          0,
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/novakid/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_diggerchest",
+      "parameters": {
+        "colorIndex": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/novakid/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_farmerpants",
+      "parameters": {
+        "colorIndex": [
+          0,
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/novakid/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_diggerpants",
+      "parameters": {
+        "colorIndex": [
+          0,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/novakid/0/1/-",
+    "value": {
+      "head": [
+        "",
+        "",
+        "",
+        {
+          "name": "iwunidrobe_novahat1alt",
+          "parameters": {
+            "colorIndex": [
+              1
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat1alt",
+          "parameters": {
+            "colorIndex": [
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat3alt",
+          "parameters": {
+            "colorIndex": [
+              1
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat3alt",
+          "parameters": {
+            "colorIndex": [
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat4alt",
+          "parameters": {
+            "colorIndex": [
+              1
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat4alt",
+          "parameters": {
+            "colorIndex": [
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat5alt",
+          "parameters": {
+            "colorIndex": [
+              1
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat5alt",
+          "parameters": {
+            "colorIndex": [
+              11
+            ]
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "novakidfancychest",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "novakidjacket",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "novakidsuspenders",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "novakidwaistcoat",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_farmerchest",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_diggerchest",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              11
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "novakidfancypants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "novakidjacketpants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "novakidsuspenderspants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "novakidblackpants",
+          "parameters": {
+            "colorIndex": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_farmerpants",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_diggerpants",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              11
+            ]
+          }
+        }
+      ]
+    }
+  }
 ]

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 3 },
+    { "item" : "fabric", "count" : 10 },
+    { "item" : "string", "count" : 5 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "iwunidrobe_apexrebeldhat4", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

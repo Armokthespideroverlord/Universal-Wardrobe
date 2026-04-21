@@ -108,7 +108,29 @@
         "value": {
             "weight": 0.0003,
             "item": [
-                "cardboardboxarmor",
+                "t2helm1",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "t2helm2",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "hottophathead",
                 1
             ]
         }
@@ -295,7 +317,40 @@
         "value": {
             "weight": 0.0003,
             "item": [
-                "iwunidrobe_cultistlootbox",
+                "iwunidrobe_foxtrapperhead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_enormoushathead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_tinyhathead",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_widecaphead",
                 1
             ]
         }
@@ -348,6 +403,28 @@
             "weight": 0.0003,
             "item": [
                 "iwunidrobe_mutineerbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_stalwartbox",
+                1
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/costume/0/1/pool/-",
+        "value": {
+            "weight": 0.0003,
+            "item": [
+                "iwunidrobe_uscmheadwearbox",
                 1
             ]
         }

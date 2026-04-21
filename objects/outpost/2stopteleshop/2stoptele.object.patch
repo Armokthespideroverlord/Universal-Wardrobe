@@ -1,0 +1,100 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/npctypes"
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "human",
+          "novakid"
+        ],
+        "type": "iwunidrobe_biker"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "human",
+          "novakid"
+        ],
+        "type": "iwunidrobe_biker"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "human",
+          "novakid"
+        ],
+        "type": "iwunidrobe_biker"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "human",
+          "novakid"
+        ],
+        "type": "iwunidrobe_biker"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "human",
+          "apex",
+          "hylotl"
+        ],
+        "type": "iwunidrobe_spacepilot"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "human",
+          "apex",
+          "hylotl"
+        ],
+        "type": "iwunidrobe_spacepilot"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "human",
+          "apex",
+          "hylotl"
+        ],
+        "type": "iwunidrobe_spacepilot"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/npctypes/-",
+      "value": {
+        "species": [
+          "human",
+          "apex",
+          "hylotl"
+        ],
+        "type": "iwunidrobe_spacepilot"
+      }
+    }
+  ]
+]

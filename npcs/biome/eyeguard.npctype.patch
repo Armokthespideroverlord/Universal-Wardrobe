@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/chest/-",
+    "value": {
+      "name": "glitchtier4chest",
+      "parameters": {
+        "colorIndex": 0
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/legs/-",
+    "value": {
+      "name": "iwunidrobe_monkpants",
+      "parameters": {
+        "colorIndex": 0
+      }
+    }
+  }
+]

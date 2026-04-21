@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_neopiratebox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "An advanced neoarmor, seems quite illegal.",
+  "shortdescription" : "Neocraft Armor Case",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_neopiratebox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "neopiratebox.png",
+  "animation" : "iwunidrobe_neopiratebox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_neopirateboxloot",
+    "level" : 1
+  }
+}

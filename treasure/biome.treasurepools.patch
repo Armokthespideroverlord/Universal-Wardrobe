@@ -1,5 +1,6 @@
 [
     [
+      //Ocean
         {
             "op": "add",
             "path": "/oceanTreasure/0/1/pool/-",
@@ -23,10 +24,19 @@
                 "weight": 0.05,
                 "item": "iwunidrobe_hawaiishirt"
             }
+        },
+        {
+            "op": "add",
+            "path": "/oceanFloorTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.05,
+                "item": "sensorysquidhathead"
+            }
         }
     ],
 
     [
+      //Alien
         {
             "op": "add",
             "path": "/alienTreasure/0/1/pool/-",
@@ -38,6 +48,7 @@
     ],
 
     [
+      //Toxic
         {
             "op": "add",
             "path": "/toxicTreasure/0/1/pool/-",
@@ -49,6 +60,27 @@
     ],
 
     [
+      //Midnight
+        {
+            "op": "add",
+            "path": "/shadowTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.1,
+                "item": "demonwingsback"
+            }
+        }
+    ],
+
+    [
+      //Volcanic
+        {
+            "op": "add",
+            "path": "/volcanicTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "firelordback"
+            }
+        },
         {
             "op": "add",
             "path": "/volcanicTreasure/0/1/pool/-",
@@ -61,13 +93,14 @@
             "op": "add",
             "path": "/volcanicTreasure/0/1/pool/-",
             "value": {
-                "weight": 0.2,
+                "weight": 0.3,
                 "item": "iwunidrobe_weldervisor"
             }
         }
     ],
 
     [
+      //Bone
         {
             "op": "test",
             "path": "/boneTreasure/0/1/pool"
@@ -137,7 +170,9 @@
             }
         }
     ],
+
     [
+      //Swamp
         {
             "op": "add",
             "path": "/swampTreasure/0/1/pool/-",
@@ -149,6 +184,7 @@
     ],
 
     [
+      //Snow
         {
             "op": "test",
             "path": "/snowTreasure/0/1/pool"
@@ -234,7 +270,9 @@
             }
         }
     ],
+
     [
+      //Ice
         {
             "op": "test",
             "path": "/iceTreasure/0/1/pool"
@@ -296,7 +334,9 @@
             }
         }
     ],
+
     [
+      //Steamspring
         {
             "op": "add",
             "path": "/steamspringTreasure/0/1/pool/-",
@@ -306,7 +346,21 @@
             }
         }
     ],
+
     [
+      //Prism
+        {
+            "op": "add",
+            "path": "/prismTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "crystalbackpackback"
+            }
+        }
+    ],
+
+    [
+      //Hive
         {
             "op": "add",
             "path": "/hiveTreasure/0/1/pool/-",
@@ -316,13 +370,23 @@
             }
         }
     ],
+
     [
+      //Foundry
         {
             "op": "add",
             "path": "/foundryTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.3,
                 "item": "iwunidrobe_oldheateppback"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/foundryTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.3,
+                "item": "iwunidrobe_bigscrappack"
             }
         }
     ]

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_floranhat5", "count" : 1 },
+    { "item" : "bone", "count" : 2 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_floranhat5a", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

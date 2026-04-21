@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_ribleafchest", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_ribleafbchest", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

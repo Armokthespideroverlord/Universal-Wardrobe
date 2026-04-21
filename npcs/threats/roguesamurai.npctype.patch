@@ -1,0 +1,99 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_hylotlthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "hylotltier3chest",
+            "parameters": {
+              "colorIndex": [
+                1
+              ]
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "hylotltier3head",
+            "parameters": {
+              "colorIndex": [
+                1
+              ]
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "hylotltier3pants",
+            "parameters": {
+              "colorIndex": [
+                1
+              ]
+            }
+          }
+        ],
+        "primary": [
+          "npcbroadsword"
+        ],
+        "sheathedprimary": [
+          "npctungstenbow"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_kaizokuchest",
+            "parameters": {
+              "colorIndex": [
+                2
+              ]
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_kaizokuhead",
+            "parameters": {
+              "colorIndex": [
+                2
+              ]
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_kaizokupants",
+            "parameters": {
+              "colorIndex": [
+                2
+              ]
+            }
+          }
+        ],
+        "primary": [
+          "npcbroadsword"
+        ],
+        "sheathedprimary": [
+          "npctungstenbow"
+        ]
+      }
+    }
+  ]
+]

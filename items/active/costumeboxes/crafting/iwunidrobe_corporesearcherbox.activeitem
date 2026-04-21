@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_corpotrooperbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "An armor case with a functional HazEnv suit inside.",
+  "shortdescription" : "Corporate Researcher Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_corporesearcherbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "corporesearchericon.png",
+  "animation" : "iwunidrobe_customizationbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_corporesearcherboxloot",
+    "level" : 1
+  }
+}

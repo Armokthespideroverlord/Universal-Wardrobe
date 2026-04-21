@@ -1,0 +1,902 @@
+{
+  // ==============================================================================================
+  //                     UNIVERSAL WARDROBE/STARBOUND VANILLA COSTUME BOXES LOOT
+  // ==============================================================================================
+
+  // ================================
+  //          Cosmetic Boxes
+  // ================================
+
+  "iwunidrobe_chefboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "chefhead"},
+        {"weight" : 1, "item" : "chefchest"},
+        {"weight" : 1, "item" : "cheflegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_cowboyboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "cowboyhead"},
+        {"weight" : 1, "item" : "cowboychest"},
+        {"weight" : 1, "item" : "cowboylegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_bettyboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "bettyhead"},
+        {"weight" : 1, "item" : "bettychest"},
+        {"weight" : 1, "item" : "bettylegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_astrosuitboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_astrosuithead"},
+        {"weight" : 1, "item" : "iwunidrobe_astrosuitchest"},
+        {"weight" : 1, "item" : "iwunidrobe_astrosuitlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_dress1boxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "dress1chest"},
+        {"weight" : 1, "item" : "dress1legs"}
+      ]
+    }
+   ]
+  ],
+  
+  "iwunidrobe_wedding1boxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "wedding1chest"},
+        {"weight" : 1, "item" : "wedding1legs"}
+      ]
+    }
+   ]
+  ],
+  
+  "iwunidrobe_fairyboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "fairyhead"},
+        {"weight" : 1, "item" : "fairychest"},
+        {"weight" : 1, "item" : "fairylegs"},
+        {"weight" : 1, "item" : "fairyback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_jumpsuitboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "jumpsuitchest"},
+        {"weight" : 1, "item" : "jumpsuitlegs"}
+      ]
+    }
+   ]
+  ],
+  
+  "iwunidrobe_moneybagsboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "moneybagshead"},
+        {"weight" : 1, "item" : "moneybagschest"},
+        {"weight" : 1, "item" : "moneybagspants"},
+        {"weight" : 1, "item" : "moneybagsback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_neoboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "neohead"},
+        {"weight" : 1, "item" : "neochest"},
+        {"weight" : 1, "item" : "neolegs"},
+        {"weight" : 1, "item" : "neoback"}
+      ]
+    }
+   ]
+  ],
+  
+  "iwunidrobe_pilotboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "pilothead"},
+        {"weight" : 1, "item" : "pilotchest"},
+        {"weight" : 1, "item" : "pilotlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_pixelheroboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "pixelherodemochest"},
+        {"weight" : 1, "item" : "pixelherodemolegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_smartboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "smartchest"},
+        {"weight" : 1, "item" : "smartpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_startrackboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "startrackchest"},
+        {"weight" : 1, "item" : "startracklegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_summerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "summerchest"},
+        {"weight" : 1, "item" : "summerpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_strapboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "strapchest"},
+        {"weight" : 1, "item" : "straplegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_wedding2boxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "wedding2head"},
+        {"weight" : 1, "item" : "wedding2chest"},
+        {"weight" : 1, "item" : "wedding2legs"}
+      ]
+    }
+   ]
+  ],
+  
+  // ================================
+  //       Biome Costume Boxes
+  // ================================  
+
+
+  "iwunidrobe_alpacaboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "alpacahead"},
+        {"weight" : 1, "item" : "alpacachest"},
+        {"weight" : 1, "item" : "alpacalegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_anatomyboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "anatomyhead"},
+        {"weight" : 1, "item" : "anatomychest"},
+        {"weight" : 1, "item" : "anatomylegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_bucaneerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "buccaneerhead"},
+        {"weight" : 1, "item" : "buccaneerchest"},
+        {"weight" : 1, "item" : "buccaneerlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_buzzyboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "buzzyhead"},
+        {"weight" : 1, "item" : "buzzychest"},
+        {"weight" : 1, "item" : "buzzylegs"},
+        {"weight" : 1, "item" : "buzzyback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_copperboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "copperarmorhead"},
+        {"weight" : 1, "item" : "copperarmorchest"},
+        {"weight" : 1, "item" : "copperarmorpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_beachcreeperboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "beachcreeperhead"},
+        {"weight" : 1, "item" : "beachcreeperchest"},
+        {"weight" : 1, "item" : "beachcreeperlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_cyclopsyetiboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "cyclopsyetihead"},
+        {"weight" : 1, "item" : "cyclopsyetichest"},
+        {"weight" : 1, "item" : "cyclopsyetilegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_darkdisguiseboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "darkdisguisehead"},
+        {"weight" : 1, "item" : "darkdisguisechest"},
+        {"weight" : 1, "item" : "darkdisguiselegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_acolytelootbox" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_acolytehead"},
+        {"weight" : 1, "item" : "iwunidrobe_acolytechest"},
+        {"weight" : 1, "item" : "iwunidrobe_acolytepants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_deadbeatstrapboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "deadbeatstrapschest"},
+        {"weight" : 1, "item" : "deadbeatstrapslegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_deadbeatspandexboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "deadbeatspandexchest"},
+        {"weight" : 1, "item" : "deadbeatspandexlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_deadbeatleatherboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "deadbeatleatherchest"},
+        {"weight" : 1, "item" : "deadbeatleatherlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_bedouinlootbox" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "bedouinhead"},
+        {"weight" : 1, "item" : "bedouinchest"},
+        {"weight" : 1, "item" : "bedouinlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_eyeballboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "eyeballhead"},
+        {"weight" : 1, "item" : "eyeballchest"},
+        {"weight" : 1, "item" : "eyeballlegs"},
+        {"weight" : 1, "item" : "eyeballback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_floweryboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "floweryhead"},
+        {"weight" : 1, "item" : "flowerychest"},
+        {"weight" : 1, "item" : "flowerylegs"},
+        {"weight" : 1, "item" : "floweryback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_firelordboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "firelordhead"},
+        {"weight" : 1, "item" : "firelordchest"},
+        {"weight" : 1, "item" : "firelordlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_foundryboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "foundryhardhathead"},
+        {"weight" : 1, "item" : "foundrychest"},
+        {"weight" : 1, "item" : "foundrylegs"},
+        {"weight" : 1, "item" : "foundryback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_geodelootbox" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "geodehead"},
+        {"weight" : 1, "item" : "geodechest"},
+        {"weight" : 1, "item" : "geodelegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_bioluminboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "bioluminhead"},
+        {"weight" : 1, "item" : "bioluminchest"},
+        {"weight" : 1, "item" : "bioluminlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_hawaiianboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "hawaiianhead"},
+        {"weight" : 1, "item" : "hawaiianchest"},
+        {"weight" : 1, "item" : "hawaiianlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_hazmatboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "hazmathead"},
+        {"weight" : 1, "item" : "hazmatchest"},
+        {"weight" : 1, "item" : "hazmatlegs"},
+        {"weight" : 1, "item" : "hazmatback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_hikerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "hikerchest"},
+        {"weight" : 1, "item" : "hikerlegs"},
+        {"weight" : 1, "item" : "hikerback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_hunterlootbox" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "hunterchest"},
+        {"weight" : 1, "item" : "hunterlegs"},
+        {"weight" : 1, "item" : "hunterback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_icearmorboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "icearmorhead"},
+        {"weight" : 1, "item" : "icearmorchest"},
+        {"weight" : 1, "item" : "icearmorlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_lagoonlootbox" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "lagoonhead"},
+        {"weight" : 1, "item" : "lagoonchest"},
+        {"weight" : 1, "item" : "lagoonpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_larvaboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "larvahead"},
+        {"weight" : 1, "item" : "larvachest"},
+        {"weight" : 1, "item" : "larvalegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_mutantboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "mutanthead"},
+        {"weight" : 1, "item" : "mutantchest"},
+        {"weight" : 1, "item" : "mutantpants"},
+        {"weight" : 1, "item" : "mutantback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_prehistoricboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "sabertoothhelm"},
+        {"weight" : 1, "item" : "woollychest"},
+        {"weight" : 1, "item" : "woollylegs"},
+        {"weight" : 1, "item" : "woollyback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_prismlootbox" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "prismhead"},
+        {"weight" : 1, "item" : "prismchest"},
+        {"weight" : 1, "item" : "prismlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_rainbowwoodboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "rainbowwoodhead"},
+        {"weight" : 1, "item" : "rainbowwoodchest"},
+        {"weight" : 1, "item" : "rainbowwoodlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_rockboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "rockhead"},
+        {"weight" : 1, "item" : "rockchest"},
+        {"weight" : 1, "item" : "rocklegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_snowinfantryboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "snowinfantryhead"},
+        {"weight" : 1, "item" : "snowinfantrychest"},
+        {"weight" : 1, "item" : "snowinfantrypants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_slimeboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "slimehead"},
+        {"weight" : 1, "item" : "slimechest"},
+        {"weight" : 1, "item" : "slimelegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_steamspringboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "pipehat"},
+        {"weight" : 1, "item" : "neckruffle"},
+        {"weight" : 1, "item" : "steamgreylegs"},
+        {"weight" : 1, "item" : "boilerback"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_tarboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "tarhead"},
+        {"weight" : 1, "item" : "tarchest"},
+        {"weight" : 1, "item" : "tarlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_toughboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "headbandhead"},
+        {"weight" : 1, "item" : "toughchest"},
+        {"weight" : 1, "item" : "toughlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_wildfungusboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "wildfungushead"},
+        {"weight" : 1, "item" : "wildfunguschest"},
+        {"weight" : 1, "item" : "wildfunguspants"}
+      ]
+    }
+   ]
+  ],
+
+  // ================================
+  //       Vanilla Race Outfits
+  // ================================
+
+  "iwunidrobe_apexcommanderboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "apexcommanderjacket"},
+        {"weight" : 1, "item" : "apexcommanderpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_apexnavyboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "apexnavyjacket"},
+        {"weight" : 1, "item" : "apexnavypants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_apexofficerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "apexofficerjacket"},
+        {"weight" : 1, "item" : "apexofficerpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_apexspecialistboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "apexspecialistjacket"},
+        {"weight" : 1, "item" : "apexspecialistpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_avianadventurerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "avianadventurershirt"},
+        {"weight" : 1, "item" : "avianadventurerpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_aviancommonerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "aviancommonershirt"},
+        {"weight" : 1, "item" : "aviancommonerlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_avianfancyboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "avianfancyshirt"},
+        {"weight" : 1, "item" : "avianfancyskirt"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_avianworkerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "avianworkershirt"},
+        {"weight" : 1, "item" : "avianworkerpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_floranfurnivourboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "floranfurnivourchest"},
+        {"weight" : 1, "item" : "floranfurnivourlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_floranhunterboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "floranhunterchest"},
+        {"weight" : 1, "item" : "floranhunterlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_floranleafboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "floranleafchest"},
+        {"weight" : 1, "item" : "floranleaflegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_floranpeltboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "floranpeltchest"},
+        {"weight" : 1, "item" : "floranpeltlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_floransurvivalistboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "floransurvivalistchest"},
+        {"weight" : 1, "item" : "floransurvivalistlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_craftsmenboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "craftsmenchest"},
+        {"weight" : 1, "item" : "craftsmenlegs"}
+      ]
+    }
+   ]
+  ],
+  
+  "iwunidrobe_merchantboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "merchantchest"},
+        {"weight" : 1, "item" : "merchantlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_nobleboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "noblechest"},
+        {"weight" : 1, "item" : "noblelegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_peasantboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "peasantchest"},
+        {"weight" : 1, "item" : "peasantlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_conceptboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "conceptchest"},
+        {"weight" : 1, "item" : "conceptlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_coolboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "coolchest"},
+        {"weight" : 1, "item" : "coollegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_sweatervestboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "sweatervestchest"},
+        {"weight" : 1, "item" : "sweatervestlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_workoutboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "workoutchest"},
+        {"weight" : 1, "item" : "workoutlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_kimonoboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "kimonochest"},
+        {"weight" : 1, "item" : "kimonolegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_hylotlmonkboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "monkchest"},
+        {"weight" : 1, "item" : "monklegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_traditionalboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "traditionalchest"},
+        {"weight" : 1, "item" : "traditionallegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_traineeboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "traineechest"},
+        {"weight" : 1, "item" : "traineelegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_novakidfancyboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "novakidfancychest"},
+        {"weight" : 1, "item" : "novakidfancypants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_novakidjacketboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "novakidjacket"},
+        {"weight" : 1, "item" : "novakidjacketpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_novakidsuspendersboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "novakidsuspenders"},
+        {"weight" : 1, "item" : "novakidsuspenderspants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_novakidwaistcoatboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "novakidwaistcoat"},
+        {"weight" : 1, "item" : "novakidblackpants"}
+      ]
+    }
+   ]
+  ]
+}

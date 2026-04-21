@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_apexrebeldhat5", "count" : 1 },
+    { "item" : "fabric", "count" : 5 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_apexrebeldhat5a", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

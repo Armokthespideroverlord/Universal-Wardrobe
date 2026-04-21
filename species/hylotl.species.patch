@@ -1,0 +1,135 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/defaultBlueprints/tier1"
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_calligrapherchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_calligrapherlegs"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_performerchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_performerlegs"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_hylotlhat1"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_hylotlhat2"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_hylotlhat3"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_hylotlhat4"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_hylotlhat5"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/0/shirt"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_calligrapherchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_performerchest"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/0/pants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/pants/-",
+      "value": "iwunidrobe_calligrapherlegs"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/pants/-",
+      "value": "iwunidrobe_performerlegs"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/1/shirt"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_calligrapherchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_performerchest"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/1/pants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/pants/-",
+      "value": "iwunidrobe_calligrapherlegs"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/pants/-",
+      "value": "iwunidrobe_performerlegs"
+    }
+  ]
+]

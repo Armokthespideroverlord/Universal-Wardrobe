@@ -1,0 +1,600 @@
+[
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          "",
+          ""
+        ],
+        "chest": [
+          {
+            "name": "snowinfantrychest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "snowinfantryhead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_balaclava",
+            "parameters": {
+              "colorIndex": 11
+            }
+          },
+          {
+            "name": "iwunidrobe_coldcoverup",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_snowgoggles",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "snowinfantryhead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "snowinfantrypants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "hikerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          "",
+          "",
+          ""
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_parkajacket",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_puffyjacket",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_puffyjacketalt",
+            "parameters": {
+              "colorIndex": 6
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_parkahood1",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_parkahood2",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_parkahood2a",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_parkahood3",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_parkahood3a",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_parkahood6",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "iwunidrobe_parkahood6a",
+            "parameters": {
+              "colorIndex": 6
+            }
+          },
+          {
+            "name": "winterscarfhead",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_headscarf",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_openheadscarf",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_balaclava",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2,
+                11
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_coldcoverup",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2,
+                11
+              ]
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "snowinfantrypants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "coollegs",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2,
+                11
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_coldpants",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "name": "hikerlegs",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2,
+                11
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "hikerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          "",
+          "",
+          ""
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_blousonjacket",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_dustychest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_flightjacket",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                11
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_windbreaker",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            }
+          },
+          {
+            "name": "coolchest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            }
+          },
+          {
+            "name": "conceptchest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            }
+          },
+          {
+            "name": "sweatervestchest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            }
+          },
+          {
+            "name": "hoodiechest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            }
+          },
+          {
+            "name": "pilotchest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            }
+          },
+          {
+            "name": "hikerchest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            }
+          },
+          {
+            "name": "prismchest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+              ]
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "kathoodhead",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                11
+              ]
+            }
+          },
+          {
+            "name": "ushankahead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "winterscarfhead",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_foxtrapperhead",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_headscarf",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_openheadscarf",
+            "parameters": {
+              "colorIndex": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+              ]
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "snowinfantrypants",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2,
+                11
+              ]
+            }
+          },
+          {
+            "name": "coollegs",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2,
+                11
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_coldpants",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "name": "hikerlegs",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2,
+                11
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+]

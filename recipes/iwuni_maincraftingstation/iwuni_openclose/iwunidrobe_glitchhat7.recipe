@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_glitchhat7open", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_glitchhat7", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_openclosed" ]
+}

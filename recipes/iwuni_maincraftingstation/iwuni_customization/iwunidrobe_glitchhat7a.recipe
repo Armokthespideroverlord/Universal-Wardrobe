@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_glitchhat7", "count" : 1 },
+    { "item" : "fabric", "count" : 10 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_glitchhat7a", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "m1helmethead", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "m1helmetmedichead", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_combinedclothes" ]
+}

@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_lurkeraltbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "iwuniCostumeSet",
+  "description" : "A hunting attire made out of pelt and a skull reinforced with bones and leather.",
+  "shortdescription" : "Armored Lurker Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_lurkeraltbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "lurkeralticon.png",
+  "animation" : "iwunidrobe_customizationbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_lurkeraltboxloot",
+    "level" : 1
+  }
+}

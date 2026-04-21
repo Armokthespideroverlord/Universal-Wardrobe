@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_lurkerbox",
+  "price" : 500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "A hunting attire made out of pelt and a skull. Spooky, but cool.",
+  "shortdescription" : "Lurker Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_lurkerbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "lurkericon.png",
+  "animation" : "iwunidrobe_floranbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_lurkerboxloot",
+    "level" : 1
+  }
+}

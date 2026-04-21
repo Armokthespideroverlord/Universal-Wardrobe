@@ -44,6 +44,62 @@
         {"weight" : 0.0003, "item" : [ "iwunidrobe_jailbirdbox", 1]},
         {"weight" : 0.0003, "item" : [ "iwunidrobe_prospectorbox", 1]},
         {"weight" : 0.0003, "item" : [ "iwunidrobe_trapperbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_novakidstuffbox", 1]},
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_desperadobox", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ],
+
+  "iwunidrobe_florancustomeboxes" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_lurkerbox", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ],
+
+  "iwunidrobe_apexcustomeboxes" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_novakidstuffbox", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ],
+
+  "iwunidrobe_hylotlcustomeboxes" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_kaizokubox", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ],
+
+  "iwunidrobe_aviancustomeboxes" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : [ "iwunidrobe_novakidstuffbox", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ],
+
+  "iwunidrobe_glitchcustomeboxes" : [
+    [0, {
+      "pool" : [
         {"weight" : 0.0003, "item" : [ "iwunidrobe_novakidstuffbox", 1]}
       ],
       "poolRounds" : [
@@ -59,6 +115,22 @@
         {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkglightbox", 1]},
         {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkgurbanbox", 1]},
         {"weight" : 0.0003, "item" : [ "iwunidrobe_mnkgheadwearbox", 1]}
+      ],
+      "poolRounds" : [
+        [1, 1]
+      ]
+    }]
+  ],
+
+  "iwunidrobe_lairHelmetReward" : [
+    [0, {
+      "pool" : [
+        {"weight" : 0.0003, "item" : "iwunidrobe_digitalvisor"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_hazardminer"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_spacebiker"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_spacepilot"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_outlandishvisor"},
+        {"weight" : 0.0003, "item" : "iwunidrobe_stranglerwrap"}
       ],
       "poolRounds" : [
         [1, 1]

@@ -1,0 +1,50 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/metadata/anchor"
+    },
+    {
+      "op": "add",
+      "path": "/metadata/anchor/-",
+      "value": "iwuni_abandonedpkstation"
+    },
+    {
+      "op": "add",
+      "path": "/metadata/anchor/-",
+      "value": "iwuni_derelictcriminalhideout"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/parts"
+    },
+    {
+      "op": "add",
+      "path": "/parts/-",
+      "value": {
+        "chance": 1,
+        "def": [
+          "tmx",
+          "iwuni_abandonedpkstation.json"
+        ],
+        "name": "iwuni_abandonedpkstation",
+        "rules": []
+      }
+    },
+    {
+      "op": "add",
+      "path": "/parts/-",
+      "value": {
+        "chance": 1,
+        "def": [
+          "tmx",
+          "iwuni_derelictcriminalhideout.json"
+        ],
+        "name": "iwuni_derelictcriminalhideout",
+        "rules": []
+      }
+    }
+  ]
+]

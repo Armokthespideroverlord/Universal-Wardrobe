@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 5 },
+    { "item" : "plantfibre", "count" : 5 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "iwunidrobe_floranhat1", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

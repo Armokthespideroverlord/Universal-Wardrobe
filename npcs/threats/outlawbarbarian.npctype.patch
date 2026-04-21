@@ -1,6 +1,17 @@
 [
     [
         {
+            "op": "test",
+            "path": "/dropPools"
+        },
+        {
+            "op": "add",
+            "path": "/dropPools/-",
+            "value": "iwunidrobe_floranthreatBaseTreasure"
+        }
+    ],
+    [
+        {
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {
@@ -33,6 +44,34 @@
             "path": "/items/override/0/1/0/head/-",
             "value": {
                 "name": "iwunidrobe_skullagaranhead"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_lurkeralthead",
+                "parameters": {
+                   "colorIndex": [
+                     4,
+                     7,
+                     11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/head/-",
+            "value": {
+                "name": "iwunidrobe_lurkerhead",
+                "parameters": {
+                   "colorIndex": [
+                     4,
+                     7,
+                     11
+                    ]
+                }
             }
         }
     ],
@@ -161,6 +200,64 @@
             "path": "/items/override/0/1/0/chest/-",
             "value": {
                 "name": "iwunidrobe_ribfurnivourbchest"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_lurkeraltchest",
+                "parameters": {
+                   "colorIndex": [
+                     4,
+                     7,
+                     11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/chest/-",
+            "value": {
+                "name": "iwunidrobe_lurkerchest",
+                "parameters": {
+                   "colorIndex": [
+                     4,
+                     7,
+                     11
+                    ]
+                }
+            }
+        }
+    ],
+    [
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/legs/-",
+            "value": {
+                "name": "iwunidrobe_lurkeraltlegs",
+                "parameters": {
+                   "colorIndex": [
+                     4,
+                     7,
+                     11
+                    ]
+                }
+            }
+        },
+        {
+            "op": "add",
+            "path": "/items/override/0/1/0/legs/-",
+            "value": {
+                "name": "iwunidrobe_lurkerlegs",
+                "parameters": {
+                   "colorIndex": [
+                     4,
+                     7,
+                     11
+                    ]
+                }
             }
         }
     ]

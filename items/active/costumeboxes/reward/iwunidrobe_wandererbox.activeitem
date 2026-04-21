@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_wandererbox",
+  "price" : 1000,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "iwuniCostumeSet",
+  "description" : "A modified explorer armor still in it's case.",
+  "shortdescription" : "^red;Wanderer's Armor Case^reset;",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_banditwandererbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "wandererboxicon.png",
+  "animation" : "iwunidrobe_banditloot.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_wandererboxloot",
+    "level" : 1
+  }
+}

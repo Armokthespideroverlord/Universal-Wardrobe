@@ -1,0 +1,181 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_floranthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranhat4c",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranhat2",
+        "parameters": {
+          "colorIndex": 7
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/1/head/-",
+      "value": {
+        "name": "iwunidrobe_floranhat4a",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/1/head/-",
+      "value": {
+        "name": "iwunidrobe_floranhat5a",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/2/head/-",
+      "value": {
+        "name": "iwunidrobe_floranhat4a",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/2/head/-",
+      "value": {
+        "name": "iwunidrobe_floranhat5a",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/4/head/-",
+      "value": {
+        "name": "iwunidrobe_floranhat5a",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/6/head/-",
+      "value": {
+        "name": "iwunidrobe_skulldeadbeathead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/6/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribwoollychest",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/6/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribwoollyachest",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/6/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribhunterbchest",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          "floranshield"
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_lurkerchest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_lurkerhead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_floranhat4a",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_lurkerpants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "npcspear",
+          "npcbroadsword",
+          "npcshortsword"
+        ]
+      }
+    }
+  ]
+]

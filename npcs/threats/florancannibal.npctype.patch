@@ -1,6 +1,17 @@
 [
     [
         {
+            "op": "test",
+            "path": "/dropPools"
+        },
+        {
+            "op": "add",
+            "path": "/dropPools/-",
+            "value": "iwunidrobe_floranthreatBaseTreasure"
+        }
+    ],
+    [
+        {
             "op": "add",
             "path": "/items/override/0/1/0/head/-",
             "value": {

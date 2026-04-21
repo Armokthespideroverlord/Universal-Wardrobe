@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 15 },
+    { "item" : "cottonwool", "count" : 2 },
+    { "item" : "ironbar", "count" : 5 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_corporesearcherbox", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

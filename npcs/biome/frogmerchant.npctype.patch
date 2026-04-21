@@ -12,5 +12,14 @@
                 "name": "iwunidrobe_bigbackpack"
             }
         ]
+    },
+    {
+        "op": "add",
+        "path": "/items/hylotl/0/1/0/back",
+        "value": [
+            {
+                "name": "iwunidrobe_bigscrappack"
+            }
+        ]
     }
 ]

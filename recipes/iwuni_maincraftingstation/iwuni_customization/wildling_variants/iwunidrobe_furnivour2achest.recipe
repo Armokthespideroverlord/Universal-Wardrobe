@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_furnivour2chest", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_furnivour2achest", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

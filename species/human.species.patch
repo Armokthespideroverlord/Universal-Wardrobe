@@ -1,0 +1,142 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/defaultBlueprints/tier1"
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_climberchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_climberpants"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_camperchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_camperpants"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_headscarf"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_hovertruckercap"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_sunvisor1"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_sunvisorlarge1"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "iwunidrobe_hardworkingheadband"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/defaultBlueprints/tier1/-",
+      "value": {
+        "item": "caphead"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/0/shirt"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_climberchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/shirt/-",
+      "value": "iwunidrobe_camperchest"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/0/pants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/pants/-",
+      "value": "iwunidrobe_climberpants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/0/pants/-",
+      "value": "iwunidrobe_camperpants"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/1/shirt"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_climberchest"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/shirt/-",
+      "value": "iwunidrobe_camperchest"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/genders/1/pants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/pants/-",
+      "value": "iwunidrobe_climberpants"
+    },
+    {
+      "op": "add",
+      "path": "/genders/1/pants/-",
+      "value": "iwunidrobe_camperpants"
+    }
+  ]
+]

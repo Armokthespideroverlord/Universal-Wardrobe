@@ -1,0 +1,175 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_floranthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "florantier5shead",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "florantier6ahead",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "raggedcapeback",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          {
+            "name": "floranshield"
+          }
+        ],
+        "back": [
+          {
+            "name": "predatoryback",
+            "parameters": {
+              "colorIndex": 4
+            }
+          },
+          {
+            "name": "spearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "floweryback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "predatorychest",
+            "parameters": {
+              "colorIndex": 4
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "predatoryhead",
+            "parameters": {
+              "colorIndex": 4
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "predatorypants",
+            "parameters": {
+              "colorIndex": 4
+            }
+          }
+        ],
+        "primary": [
+          "npcspear",
+          "npcaxe",
+          "npchammer",
+          "npcbroadsword",
+          "npcdagger",
+          "npcshortsword"
+        ],
+        "sheathedprimary": [
+          "npcfloranassaultrifle"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          {
+            "name": "floranshield"
+          }
+        ],
+        "back": [
+          {
+            "name": "predatoryback",
+            "parameters": {
+              "colorIndex": 4
+            }
+          },
+          {
+            "name": "spearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_lurkeraltchest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_lurkeralthead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_lurkeraltlegs",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "primary": [
+          "npcspear",
+          "npcaxe",
+          "npchammer",
+          "npcbroadsword",
+          "npcdagger",
+          "npcshortsword"
+        ],
+        "sheathedprimary": [
+          "npcfloranassaultrifle"
+        ]
+      }
+    }
+  ]
+]

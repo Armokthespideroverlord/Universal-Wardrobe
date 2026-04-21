@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_floranhat4", "count" : 1 },
+    { "item" : "petalred", "count" : 2 },
+    { "item" : "petalyellow", "count" : 2 },
+    { "item" : "petalblue", "count" : 2 }
+
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_floranhat4d", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

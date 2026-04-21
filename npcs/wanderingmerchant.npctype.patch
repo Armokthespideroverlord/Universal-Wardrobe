@@ -1,302 +1,1386 @@
 [
-	[{
-			"op": "test",
-			"path": "/items/human/0/1/0/back"
-		},
-		{
-			"op": "add",
-			"path": "/items/human/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 0
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/human/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 1
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/human/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 2
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/human/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 3
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/human/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 4
-				}
-			}
-		}
-	],
-
-
-	[{
-			"op": "test",
-			"path": "/items/avian/0/1/0/back"
-		},
-		{
-			"op": "add",
-			"path": "/items/avian/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigavianpack",
-				"parameters": {
-					"colorIndex": 4
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/avian/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigavianpack",
-				"parameters": {
-					"colorIndex": 5
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/avian/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigavianpack",
-				"parameters": {
-					"colorIndex": 6
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/avian/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigavianpack",
-				"parameters": {
-					"colorIndex": 7
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/avian/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigavianpack",
-				"parameters": {
-					"colorIndex": 9
-				}
-			}
-		}
-	],
-
-
-	[{
-			"op": "test",
-			"path": "/items/apex/0/1/0/back"
-		},
-		{
-			"op": "add",
-			"path": "/items/apex/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 0
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/apex/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 1
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/apex/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 2
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/apex/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 3
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/apex/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 4
-				}
-			}
-		}
-	],
-
-
-	[{
-			"op": "test",
-			"path": "/items/floran/0/1/0/back"
-		},
-		{
-			"op": "add",
-			"path": "/items/floran/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigfloranpack",
-				"parameters": {
-					"colorIndex": 0
-				}
-			}
-		}
-	],
-
-
-	[{
-			"op": "test",
-			"path": "/items/glitch/0/1/0/back"
-		},
-		{
-			"op": "add",
-			"path": "/items/glitch/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 0
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/glitch/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 1
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/glitch/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 2
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/glitch/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 3
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/glitch/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 4
-				}
-			}
-		}
-	],
-
-
-	[{
-			"op": "test",
-			"path": "/items/hylotl/0/1/0/back"
-		},
-		{
-			"op": "add",
-			"path": "/items/hylotl/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 0
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/hylotl/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 1
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/hylotl/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 2
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/hylotl/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 3
-				}
-			}
-		},
-		{
-			"op": "add",
-			"path": "/items/hylotl/0/1/0/back/-",
-			"value": {
-				"name": "iwunidrobe_bigbackpack",
-				"parameters": {
-					"colorIndex": 4
-				}
-			}
-		}
-	]
+  [
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_humanmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_humanmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_humanmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_humanmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_humanmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigbackpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigbackpack",
+        "parameters": {
+          "colorIndex": 1
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigbackpack",
+        "parameters": {
+          "colorIndex": 2
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigbackpack",
+        "parameters": {
+          "colorIndex": 3
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigbackpack",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigbackpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_camperchest",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_camperchest",
+        "parameters": {
+          "colorIndex": 1
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_camperchest",
+        "parameters": {
+          "colorIndex": 2
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_camperchest",
+        "parameters": {
+          "colorIndex": 3
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_camperchest",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_camperchest",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_camperpants",
+        "parameters": {
+          "colorIndex": 1
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_camperpants",
+        "parameters": {
+          "colorIndex": 1
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_camperpants",
+        "parameters": {
+          "colorIndex": 2
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_camperpants",
+        "parameters": {
+          "colorIndex": 3
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_camperpants",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/human/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_camperpants",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_avianmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_avianmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_avianmerchanthead",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_avianmerchanthead",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_owlearhathead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_owlearhathead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_owlearhathead",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_owlearhathead",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigavianpack",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigavianpack",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigavianpack",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigavianpack",
+        "parameters": {
+          "colorIndex": 7
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigavianpack",
+        "parameters": {
+          "colorIndex": 9
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_traderchest",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_traderchest",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_traderchest",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_traderchest",
+        "parameters": {
+          "colorIndex": 7
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_traderchest",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_traderpants",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_traderpants",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_traderpants",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_traderpants",
+        "parameters": {
+          "colorIndex": 7
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/avian/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_traderpants",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/apex/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_apexmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/apex/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_apexmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/apex/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_apexmerchanthead",
+        "parameters": {
+          "colorIndex": 1
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/apex/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_apexmerchanthead",
+        "parameters": {
+          "colorIndex": 2
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/apex/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_apexmerchanthead",
+        "parameters": {
+          "colorIndex": 3
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/apex/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigapexpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/apex/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigapexpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/apex/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigapexpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/apex/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigapexpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/apex/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigapexpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigfloranpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigfloranpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigfloranpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigfloranpack",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_butcherchest",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_butcherchest",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_butcherchest",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_butcherchest",
+        "parameters": {
+          "colorIndex": 7
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_butcherchest",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_butcherchest",
+        "parameters": {
+          "colorIndex": 9
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_butcherchest",
+        "parameters": {
+          "colorIndex": 10
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_butcherchest",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_butcherpants",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_butcherpants",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_butcherpants",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_butcherpants",
+        "parameters": {
+          "colorIndex": 7
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_butcherpants",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_butcherpants",
+        "parameters": {
+          "colorIndex": 9
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_butcherpants",
+        "parameters": {
+          "colorIndex": 10
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/floran/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_butcherpants",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchanthead",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchanthead",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchanthead",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchanthead",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchanthead",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchantalthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchantalthead",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchantalthead",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchantalthead",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchantalthead",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchmerchantalthead",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigglitchpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigglitchpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigglitchpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigglitchpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bigglitchpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_minstrelchest",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_minstrelchest",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_minstrelchest",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_minstrelchest",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_minstrelchest",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_minstrelpants",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_minstrelpants",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_minstrelpants",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_minstrelpants",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/glitch/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_minstrelpants",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_hylotlmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_hylotlmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_hylotlmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_hylotlmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_hylotlmerchanthead",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bighylotlpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bighylotlpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bighylotlpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bighylotlpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bighylotlpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_bighylotlpack",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherchest",
+        "parameters": {
+          "colorIndex": 1
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherchest",
+        "parameters": {
+          "colorIndex": 3
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherchest",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherchest",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherchest",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherchest",
+        "parameters": {
+          "colorIndex": 7
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherchest",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherchest",
+        "parameters": {
+          "colorIndex": 9
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherlegs",
+        "parameters": {
+          "colorIndex": 1
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherlegs",
+        "parameters": {
+          "colorIndex": 3
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherlegs",
+        "parameters": {
+          "colorIndex": 4
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherlegs",
+        "parameters": {
+          "colorIndex": 5
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherlegs",
+        "parameters": {
+          "colorIndex": 6
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherlegs",
+        "parameters": {
+          "colorIndex": 7
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherlegs",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/hylotl/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_calligrapherlegs",
+        "parameters": {
+          "colorIndex": 9
+        }
+      }
+    }
+  ]
 ]

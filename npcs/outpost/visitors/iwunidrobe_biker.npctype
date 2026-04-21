@@ -1,6 +1,7 @@
 {
   "type" : "iwunidrobe_biker",
   "baseType" : "outpostvisitor",
+  "displayTitle" : "Space Biker",
 
   "scriptConfig" : {
     "dialog" : {

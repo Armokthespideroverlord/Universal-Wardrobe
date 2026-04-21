@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_corpotrooperbox",
+  "price" : 2500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Legendary",
+  "category" : "iwuniCostumeSet",
+  "description" : "An armor case with a functional combat HazEnv suit inside.",
+  "shortdescription" : "Corporate Trooper Set",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_corpotrooperbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "corpotroopericon.png",
+  "animation" : "iwunidrobe_customizationbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_corpotrooperboxloot",
+    "level" : 1
+  }
+}
