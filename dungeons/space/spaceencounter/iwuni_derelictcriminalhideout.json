@@ -1200,6 +1200,14 @@
                  "height":16,
                  "id":1393,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1432,6 +1440,14 @@
                  "height":24,
                  "id":1408,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1668,6 +1684,14 @@
                  "height":48,
                  "id":1435,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,
@@ -1812,6 +1836,14 @@
                  "height":32,
                  "id":1447,
                  "name":"",
+                 "properties":
+                    {
+                     "parameters":"{\"treasurePools\":[\"basicSpaceTreasure\"]}"
+                    },
+                 "propertytypes":
+                    {
+                     "parameters":"string"
+                    },
                  "rotation":0,
                  "type":"",
                  "visible":true,

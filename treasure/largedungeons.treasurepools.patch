@@ -758,7 +758,7 @@
 	  //Glitch Village
         {
             "op": "add",
-            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "path": "/glitchvillageChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.03,
                 "item": "iwunidrobe_glitchhat1"
@@ -766,7 +766,7 @@
         },
         {
             "op": "add",
-            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "path": "/glitchvillageChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.03,
                 "item": "iwunidrobe_glitchhat2"
@@ -774,7 +774,7 @@
         },
         {
             "op": "add",
-            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "path": "/glitchvillageChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.03,
                 "item": "iwunidrobe_glitchhat3"
@@ -782,7 +782,7 @@
         },
         {
             "op": "add",
-            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "path": "/glitchvillageChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.03,
                 "item": "iwunidrobe_glitchhat3a"
@@ -790,7 +790,7 @@
         },
         {
             "op": "add",
-            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "path": "/glitchvillageChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.03,
                 "item": "iwunidrobe_glitchhat3b"
@@ -798,7 +798,7 @@
         },
         {
             "op": "add",
-            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "path": "/glitchvillageChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.03,
                 "item": "iwunidrobe_glitchhat4"
@@ -806,7 +806,7 @@
         },
         {
             "op": "add",
-            "path": "/glitchcastleChestTreasure/0/1/pool/-",
+            "path": "/glitchvillageChestTreasure/0/1/pool/-",
             "value": {
                 "weight": 0.03,
                 "item": "iwunidrobe_glitchhat5"
