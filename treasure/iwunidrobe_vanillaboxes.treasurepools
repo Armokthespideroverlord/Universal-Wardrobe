@@ -40,17 +40,6 @@
    ]
   ],
 
-  "iwunidrobe_astrosuitboxloot" : [
-    [0, {
-      "fill" : [
-        {"weight" : 1, "item" : "iwunidrobe_astrosuithead"},
-        {"weight" : 1, "item" : "iwunidrobe_astrosuitchest"},
-        {"weight" : 1, "item" : "iwunidrobe_astrosuitlegs"}
-      ]
-    }
-   ]
-  ],
-
   "iwunidrobe_dress1boxloot" : [
     [0, {
       "fill" : [
@@ -278,17 +267,6 @@
         {"weight" : 1, "item" : "darkdisguisehead"},
         {"weight" : 1, "item" : "darkdisguisechest"},
         {"weight" : 1, "item" : "darkdisguiselegs"}
-      ]
-    }
-   ]
-  ],
-
-  "iwunidrobe_acolytelootbox" : [
-    [0, {
-      "fill" : [
-        {"weight" : 1, "item" : "iwunidrobe_acolytehead"},
-        {"weight" : 1, "item" : "iwunidrobe_acolytechest"},
-        {"weight" : 1, "item" : "iwunidrobe_acolytepants"}
       ]
     }
    ]
