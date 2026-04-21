@@ -1,6 +1,6 @@
 {
   "input" : [
-    { "item" : "explorerchest", "count" : 1 },
+    { "item" : "iwunidrobe_explorer1chest", "count" : 1 },
     { "item" : "copperbar", "count" : 2 },
     { "item" : "ironbar", "count" : 2 }
   ],
