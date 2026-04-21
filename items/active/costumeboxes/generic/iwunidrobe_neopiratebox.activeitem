@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
-  "description" : "An advanced neoarmor, seems quite illegal.",
+  "description" : "An advanced set of neoarmor, seems quite illegal.",
   "shortdescription" : "Neocraft Armor Case",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

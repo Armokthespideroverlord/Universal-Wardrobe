@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Common",
   "category" : "iwuniCostumeSet",
-  "description" : "An attire commonly used by Novakid bandits.",
+  "description" : "A set of attire commonly used by Novakid bandits.",
   "shortdescription" : "Desperado Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {

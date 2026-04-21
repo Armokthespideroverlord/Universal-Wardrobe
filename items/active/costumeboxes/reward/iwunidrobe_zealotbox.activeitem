@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
-  "description" : "An Occasus cultist attire reinforced with armor pieces.",
+  "description" : "A set of Occasus cultist attire reinforced with armor pieces.",
   "shortdescription" : "^#ffffa7;Zealot's Armor Case^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
