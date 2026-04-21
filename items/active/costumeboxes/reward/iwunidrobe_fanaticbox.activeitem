@@ -6,7 +6,7 @@
   "rarity" : "Uncommon",
   "category" : "iwuniCostumeSet",
   "description" : "A set of Occasus cultist attire reinforced with armor pieces.",
-  "shortdescription" : "^#ffffa7;Hijacker's Armor Case^reset;",
+  "shortdescription" : "^#ffffa7;Fanatic's Armor Case^reset;",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
     "objectImage" : "/interface/iwuni_costumebox/iwuni_cultistfanaticbox.png"

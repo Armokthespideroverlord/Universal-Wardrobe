@@ -934,6 +934,17 @@
    ]
   ],
 
+  "iwunidrobe_lurkerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwunidrobe_lurkerhead"},
+        {"weight" : 1, "item" : "iwunidrobe_lurkerchest"},
+        {"weight" : 1, "item" : "iwunidrobe_lurkerpants"}
+      ]
+    }
+   ]
+  ],
+
   "iwunidrobe_desperadoboxloot" : [
     [0, {
       "fill" : [
@@ -1120,7 +1131,8 @@
       "fill" : [
         {"weight" : 1, "item" : "iwunidrobe_corporesearcherhead"},
         {"weight" : 1, "item" : "iwunidrobe_corporesearcherchest"},
-        {"weight" : 1, "item" : "iwunidrobe_corporesearcherpants"}
+        {"weight" : 1, "item" : "iwunidrobe_corporesearcherpants"},
+        {"weight" : 1, "item" : "iwunidrobe_corpocanisterback"}
       ]
     }
    ]
@@ -1131,7 +1143,8 @@
       "fill" : [
         {"weight" : 1, "item" : "iwunidrobe_corpotrooperhead"},
         {"weight" : 1, "item" : "iwunidrobe_corpotrooperchest"},
-        {"weight" : 1, "item" : "iwunidrobe_corpotrooperpants"}
+        {"weight" : 1, "item" : "iwunidrobe_corpotrooperpants"},
+        {"weight" : 1, "item" : "iwunidrobe_corpotroopercanisterback"}
       ]
     }
    ]

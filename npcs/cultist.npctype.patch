@@ -166,19 +166,19 @@
             "name": "iwunidrobe_cultistarmor1chest"
           },
           {
-            "name": "iwunidrobe_cultistarmor1achest"
-          },
-          {
-            "name": "iwunidrobe_cultistarmor1bchest"
-          },
-          {
             "name": "iwunidrobe_cultistarmor2chest"
           },
           {
-            "name": "iwunidrobe_cultistarmor2achest"
+            "name": "iwunidrobe_cultistarmor3achest"
           },
           {
-            "name": "iwunidrobe_cultistarmor2bchest"
+            "name": "iwunidrobe_cultistarmor4bchest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor5achest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor6bchest"
           }
         ],
         "head": [
@@ -232,19 +232,19 @@
             "name": "iwunidrobe_cultistarmor3chest"
           },
           {
-            "name": "iwunidrobe_cultistarmor3achest"
-          },
-          {
-            "name": "iwunidrobe_cultistarmor3bchest"
-          },
-          {
             "name": "iwunidrobe_cultistarmor4chest"
           },
           {
-            "name": "iwunidrobe_cultistarmor4achest"
+            "name": "iwunidrobe_cultistarmor1achest"
           },
           {
-            "name": "iwunidrobe_cultistarmor4bchest"
+            "name": "iwunidrobe_cultistarmor2achest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor5bchest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor6achest"
           }
         ],
         "head": [
@@ -298,19 +298,19 @@
             "name": "iwunidrobe_cultistarmor5chest"
           },
           {
-            "name": "iwunidrobe_cultistarmor5achest"
-          },
-          {
-            "name": "iwunidrobe_cultistarmor5bchest"
-          },
-          {
             "name": "iwunidrobe_cultistarmor6chest"
           },
           {
-            "name": "iwunidrobe_cultistarmor6achest"
+            "name": "iwunidrobe_cultistarmor1bchest"
           },
           {
-            "name": "iwunidrobe_cultistarmor6bchest"
+            "name": "iwunidrobe_cultistarmor2bchest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor3bchest"
+          },
+          {
+            "name": "iwunidrobe_cultistarmor4achest"
           }
         ],
         "head": [

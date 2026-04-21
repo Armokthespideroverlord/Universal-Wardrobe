@@ -250,7 +250,7 @@
             "op": "add",
             "path": "/items/override/0/1/0/legs/-",
             "value": {
-                "name": "iwunidrobe_lurkerlegs",
+                "name": "iwunidrobe_lurkerpants",
                 "parameters": {
                    "colorIndex": [
                      4,

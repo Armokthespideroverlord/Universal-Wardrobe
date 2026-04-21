@@ -440,28 +440,16 @@
             "name": "iwunidrobe_explorer4head"
           },
           {
-            "name": "iwunidrobe_bandithead2"
+            "name": "iwunidrobe_bandithead7"
           },
           {
-            "name": "iwunidrobe_bandithead4a"
+            "name": "iwunidrobe_bandithead10"
           },
           {
-            "name": "iwunidrobe_bandithead4b"
+            "name": "iwunidrobe_bandithead11"
           },
           {
-            "name": "iwunidrobe_bandithead4aopen"
-          },
-          {
-            "name": "iwunidrobe_bandithead4bopen"
-          },
-          {
-            "name": "iwunidrobe_bandithead8a"
-          },
-          {
-            "name": "iwunidrobe_bandithead8b"
-          },
-          {
-            "name": "iwunidrobe_bandithead9"
+            "name": "iwunidrobe_bandithead12"
           }
         ],
         "legs": [
@@ -531,16 +519,28 @@
             "name": "iwunidrobe_explorer6head"
           },
           {
-            "name": "iwunidrobe_bandithead7"
+            "name": "iwunidrobe_bandithead2"
           },
           {
-            "name": "iwunidrobe_bandithead10"
+            "name": "iwunidrobe_bandithead4a"
           },
           {
-            "name": "iwunidrobe_bandithead11"
+            "name": "iwunidrobe_bandithead4b"
           },
           {
-            "name": "iwunidrobe_bandithead12"
+            "name": "iwunidrobe_bandithead4aopen"
+          },
+          {
+            "name": "iwunidrobe_bandithead4bopen"
+          },
+          {
+            "name": "iwunidrobe_bandithead8a"
+          },
+          {
+            "name": "iwunidrobe_bandithead8b"
+          },
+          {
+            "name": "iwunidrobe_bandithead9"
           }
         ],
         "legs": [

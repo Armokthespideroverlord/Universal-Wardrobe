@@ -15,7 +15,7 @@
             "mode" : "transition",
             "transition" : "confetti",
             "properties" : {
-              "immediateSound" : "/sfx/objects/bunkercabinet_open.ogg",
+              "immediateSound" : "/sfx/objects/metalbox_open.ogg",
               "particleEmittersOff" : [ "confetti" ]
             },
             "frameProperties" : {
@@ -38,7 +38,7 @@
       "gun" : {
         "properties" : {
           "centered" : true,
-          "image" : "sewingbox.png",
+          "image" : "customizebox.png",
           "offset" : [0.0, 0.0]
         }
       }
