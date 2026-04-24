@@ -3,7 +3,7 @@
   "price" : 250,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "headwear",
   "description" : "A creepy hood, reinforced with a rusty metal plate.",
   "shortdescription" : "Fanatic's Reinforced Hood",

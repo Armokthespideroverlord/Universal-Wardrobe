@@ -3,7 +3,7 @@
   "price" : 250,
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "legwear",
   "description" : "A style of reinforced leg armour commonly worn by cultists.",
   "shortdescription" : "Fanatic's Leg Armour",

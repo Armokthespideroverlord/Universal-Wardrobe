@@ -1,9 +1,9 @@
 {
   "itemName" : "iwunidrobe_cultistarmor6head",
-  "price" : 0,
+  "price" : 250,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "headwear",
   "description" : "A creepy hood alongside a dark metal mask.",
   "shortdescription" : "Dogmatist's Hooded Mask",

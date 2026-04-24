@@ -1,9 +1,9 @@
 {
   "itemName" : "iwunidrobe_cultistarmor6pants",
-  "price" : 0,
+  "price" : 250,
   "inventoryIcon" : "icons.png:pants",
   "maxStack" : 1,
-  "rarity" : "Common",
+  "rarity" : "Uncommon",
   "category" : "legwear",
   "description" : "A style of leg armour commonly worn by cultists.",
   "shortdescription" : "Dogmatist's Leg Armour",
