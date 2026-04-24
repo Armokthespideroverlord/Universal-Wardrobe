@@ -1,0 +1,492 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat11",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat11",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat11",
+        "parameters": {
+          "colorIndex": [
+            7
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat11",
+        "parameters": {
+          "colorIndex": [
+            8
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat11",
+        "parameters": {
+          "colorIndex": [
+            9
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat11",
+        "parameters": {
+          "colorIndex": [
+            3
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat9",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat9",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat9",
+        "parameters": {
+          "colorIndex": [
+            7
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat9",
+        "parameters": {
+          "colorIndex": [
+            8
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat9",
+        "parameters": {
+          "colorIndex": [
+            9
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat9",
+        "parameters": {
+          "colorIndex": [
+            3
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat8",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat8",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat8",
+        "parameters": {
+          "colorIndex": [
+            7
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat8",
+        "parameters": {
+          "colorIndex": [
+            8
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat8",
+        "parameters": {
+          "colorIndex": [
+            9
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat8",
+        "parameters": {
+          "colorIndex": [
+            3
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat6",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat6",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat6",
+        "parameters": {
+          "colorIndex": [
+            7
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat6",
+        "parameters": {
+          "colorIndex": [
+            8
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat6",
+        "parameters": {
+          "colorIndex": [
+            9
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat6",
+        "parameters": {
+          "colorIndex": [
+            3
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7a",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7a",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7a",
+        "parameters": {
+          "colorIndex": [
+            7
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7a",
+        "parameters": {
+          "colorIndex": [
+            8
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7a",
+        "parameters": {
+          "colorIndex": [
+            9
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7a",
+        "parameters": {
+          "colorIndex": [
+            3
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7b",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7b",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7b",
+        "parameters": {
+          "colorIndex": [
+            7
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7b",
+        "parameters": {
+          "colorIndex": [
+            8
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7b",
+        "parameters": {
+          "colorIndex": [
+            9
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7b",
+        "parameters": {
+          "colorIndex": [
+            3
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/chest"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_monkchest",
+        "parameters": {
+          "colorIndex": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/legs"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_monkpants",
+        "parameters": {
+          "colorIndex": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      }
+    }
+  ]
+]

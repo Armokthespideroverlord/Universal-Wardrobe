@@ -404,5 +404,63 @@
         "value": {
             "item": "iwuni_spaceyellowdye"
         }
+    },
+
+//MOD COMPATIBILITY - REMNANTS OF THE PROTECTORATE
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_rmpchemistbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_rmpengineerbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_rmpjanitorbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_rmpmechanicbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_rmpoutlawbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_rmpshipmedicbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_rmpsoldierbox"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_rmptailorbox"
+        }
     }
 ]

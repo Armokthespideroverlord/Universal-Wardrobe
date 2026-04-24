@@ -1,204 +1,285 @@
 [
-    [
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_novathreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/back",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back",
+      "value": [
         {
-            "op": "test",
-            "path": "/items/override/0/1/0/back",
-            "inverse": true
+          "name": "iwunidrobe_copperlanternback"
         },
         {
-            "op": "add",
-            "path": "/items/override/0/1/0/back",
-            "value": [
-                {
-                    "name": "iwunidrobe_copperlanternback"
-                },
-                {
-                    "name": "iwunidrobe_dynamitebundle"
-                },
-                {
-                    "name": "iwunidrobe_minerbackpack"
-                },
-                {
-                    "name": "iwunidrobe_minerbackpackalt"
-                }
-            ]
+          "name": "iwunidrobe_dynamitebundle"
+        },
+        {
+          "name": "iwunidrobe_minerbackpack"
+        },
+        {
+          "name": "iwunidrobe_minerbackpackalt"
         }
-    ],
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/head"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novamask1"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novamask2"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novamask3"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novamask4"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novamask5"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novamask6"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novamask7"
-            }
-        }
-    ],
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/-",
-            "value": {
-                "head": [
-                    {
-                        "name": "iwunidrobe_novamask1"
-                    },
-                    {
-                        "name": "iwunidrobe_novamask2"
-                    },
-                    {
-                        "name": "iwunidrobe_novamask3"
-                    },
-                    {
-                        "name": "iwunidrobe_novamask4"
-                    },
-                    {
-                        "name": "iwunidrobe_novamask5"
-                    },
-                    {
-                        "name": "iwunidrobe_novamask6"
-                    },
-                    {
-                        "name": "iwunidrobe_novamask7"
-                    }
-                ],
-                "chest": [
-                    {
-                        "name": "iwunidrobe_prospectorchest"
-                    }
-                ],
-                "legs": [
-                    {
-                        "name": "iwunidrobe_prospectorpants"
-                    }
-                ],
-                "back": [
-                    {
-                        "name": "iwunidrobe_copperlanternback"
-                    },
-                    {
-                        "name": "iwunidrobe_dynamitebundle"
-                    },
-                    {
-                        "name": "iwunidrobe_minerbackpack"
-                    },
-                    {
-                        "name": "iwunidrobe_minerbackpackalt"
-                    }
-                ],
-                "primary": [
-                    "rarehammer",
-                    "npcpetcapturepod"
-                ],
-                "sheathedprimary": [
-                    "rareshotgun",
-                    "raresniperrifle"
-                ]
-            }
-        }
-    ],
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/-",
-            "value": {
-                "head": [
-                    {
-                        "name": "iwunidrobe_trapperhead"
-                    },
-                    {
-                        "name": "iwunidrobe_trapperheada"
-                    },
-                    {
-                        "name": "iwunidrobe_trapperheadb"
-                    }
-                ],
-                "chest": [
-                    {
-                        "name": "iwunidrobe_trapperchest"
-                    }
-                ],
-                "legs": [
-                    {
-                        "name": "iwunidrobe_trapperlegs"
-                    }
-                ],
-                "back": [
-                    {
-                        "name": "iwunidrobe_copperlanternback"
-                    },
-                    {
-                        "name": "iwunidrobe_dynamitebundle"
-                    },
-                    {
-                        "name": "iwunidrobe_minerbackpack"
-                    },
-                    {
-                        "name": "iwunidrobe_minerbackpackalt"
-                    }
-                ],
-                "primary": [
-                    "rarehammer",
-                    "npcpetcapturepod"
-                ],
-                "sheathedprimary": [
-                    "rareshotgun",
-                    "raresniperrifle"
-                ]
-            }
-        }
-    ]
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask1"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask2"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask3"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask4"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask5"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask6"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask7"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_copperlanternback"
+          },
+          {
+            "name": "iwunidrobe_dynamitebundle"
+          },
+          {
+            "name": "iwunidrobe_minerbackpack"
+          },
+          {
+            "name": "iwunidrobe_minerbackpackalt"
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_prospectorchest"
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_novamask1"
+          },
+          {
+            "name": "iwunidrobe_novamask2"
+          },
+          {
+            "name": "iwunidrobe_novamask3"
+          },
+          {
+            "name": "iwunidrobe_novamask4"
+          },
+          {
+            "name": "iwunidrobe_novamask5"
+          },
+          {
+            "name": "iwunidrobe_novamask6"
+          },
+          {
+            "name": "iwunidrobe_novamask7"
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_prospectorpants"
+          }
+        ],
+        "primary": [
+          "rarehammer",
+          "npcpetcapturepod"
+        ],
+        "sheathedprimary": [
+          "rareshotgun",
+          "raresniperrifle"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_copperlanternback"
+          },
+          {
+            "name": "iwunidrobe_dynamitebundle"
+          },
+          {
+            "name": "iwunidrobe_minerbackpack"
+          },
+          {
+            "name": "iwunidrobe_minerbackpackalt"
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_trapperchest"
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_trapperhead"
+          },
+          {
+            "name": "iwunidrobe_trapperheada"
+          },
+          {
+            "name": "iwunidrobe_trapperheadb"
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_trapperlegs"
+          }
+        ],
+        "primary": [
+          "rarehammer",
+          "npcpetcapturepod"
+        ],
+        "sheathedprimary": [
+          "rareshotgun",
+          "raresniperrifle"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_copperlanternback"
+          },
+          {
+            "name": "iwunidrobe_dynamitebundle"
+          },
+          {
+            "name": "iwunidrobe_minerbackpack"
+          },
+          {
+            "name": "iwunidrobe_minerbackpackalt"
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_desperadochest"
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_desperadohead"
+          },
+          {
+            "name": "iwunidrobe_novamask1"
+          },
+          {
+            "name": "iwunidrobe_novamask2"
+          },
+          {
+            "name": "iwunidrobe_novamask3"
+          },
+          {
+            "name": "iwunidrobe_novamask4"
+          },
+          {
+            "name": "iwunidrobe_novamask5"
+          },
+          {
+            "name": "iwunidrobe_novamask6"
+          },
+          {
+            "name": "iwunidrobe_novamask7"
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_desperadopants"
+          }
+        ],
+        "primary": [
+          "rarehammer",
+          "npcpetcapturepod"
+        ],
+        "sheathedprimary": [
+          "rareshotgun",
+          "raresniperrifle"
+        ]
+      }
+    }
+  ]
 ]

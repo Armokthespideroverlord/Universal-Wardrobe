@@ -1,0 +1,52 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_hylotlcustomeboxes"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_kaizokuchest",
+            "parameters": {
+              "colorIndex": 2
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_kaizokuhead",
+            "parameters": {
+              "colorIndex": 3
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_kaizokupants",
+            "parameters": {
+              "colorIndex": 2
+            }
+          }
+        ],
+        "primary": [
+          "uncommonbroadsword"
+        ]
+      }
+    }
+  ]
+]

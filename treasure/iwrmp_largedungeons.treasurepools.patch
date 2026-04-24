@@ -1,0 +1,30 @@
+[
+  {
+    "op": "test",
+    "path": "/iwrmp_biosphereClothes/0/1/pool"
+  },
+  {
+    "op": "add",
+    "path": "/iwrmp_biosphereClothes/0/1/pool/-",
+    "value": {
+      "weight": 0.40,
+      "item": "iwunidrobe_rmpenvoybox"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/iwrmp_biosphereClothes/0/1/pool/-",
+    "value": {
+      "weight": 0.40,
+      "item": "iwunidrobe_rmpprotectorbox"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/iwrmp_biosphereClothes/0/1/pool/-",
+    "value": {
+      "weight": 0.40,
+      "item": "iwunidrobe_rmpvolunterbox"
+    }
+  }
+]

@@ -1,0 +1,139 @@
+{
+  // ==============================================================================================
+  //              UNIVERSAL WARDROBE X REMNANTS OF THE PROTECTORATE COSTUME BOXES LOOT
+  // ==============================================================================================
+
+  // ================================
+  //        Protectorate Boxes
+  // ================================
+
+  "iwunidrobe_rmpcaptainboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_protectorcaptainhead"},
+        {"weight" : 1, "item" : "iwrmp_protectorcaptainchest"},
+        {"weight" : 1, "item" : "iwrmp_protectorcaptainpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_rmpchemistboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_chemisthead"},
+        {"weight" : 1, "item" : "iwrmp_chemistchest"},
+        {"weight" : 1, "item" : "iwrmp_chemistlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_rmpengineerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_engineerhead"},
+        {"weight" : 1, "item" : "iwrmp_engineerchest"},
+        {"weight" : 1, "item" : "iwrmp_engineerlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_rmpjanitorboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_janitorhead"},
+        {"weight" : 1, "item" : "iwrmp_janitorchest"},
+        {"weight" : 1, "item" : "iwrmp_janitorlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_rmpmechanicboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_mechanichead"},
+        {"weight" : 1, "item" : "iwrmp_mechanicchest"},
+        {"weight" : 1, "item" : "iwrmp_mechaniclegs"}
+      ]
+    }
+   ]
+  ],
+  
+  "iwunidrobe_rmpmedicboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_shipmedichead"},
+        {"weight" : 1, "item" : "iwrmp_shipmedicchest"},
+        {"weight" : 1, "item" : "iwrmp_shipmediclegs"}
+      ]
+    }
+   ]
+  ],
+  
+  "iwunidrobe_rmpoutlawboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_outlawhead"},
+        {"weight" : 1, "item" : "iwrmp_outlawchest"},
+        {"weight" : 1, "item" : "iwrmp_outlawlegs"}
+      ]
+    }
+   ]
+  ],
+  
+  "iwunidrobe_rmptailorboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_tailorhead"},
+        {"weight" : 1, "item" : "iwrmp_tailorchest"},
+        {"weight" : 1, "item" : "iwrmp_tailorlegs"}
+      ]
+    }
+   ]
+  ],
+  
+  "iwunidrobe_rmpsoldierboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_soldierhead"},
+        {"weight" : 1, "item" : "iwrmp_soldierchest"},
+        {"weight" : 1, "item" : "iwrmp_soldierlegs"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_rmpvolunteerboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_volunteerhead"},
+        {"weight" : 1, "item" : "iwrmp_volunteerchest"},
+        {"weight" : 1, "item" : "iwrmp_volunteerpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_rmpprotectorboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "iwrmp_envoyuniformchest"},
+        {"weight" : 1, "item" : "iwrmp_envoyuniformpants"}
+      ]
+    }
+   ]
+  ],
+
+  "iwunidrobe_rmpenvoyboxloot" : [
+    [0, {
+      "fill" : [
+        {"weight" : 1, "item" : "protectoratechest"},
+        {"weight" : 1, "item" : "protectoratepants"}
+      ]
+    }
+   ]
+  ]
+}

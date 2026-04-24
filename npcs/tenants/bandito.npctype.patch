@@ -1,0 +1,42 @@
+[
+  {
+    "op": "test",
+    "path": "/items/override/0/1"
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/-",
+    "value": {
+      "head": [
+        {
+          "name": "iwunidrobe_desperadohead",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_desperadochest",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_desperadopants",
+          "parameters": {
+            "colorIndex": 0
+          }
+        }
+      ],
+      "primary": [
+        "durasteelrevolver"
+      ],
+      "alt": [
+        "durasteelrevolver"
+      ]
+    }
+  }
+]

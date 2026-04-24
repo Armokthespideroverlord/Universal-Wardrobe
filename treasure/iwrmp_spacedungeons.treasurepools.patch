@@ -1,0 +1,110 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/iwrmp_protectorShipTreasure/0/1/pool"
+    },
+    {
+      "op": "add",
+      "path": "/iwrmp_protectorShipTreasure/0/1/pool/-",
+      "value": {
+        "item": "iwunidrobe_rmpenvoybox",
+        "weight": 0.01
+      }
+    },
+    {
+      "op": "add",
+      "path": "/iwrmp_protectorShipTreasure/0/1/pool/-",
+      "value": {
+        "item": "iwunidrobe_rmpprotectorbox",
+        "weight": 0.01
+      }
+    },
+    {
+      "op": "add",
+      "path": "/iwrmp_protectorShipTreasure/0/1/pool/-",
+      "value": {
+        "item": "iwunidrobe_rmpvolunterbox",
+        "weight": 0.01
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/iwrmp_protectorChestTreasure/0/1/pool"
+    },
+    {
+      "op": "add",
+      "path": "/iwrmp_protectorChestTreasure/0/1/pool/-",
+      "value": {
+        "item": "iwunidrobe_rmpcaptainbox",
+        "weight": 0.03
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/iwrmp_envoyShipTreasure/0/1/pool"
+    },
+    {
+      "op": "add",
+      "path": "/iwrmp_envoyShipTreasure/0/1/pool/-",
+      "value": {
+        "item": "iwunidrobe_rmpprotectorbox",
+        "weight": 0.003
+      }
+    },
+    {
+      "op": "add",
+      "path": "/iwrmp_envoyShipTreasure/0/1/pool/-",
+      "value": {
+        "item": "iwunidrobe_rmpvolunterbox",
+        "weight": 0.003
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/iwrmp_envoyAstreusCaptainTreasure/0/1/pool"
+    },
+    {
+      "op": "add",
+      "path": "/iwrmp_envoyAstreusCaptainTreasure/0/1/pool/-",
+      "value": {
+        "item": "iwunidrobe_rmpcaptainbox",
+        "weight": 0.03
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/iwrmp_envoyGaiaCaptainTreasure/0/1/pool"
+    },
+    {
+      "op": "add",
+      "path": "/iwrmp_envoyGaiaCaptainTreasure/0/1/pool/-",
+      "value": {
+        "item": "iwunidrobe_rmpcaptainbox",
+        "weight": 0.03
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/iwrmp_envoyHermesCaptainTreasure/0/1/pool"
+    },
+    {
+      "op": "add",
+      "path": "/iwrmp_envoyHermesCaptainTreasure/0/1/pool/-",
+      "value": {
+        "item": "iwunidrobe_rmpcaptainbox",
+        "weight": 0.03
+      }
+    }
+  ]
+]

@@ -1,39 +1,97 @@
 [
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/head"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "visorhead"
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "visorhead"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/chest/0/name",
+      "value": "scientistchest"
+    },
+    {
+      "op": "replace",
+      "path": "/items/override/0/1/0/chest/0/name",
+      "value": "iwunidrobe_spacescientist3chest"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/legs/0/name",
+      "value": "scientistlegs"
+    },
+    {
+      "op": "replace",
+      "path": "/items/override/0/1/0/legs/0/name",
+      "value": "iwunidrobe_spacescientist3legs"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_corporesearcherchest",
+            "parameters": {
+              "colorIndex": [
+                4
+              ]
             }
-        }
-    ],
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/chest/0/name",
-            "value": "scientistchest"
-        },
-        {
-            "op": "replace",
-            "path": "/items/override/0/1/0/chest/0/name",
-            "value": "iwunidrobe_spacescientist3chest"
-        }
-    ],
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/legs/0/name",
-            "value": "scientistlegs"
-        },
-        {
-            "op": "replace",
-            "path": "/items/override/0/1/0/legs/0/name",
-            "value": "iwunidrobe_spacescientist3legs"
-        }
-    ]
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_corporesearcherhead",
+            "parameters": {
+              "colorIndex": [
+                4
+              ]
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_corporesearcherpants",
+            "parameters": {
+              "colorIndex": [
+                4
+              ]
+            }
+          }
+        ],
+        "primary": [
+          {
+            "name": "flamethrower",
+            "parameters": {
+              "elementalType": "poison",
+              "primaryAbility": {
+                "projectileParameters": {
+                  "damageType": "IgnoresDef",
+                  "power": 3,
+                  "speed": 50
+                },
+                "projectileType": "poisonthrower"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
 ]

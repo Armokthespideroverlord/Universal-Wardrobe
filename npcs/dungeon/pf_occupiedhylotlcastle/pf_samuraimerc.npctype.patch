@@ -1,50 +1,122 @@
 [
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/head"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_illmeaninggrimace",
-                "parameters": {
-                    "colorIndex": [
-                        5,
-                        6,
-                        7
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_fablemask",
-                "parameters": {
-                    "colorIndex": [
-                        5,
-                        6,
-                        7
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "insidioushead",
-                "parameters": {
-                    "colorIndex": [
-                        5,
-                        6,
-                        7
-                    ]
-                }
-            }
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_hylotlthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_illmeaninggrimace",
+        "parameters": {
+          "colorIndex": [
+            5,
+            6,
+            7
+          ]
         }
-    ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_fablemask",
+        "parameters": {
+          "colorIndex": [
+            5,
+            6,
+            7
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "insidioushead",
+        "parameters": {
+          "colorIndex": [
+            5,
+            6,
+            7
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_kaizokuchest"
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_kaizokuhead"
+          },
+          {
+            "name": "iwunidrobe_illmeaninggrimace",
+            "parameters": {
+              "colorIndex": [
+                5,
+                6,
+                7
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_fablemask",
+            "parameters": {
+              "colorIndex": [
+                5,
+                6,
+                7
+              ]
+            }
+          },
+          {
+            "name": "hylotltier1head",
+            "parameters": {
+              "colorIndex": [
+                0
+              ]
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_kaizokupants"
+          }
+        ],
+        "primary": [
+          "pf_samuraikatana"
+        ],
+        "sheathedprimary": [
+          "npcpistol"
+        ]
+      }
+    }
+  ]
 ]

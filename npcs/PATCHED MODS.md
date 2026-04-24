@@ -13,6 +13,7 @@
 -stationshipcrewmate
 -steamspringfan1
 -thatonelazypirate_friendly
+-printcorobot1
 
 //BELTER DUNGEONS
 -rl_belterminer
@@ -40,6 +41,8 @@
 
 //PROJECT REDEMPTION
 -corporatemarine
+-r-outlawrebel
+-shuttlepassenger_peacekeeper2
 
 //GALACTIC DUNGEONS
 -z4avianbandit
@@ -47,6 +50,8 @@
 -z4novabandit
 -z4novaboss
 -z4friendlynovabandit
+-z4hylotlronin
+-z4glitchalchemist
 
 //TENANT PACK
 -blacksmithtenant
@@ -55,6 +60,8 @@
 -spelunker
 -bountyhuntertenant
 -kitshopmerchant
+-z4towerstenant
+-bandito
 
 //BETABOUND!
 -sb_friendlyminer
@@ -69,6 +76,14 @@
 -sunsetshield
 -sunsetshotgun
 -sunsetsniper
+-sunsetvillager
+-japaneseruinsoni
+-japaneseruinsvillager
+-japaneseruinsarcher
+-letheiabiohazardsoldier
+-letheiacaptain
+-letheiagrunt
+-letheiascientist
 
 //STARBURST REWORK
 -pf_stormvillager
@@ -100,3 +115,6 @@
 -nuusnowvillager
 -steppevillager
 -steppevillagerquest
+
+//SCRAP VENDOR
+-alpacatest

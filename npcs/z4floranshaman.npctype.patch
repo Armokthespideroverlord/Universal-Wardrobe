@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_floranthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_floranhat4d",
+        "parameters": {
+          "colorIndex": 9
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_lurkeralthead",
+        "parameters": {
+          "colorIndex": 9
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/chest"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_lurkeraltchest",
+        "parameters": {
+          "colorIndex": 9
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/legs"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_lurkeraltlegs",
+        "parameters": {
+          "colorIndex": 9
+        }
+      }
+    }
+  ]
+]

@@ -1,69 +1,118 @@
 [
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/head"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_skullagaranhead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_skullalpacahead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_skulldeadbeathead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_skullfeneroxhead"
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_skullfrogghead"
-            }
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_floranthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_skullagaranhead"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_skullalpacahead"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_skulldeadbeathead"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_skullfeneroxhead"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_skullfrogghead"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/chest"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribpeltchest",
+        "parameters": {
+          "colorIndex": 9
         }
-    ],
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/chest"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribpeltchest",
-                "parameters": {
-                    "colorIndex": 9
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/chest/-",
-            "value": {
-                "name": "iwunidrobe_ribstrapsbchest",
-                "parameters": {
-                    "colorIndex": 9
-                }
-            }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_ribstrapsbchest",
+        "parameters": {
+          "colorIndex": 9
         }
-    ]
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_lurkerchest",
+            "parameters": {
+              "colorIndex": 9
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_lurkerhead",
+            "parameters": {
+              "colorIndex": 9
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_lurkerpants",
+            "parameters": {
+              "colorIndex": 9
+            }
+          }
+        ],
+        "primary": [
+          "npcspear"
+        ],
+        "sheathedprimary": [
+          "npcfloranassaultrifle"
+        ]
+      }
+    }
+  ]
 ]

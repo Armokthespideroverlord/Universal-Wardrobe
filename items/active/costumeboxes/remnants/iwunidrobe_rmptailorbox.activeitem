@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_rmptailorbox",
+  "price" : 1500,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Uncommon",
+  "category" : "iwuniCostumeSet",
+  "description" : "A uniform for Protectorate crewmembers specialized in tailoring.",
+  "shortdescription" : "Tailor Crew Uniform",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/mods/iwuni_rmptailor.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "rmptailoricon.png",
+  "animation" : "iwunidrobe_protectoratebox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [0.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_rmptailorboxloot",
+    "level" : 1
+  }
+}

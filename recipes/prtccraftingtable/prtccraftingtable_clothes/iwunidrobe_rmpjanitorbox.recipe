@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1500 }
+  ],
+  "duration" : 0,
+  "output" : { "item" : "iwunidrobe_rmpjanitorbox", "count" : 1 },
+  "groups" : [ "iwrmp_prtccraftingtable", "iwrmp_envoysailunit", "prtccraftingtable_clothes", "all" ]
+}

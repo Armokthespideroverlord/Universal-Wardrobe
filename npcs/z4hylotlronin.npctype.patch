@@ -1,0 +1,121 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_hylotlthreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_kaizokuchest",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_kaizokuhead",
+            "parameters": {
+              "colorIndex": 2
+            }
+          },
+          {
+            "name": "hylotltier1head",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_kaizokupants",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "primary": [
+          "npcbroadsword",
+          "npcspear",
+          "npcassaultrifle",
+          "npcpistol",
+          "npcmachinepistol",
+          "npcshotgun",
+          "npcsniperrifle"
+        ]
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "hylotltier1chest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "hylotltier1head",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_hylotlhat2",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "hylotltier1pants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_kaizokupants",
+            "parameters": {
+              "colorIndex": 11
+            }
+          }
+        ],
+        "primary": [
+          "npcbroadsword",
+          "npcspear",
+          "npcassaultrifle",
+          "npcpistol",
+          "npcmachinepistol",
+          "npcshotgun",
+          "npcsniperrifle"
+        ]
+      }
+    }
+  ]
+]

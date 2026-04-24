@@ -1,34 +1,122 @@
 [
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/back"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/back/-",
-            "value": {
-                "name": "iwunidrobe_minerbackpackalt",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        1
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/back/-",
-            "value": {
-                "name": "iwunidrobe_minerbackpack",
-                "parameters": {
-                    "colorIndex": [
-                        0,
-                        1
-                    ]
-                }
-            }
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/back"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_minerbackpackalt",
+        "parameters": {
+          "colorIndex": [
+            0,
+            1
+          ]
         }
-    ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_minerbackpack",
+        "parameters": {
+          "colorIndex": [
+            0,
+            1
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "foundryforemanback",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "name": "foundryback",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_minerbackpackalt",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2
+              ]
+            }
+          },
+          {
+            "name": "iwunidrobe_minerbackpack",
+            "parameters": {
+              "colorIndex": [
+                1,
+                2
+              ]
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_diggerchest",
+            "parameters": {
+              "colorIndex": [
+                0,
+                8
+              ]
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "mininghathead",
+            "parameters": {
+              "colorIndex": 7
+            }
+          },
+          {
+            "name": "mininghathead",
+            "parameters": {
+              "colorIndex": 11
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_diggerpants",
+            "parameters": {
+              "colorIndex": [
+                1,
+                11
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
 ]

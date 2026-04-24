@@ -1,0 +1,36 @@
+[
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/chest"
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_hawaiishirt",
+      "parameters": {
+        "colorIndex": 5
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_puffyjacketalt",
+      "parameters": {
+        "colorIndex": 5
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/chest/-",
+    "value": {
+      "name": "iwunidrobe_windbreaker",
+      "parameters": {
+        "colorIndex": 5
+      }
+    }
+  }
+]

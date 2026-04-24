@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "iwuni_maincraftingstation"
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "iwuni_dyes"
+  }
+]

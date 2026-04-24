@@ -1,106 +1,249 @@
 [
-    [
-        {
-            "op": "test",
-            "path": "/items/override/0/1/0/head"
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat1",
-                "parameters": {
-                    "colorIndex": [
-                        0
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat3",
-                "parameters": {
-                    "colorIndex": [
-                        0
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat3alt",
-                "parameters": {
-                    "colorIndex": [
-                        0
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat4",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat4alt",
-                "parameters": {
-                    "colorIndex": [
-                        0
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat5",
-                "parameters": {
-                    "colorIndex": [
-                        0
-                    ]
-                }
-            }
-        },
-        {
-            "op": "add",
-            "path": "/items/override/0/1/0/head/-",
-            "value": {
-                "name": "iwunidrobe_novahat6",
-                "parameters": {
-                    "colorIndex": [
-                        1,
-                        3,
-                        4,
-                        5,
-                        6,
-                        7,
-                        8,
-                        9
-                    ]
-                }
-            }
+  [
+    {
+      "op": "test",
+      "path": "/dropPools"
+    },
+    {
+      "op": "add",
+      "path": "/dropPools/-",
+      "value": "iwunidrobe_novathreatBaseTreasure"
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat1",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
         }
-    ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat3",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat3alt",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat4",
+        "parameters": {
+          "colorIndex": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat4alt",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat5",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novahat6",
+        "parameters": {
+          "colorIndex": [
+            1,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask1",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask2",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask3",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask4",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask5",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask6",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_novamask7",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_desperadohead",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/chest"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_desperadochest",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/legs"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_desperadopants",
+        "parameters": {
+          "colorIndex": [
+            0
+          ]
+        }
+      }
+    }
+  ]
 ]

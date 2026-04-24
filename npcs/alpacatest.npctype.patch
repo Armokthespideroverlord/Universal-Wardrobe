@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/items/avian/0/1/0/back/0/name",
+    "value": "hikerback"
+  },
+  {
+    "op": "replace",
+    "path": "/items/avian/0/1/0/back/0/name",
+    "value": "iwunidrobe_bigscrappack"
+  }
+]

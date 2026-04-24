@@ -1,0 +1,70 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "voyagerhead",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "alt": [
+          "riotshield"
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_corpotrooperchest",
+            "parameters": {
+              "colorIndex": [
+                4
+              ]
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_corpotrooperhead",
+            "parameters": {
+              "colorIndex": [
+                4
+              ]
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_corpotrooperpants",
+            "parameters": {
+              "colorIndex": [
+                4
+              ]
+            }
+          }
+        ],
+        "primary": [
+          "rarepistol",
+          "raremachinepistol",
+          "rareassaultrifle"
+        ]
+      }
+    }
+  ]
+]

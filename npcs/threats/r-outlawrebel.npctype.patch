@@ -1,0 +1,67 @@
+[
+  {
+    "op": "test",
+    "path": "/items/override/0/1/0/head"
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_apexrebeldhat1a",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_apexrebeldhat2a",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_apexrebeldhat3a",
+      "parameters": {
+        "colorIndex": [
+          1
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_apexrebeldhat4a",
+      "parameters": {
+        "colorIndex": [
+          1,
+          4
+        ]
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/0/head/-",
+    "value": {
+      "name": "iwunidrobe_apexrebeldhat5a",
+      "parameters": {
+        "colorIndex": [
+          0
+        ]
+      }
+    }
+  }
+]

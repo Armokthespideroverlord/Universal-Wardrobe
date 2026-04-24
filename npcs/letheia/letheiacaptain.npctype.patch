@@ -1,0 +1,52 @@
+[
+  {
+    "op": "test",
+    "path": "/items/override/0/1"
+  },
+  {
+    "op": "add",
+    "path": "/items/override/0/1/-",
+    "value": {
+      "head": [
+        {
+          "name": "captainshead",
+          "parameters": {
+            "colorIndex": [
+              4
+            ]
+          }
+        }
+      ],
+      "chest": [
+        {
+          "name": "iwunidrobe_corpotrooperchest",
+          "parameters": {
+            "colorIndex": [
+              4
+            ]
+          }
+        }
+      ],
+      "legs": [
+        {
+          "name": "iwunidrobe_corpotrooperpants",
+          "parameters": {
+            "colorIndex": [
+              4
+            ]
+          }
+        }
+      ],
+      "primary": [
+        {
+          "name": "violiumbroadsword"
+        }
+      ],
+      "sheathedprimary": [
+        {
+          "name": "electricrailgun"
+        }
+      ]
+    }
+  }
+]

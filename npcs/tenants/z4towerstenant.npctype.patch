@@ -1,0 +1,126 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat11",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat9",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat6",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7a",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_glitchhat7b",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "wizardhead",
+        "parameters": {
+          "colorIndex": [
+            4
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": ""
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/chest"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_monkchest",
+        "parameters": {
+          "colorIndex": [
+            3
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/legs"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_monkpants",
+        "parameters": {
+          "colorIndex": [
+            3
+          ]
+        }
+      }
+    }
+  ]
+]
