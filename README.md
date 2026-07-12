@@ -6,3 +6,6 @@ The mod aims to gradually add new dungeons and NPCs, as well as increase compati
 
 Here, this is the link of the Steam mod page:
 https://steamcommunity.com/sharedfiles/filedetails/?id=3492414889
+
+Todo:
+- Add native K'Rakoth biome cosmetic sets support
