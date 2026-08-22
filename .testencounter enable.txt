@@ -1,3 +1,9 @@
+Either copy the text below and put it on a file named as "systemworld.config.patch" OR modify the already existing file by removing the ".unused" from the name.
+
+This enables a "test encounter" dungeon with the new structures added in the Anomaly pool, I do this to make quick tests without relying on regular anomalies. Do not enable these unless you need to.
+
+
+
         {
             "op": "add",
             "path": "/objectSpawnPool/-",
