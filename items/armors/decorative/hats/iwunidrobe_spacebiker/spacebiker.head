@@ -1,9 +1,9 @@
 {
   "itemName" : "iwunidrobe_spacebiker",
-  "price" : 500,
+  "price" : 5000,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
-  "rarity" : "Rare",
+  "rarity" : "Legendary",
   "category" : "headwear",
   "description" : "A classic round helmet once used by space bikers.",
   "shortdescription" : "Space Biker Helmet",

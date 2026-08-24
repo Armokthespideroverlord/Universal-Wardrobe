@@ -1,0 +1,301 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/default/0/1/0/head",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/head",
+      "value": [
+        {
+          "name": "cowboyhead",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              8,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat1alt",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              8,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat3alt",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              8,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat4alt",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              8,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_novahat5alt",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              8,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_hylotlhat3",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              8,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_apexrebeldhat1",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              8,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_flatcaphead",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              8,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_hardworkingheadband",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_openheadscarf",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_polkadothood",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_thinheadwrap",
+          "parameters": {
+            "colorIndex": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          }
+        },
+        {
+          "name": "iwunidrobe_wheatstem"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/default/0/1/0/back"
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_minerbackpack"
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/default/0/1/0/chest"
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_trapperchest"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_prospectorchest",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_farmerchest",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_dustychest",
+        "parameters": {
+          "colorIndex": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/default/0/1/0/legs"
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_farmerpants",
+        "parameters": {
+          "colorIndex": 11
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_prospectorpants",
+        "parameters": {
+          "colorIndex": 8
+        }
+      }
+    }
+  ]
+]

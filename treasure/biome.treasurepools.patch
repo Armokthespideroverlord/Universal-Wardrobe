@@ -368,6 +368,14 @@
                 "weight": 0.4,
                 "item": "iwunidrobe_flowerybox"
             }
+        },
+        {
+            "op": "add",
+            "path": "/springTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_mandrakehead"
+            }
         }
     ],
 
@@ -499,6 +507,14 @@
             "value": {
                 "weight": 0.4,
                 "item": "iwunidrobe_buzzybox"
+            }
+        },
+        {
+            "op": "add",
+            "path": "/giantflowerTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.4,
+                "item": "iwunidrobe_mandrakehead"
             }
         }
     ],

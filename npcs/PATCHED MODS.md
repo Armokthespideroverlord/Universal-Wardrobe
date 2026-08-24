@@ -118,3 +118,12 @@
 
 //SCRAP VENDOR
 -alpacatest
+
+//SPACE POLICE ELECTRIC FLUFFALO
+-spacepolice
+-megapolice
+-coptoppolice
+
+//GRASSLAND PLANETS
+-om_grasslandfisher
+-om_grasslandfarmer

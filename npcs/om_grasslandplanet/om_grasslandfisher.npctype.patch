@@ -1,0 +1,143 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/default/0/1/0/chest"
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_blouse",
+        "parameters": {
+          "colorIndex": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_bomberjacket",
+        "parameters": {
+          "colorIndex": [
+            1,
+            2,
+            4,
+            5,
+            7,
+            8,
+            11
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_puffyjacketalt",
+        "parameters": {
+          "colorIndex": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_windbreaker",
+        "parameters": {
+          "colorIndex": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_hawaiishirt",
+        "parameters": {
+          "colorIndex": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/chest/-",
+      "value": {
+        "name": "iwunidrobe_camperchest",
+        "parameters": {
+          "colorIndex": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/default/0/1/0/legs"
+    },
+    {
+      "op": "add",
+      "path": "/items/default/0/1/0/legs/-",
+      "value": {
+        "name": "iwunidrobe_camperpants"
+      }
+    }
+  ]
+]

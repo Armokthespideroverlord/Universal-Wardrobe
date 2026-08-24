@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "iwunidrobe_bandithead8a", "count" : 1 },
+    { "item" : "iwunidrobe_explorer3chest", "count" : 1 },
+    { "item" : "fabric", "count" : 15 },
+    { "item" : "iwuni_spacereddye", "count" : 3 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_copycatbox", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_uniqueclothes" ]
+}

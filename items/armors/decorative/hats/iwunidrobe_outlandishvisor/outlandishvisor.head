@@ -1,9 +1,9 @@
 {
   "itemName" : "iwunidrobe_outlandishvisor",
-  "price" : 500,
+  "price" : 5000,
   "inventoryIcon" : "icons.png:head",
   "maxStack" : 1,
-  "rarity" : "Rare",
+  "rarity" : "Legendary",
   "category" : "headwear",
   "description" : "An oddly shaped visor with an odd color palette. So odd!",
   "shortdescription" : "Outlandish Visor",

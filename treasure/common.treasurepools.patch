@@ -537,7 +537,7 @@
         "value": {
             "weight": 0.0003,
             "item": [
-                "iwunidrobe_hidecosmeticbox",
+                "iwunidrobe_partyhathead",
                 1
             ]
         }
@@ -547,7 +547,10 @@
         "path": "/costume/0/1/pool/-",
         "value": {
             "weight": 0.0003,
-            "pool": "iwunidrobe_uniquecustomeboxes"
+            "item": [
+                "iwunidrobe_hidecosmeticbox",
+                1
+            ]
         }
     },
     {
