@@ -5,7 +5,7 @@
   "maxStack" : 1000,
   "rarity" : "Legendary",
   "category" : "iwuniCostumeSet",
-  "description" : "A copy of the copy of the copy of the copy of...",
+  "description" : "A copy of a copy of a copy of a copy of...",
   "shortdescription" : "Copycat Set",
   "tooltipKind" : "iwuni_customebox",
   "tooltipFields" : {
