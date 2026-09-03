@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_deepblackdye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniUniqueDye",
+  "inventoryIcon" : "iwuni_deepblackdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "Deep Black Dye",
+
+  "dyeDirectives" : {"ffca8a" : "5c5c5c", "e0975c" : "3e3e3e", "a85636" : "1b1b1b", "6f2919" : "0d0d0d"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

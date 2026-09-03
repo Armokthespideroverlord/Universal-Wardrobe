@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_livelywhitedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniCustomDye",
+  "inventoryIcon" : "iwuni_livelywhitedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#dbfc33;Lively^reset; White Dye",
+
+  "dyeDirectives" : {"ffca8a" : "f8c4ef", "e0975c" : "cca6c5", "a85636" : "9b7194", "6f2919" : "6a4765"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_xenobluedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniVanillaDye",
+  "inventoryIcon" : "iwuni_xenobluedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#4fcdc5;Xeno-Blue^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "4fcdc5", "e0975c" : "30aea6", "a85636" : "23827c", "6f2919" : "124944"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

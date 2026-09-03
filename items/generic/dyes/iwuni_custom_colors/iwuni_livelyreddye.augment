@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_livelyreddye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniCustomDye",
+  "inventoryIcon" : "iwuni_livelyreddye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#dbfc33;Lively^reset; Red Dye",
+
+  "dyeDirectives" : {"ffca8a" : "f98e58", "e0975c" : "e92016", "a85636" : "b50c16", "6f2919" : "891110"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_icedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniVanillaDye",
+  "inventoryIcon" : "iwuni_icedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#c5e9fa;Ice^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "effffe", "e0975c" : "c5e9fa", "a85636" : "91bae9", "6f2919" : "717ecd"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

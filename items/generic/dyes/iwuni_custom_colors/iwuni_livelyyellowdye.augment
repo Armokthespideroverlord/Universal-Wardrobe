@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_livelyyellowdye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniCustomDye",
+  "inventoryIcon" : "iwuni_livelyyellowdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#dbfc33;Lively^reset; Yellow Dye",
+
+  "dyeDirectives" : {"ffca8a" : "eefca8", "e0975c" : "ffe882", "a85636" : "f9d045", "6f2919" : "dba400"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

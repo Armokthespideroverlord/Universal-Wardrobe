@@ -603,5 +603,441 @@
                 "6F2919": "2d0e10"
             }
         }
+    },
+
+//LIVELY PALETTE
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively Black",
+            "categories": [
+                "all",
+                "black",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "9868a3",
+                "E0975C": "745a7a",
+                "A85636": "4b3d4d",
+                "6F2919": "2f2930"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively Grey",
+            "categories": [
+                "all",
+                "gray",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "c7bca1",
+                "E0975C": "a3977c",
+                "A85636": "7b715d",
+                "6F2919": "545048"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively White",
+            "categories": [
+                "all",
+                "white",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "f8c4ef",
+                "E0975C": "cca6c5",
+                "A85636": "9b7194",
+                "6F2919": "6a4765"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively Red",
+            "categories": [
+                "all",
+                "red",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "f98e58",
+                "E0975C": "e92016",
+                "A85636": "b50c16",
+                "6F2919": "891110"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively Orange",
+            "categories": [
+                "all",
+                "orange",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "fcc25d",
+                "E0975C": "f86726",
+                "A85636": "cc3719",
+                "6F2919": "9b3019"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively Yellow",
+            "categories": [
+                "all",
+                "yellow",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "eefca8",
+                "E0975C": "ffe882",
+                "A85636": "f9d045",
+                "6F2919": "dba400"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively Green",
+            "categories": [
+                "all",
+                "green",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "f2d865",
+                "E0975C": "aacb07",
+                "A85636": "65900a",
+                "6F2919": "42670c"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively Blue",
+            "categories": [
+                "all",
+                "blue",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "20e6cf",
+                "E0975C": "009ad1",
+                "A85636": "177196",
+                "6F2919": "174c6c"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively Purple",
+            "categories": [
+                "all",
+                "purple",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "de7af1",
+                "E0975C": "9253d3",
+                "A85636": "713f95",
+                "6F2919": "3c124a"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively Pink",
+            "categories": [
+                "all",
+                "pink",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "ff7474",
+                "E0975C": "ff2d57",
+                "A85636": "db173e",
+                "6F2919": "980018"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Lively Brown",
+            "categories": [
+                "all",
+                "brown",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "d09858",
+                "E0975C": "b06c36",
+                "A85636": "834c27",
+                "6F2919": "5c2119"
+            }
+        }
+    },
+
+//UNIWARDROBE CUSTOM DYES
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Deep Black",
+            "categories": [
+                "all",
+                "black",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "5c5c5c",
+                "E0975C": "3e3e3e",
+                "A85636": "1b1b1b",
+                "6F2919": "0d0d0d"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Old Leather",
+            "categories": [
+                "all",
+                "black",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "99876f",
+                "E0975C": "544a3d",
+                "A85636": "352c22",
+                "6F2919": "19130d"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Inferno Red",
+            "categories": [
+                "all",
+                "red",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "e0674e",
+                "E0975C": "e03828",
+                "A85636": "a22014",
+                "6F2919": "781119"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Wine Red",
+            "categories": [
+                "all",
+                "red",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "ec3b45",
+                "E0975C": "bb2c46",
+                "A85636": "761934",
+                "6F2919": "3c0717"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Sourberry",
+            "categories": [
+                "all",
+                "yellow",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "f7ffae",
+                "E0975C": "f8dd5c",
+                "A85636": "ea9931",
+                "6F2919": "af4e00"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Chrysanthemum",
+            "categories": [
+                "all",
+                "yellow",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "f5dc8a",
+                "E0975C": "ee944d",
+                "A85636": "bd3f30",
+                "6F2919": "7e0c2e"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Blood Gold",
+            "categories": [
+                "all",
+                "yellow",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "ffe069",
+                "E0975C": "e8b21f",
+                "A85636": "b37000",
+                "6F2919": "7d5200"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Olive Green",
+            "categories": [
+                "all",
+                "green",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "afb47e",
+                "E0975C": "888d59",
+                "A85636": "4c592a",
+                "6F2919": "2c3711"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Military Green",
+            "categories": [
+                "all",
+                "green",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "8c9d48",
+                "E0975C": "596c30",
+                "A85636": "394c20",
+                "6F2919": "1c2d11"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Haggard Blue",
+            "categories": [
+                "all",
+                "blue",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "70868d",
+                "E0975C": "58686f",
+                "A85636": "43464e",
+                "6F2919": "282a2d"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Bandit Metal",
+            "categories": [
+                "all",
+                "blue",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "7d7aa8",
+                "E0975C": "59577c",
+                "A85636": "38364f",
+                "6F2919": "1b1b2a"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Dark Brown",
+            "categories": [
+                "all",
+                "brown",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "8d6456",
+                "E0975C": "704f3c",
+                "A85636": "513b2d",
+                "6F2919": "2b1812"
+            }
+        }
+    },
+    {
+        "op": "add",
+        "path": "/palettes/-",
+        "value": {
+            "name": "Dark Leather",
+            "categories": [
+                "all",
+                "brown",
+                "uniWardrobe"
+            ],
+            "colours": {
+                "FFCA8A": "8f5658",
+                "E0975C": "663d3e",
+                "A85636": "452022",
+                "6F2919": "210b0c"
+            }
+        }
     }
 ]

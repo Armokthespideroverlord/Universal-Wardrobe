@@ -1,0 +1,124 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_hazardminer",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/back"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "foundryback",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "foundryforemanback",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_copperlanternback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "hikerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "boilerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_minerbackpack",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_minerbackpackalt",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "halogenpack",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_prospectorchest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_prospectorhead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_prospectorpants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ]
+      }
+    }
+  ]
+]

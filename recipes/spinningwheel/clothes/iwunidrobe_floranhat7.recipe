@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 15 },
+    { "item" : "petalred", "count" : 5 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "iwunidrobe_floranhat7", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

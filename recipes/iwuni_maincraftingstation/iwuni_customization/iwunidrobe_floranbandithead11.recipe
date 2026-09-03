@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "liquidwater", "count" : 5 },
+    { "item" : "iwunidrobe_floranbandithead11a", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_floranbandithead11", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}

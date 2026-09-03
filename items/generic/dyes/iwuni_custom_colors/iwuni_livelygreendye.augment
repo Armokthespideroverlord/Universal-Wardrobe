@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_livelygreendye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniCustomDye",
+  "inventoryIcon" : "iwuni_livelygreendye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#dbfc33;Lively^reset; Green Dye",
+
+  "dyeDirectives" : {"ffca8a" : "f2d865", "e0975c" : "aacb07", "a85636" : "65900a", "6f2919" : "42670c"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

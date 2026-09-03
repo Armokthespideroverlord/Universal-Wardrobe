@@ -84,6 +84,35 @@
             "item": "iwunidrobe_customhelmet8"
         }
     },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_customhelmet9"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_customhelmet10"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_customhelmet11"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwunidrobe_customhelmet12"
+        }
+    },
+
 
     {
         "op": "add",
@@ -179,32 +208,74 @@
             "item": "iwuni_oldleatherdye"
         }
     },
-        {
+    {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": {
             "item": "iwuni_darkbrowndye"
         }
     },
-        {
+    {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": {
             "item": "iwuni_olivegreendye"
         }
     },
-        {
+    {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": {
             "item": "iwuni_uscmgreendye"
         }
     },
-        {
+    {
         "op": "add",
         "path": "/defaultBlueprints/tier1/-",
         "value": {
             "item": "iwuni_winereddye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_deepblackdye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_chrysanthemumdye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_sourberrydye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_xenopurpledye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_xenobluedye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_icedye"
         }
     },
 
@@ -448,6 +519,87 @@
             "item": "iwuni_spaceyellowdye"
         }
     },
+
+
+//LIVELY PALETTE
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelybrowndye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelygreendye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelygreydye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelyorangedye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelypinkdye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelypurpledye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelyreddye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelywhitedye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelyyellowdye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelyblackdye"
+        }
+    },
+    {
+        "op": "add",
+        "path": "/defaultBlueprints/tier1/-",
+        "value": {
+            "item": "iwuni_livelybluedye"
+        }
+    },
+
 
 //MOD COMPATIBILITY - REMNANTS OF THE PROTECTORATE
     {

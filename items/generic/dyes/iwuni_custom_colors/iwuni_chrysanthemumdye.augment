@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_chrysanthemumdye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniUniqueDye",
+  "inventoryIcon" : "iwuni_chrysanthemumdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#bd3f30;Chrysanthemum^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "f5dc8a", "e0975c" : "ee944d", "a85636" : "bd3f30", "6f2919" : "7e0c2e"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

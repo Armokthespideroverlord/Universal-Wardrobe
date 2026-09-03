@@ -1,0 +1,626 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "visorhead"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_spacehelmet1"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_spacehelmet2"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_spacehelmet2alt"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_corporesearcherhead",
+        "parameters": {
+          "colorIndex": 3
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": ""
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": ""
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": ""
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/back"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_corpocanisterback",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_corpotroopercanisterback",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_regularplssback",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "iwunidrobe_spacestoreback",
+        "parameters": {
+          "colorIndex": [
+            0,
+            2
+          ]
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "moneybagsback",
+            "parameters": {
+              "colorIndex": 11
+            }
+          },
+          {
+            "name": "hikerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "boilerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_corpocanisterback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_corpotroopercanisterback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_regularplssback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_spacestoreback",
+            "parameters": {
+              "colorIndex": [
+                0,
+                2
+              ]
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_corporesearcherchest",
+            "parameters": {
+              "colorIndex": 3
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          "",
+          {
+            "name": "visorhead"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet1"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2alt"
+          },
+          {
+            "name": "iwunidrobe_corporesearcherhead",
+            "parameters": {
+              "colorIndex": 3
+            }
+          },
+          "",
+          "",
+          ""
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_corporesearcherpants",
+            "parameters": {
+              "colorIndex": 3
+            }
+          }
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "moneybagsback",
+            "parameters": {
+              "colorIndex": 11
+            }
+          },
+          {
+            "name": "hikerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "boilerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_corpocanisterback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_corpotroopercanisterback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_regularplssback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_spacestoreback",
+            "parameters": {
+              "colorIndex": [
+                0,
+                2
+              ]
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_corporesearcherchest",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          "",
+          {
+            "name": "visorhead"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet1"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2alt"
+          },
+          {
+            "name": "iwunidrobe_corporesearcherhead",
+            "parameters": {
+              "colorIndex": 3
+            }
+          },
+          "",
+          "",
+          ""
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_corporesearcherpants",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "moneybagsback",
+            "parameters": {
+              "colorIndex": 11
+            }
+          },
+          {
+            "name": "hikerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "boilerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_corpocanisterback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_corpotroopercanisterback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_regularplssback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_spacestoreback",
+            "parameters": {
+              "colorIndex": [
+                0,
+                2
+              ]
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_spacescientist1chest",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          "",
+          {
+            "name": "visorhead"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet1"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2alt"
+          },
+          {
+            "name": "iwunidrobe_corporesearcherhead",
+            "parameters": {
+              "colorIndex": 3
+            }
+          },
+          "",
+          "",
+          ""
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_spacescientist1legs",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "moneybagsback",
+            "parameters": {
+              "colorIndex": 11
+            }
+          },
+          {
+            "name": "hikerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "boilerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_corpocanisterback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_corpotroopercanisterback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_regularplssback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_spacestoreback",
+            "parameters": {
+              "colorIndex": [
+                0,
+                2
+              ]
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_spacescientist2chest",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          "",
+          {
+            "name": "visorhead"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet1"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2alt"
+          },
+          {
+            "name": "iwunidrobe_corporesearcherhead",
+            "parameters": {
+              "colorIndex": 3
+            }
+          },
+          "",
+          "",
+          ""
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_spacescientist2legs",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "moneybagsback",
+            "parameters": {
+              "colorIndex": 11
+            }
+          },
+          {
+            "name": "hikerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "boilerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_corpocanisterback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_corpotroopercanisterback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_regularplssback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "iwunidrobe_spacestoreback",
+            "parameters": {
+              "colorIndex": [
+                0,
+                2
+              ]
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_spacescientist3chest",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          "",
+          {
+            "name": "visorhead"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet1"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2alt"
+          },
+          {
+            "name": "iwunidrobe_corporesearcherhead",
+            "parameters": {
+              "colorIndex": 3
+            }
+          },
+          "",
+          "",
+          ""
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_spacescientist3legs",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ]
+      }
+    }
+  ]
+]

@@ -1,0 +1,346 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/back",
+      "inverse": true
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back",
+      "value": [
+        {
+          "name": "iwunidrobe_oldbreatheppback"
+        },
+        {
+          "name": "iwunidrobe_oldcoldeppback"
+        },
+        {
+          "name": "iwunidrobe_oldheateppback"
+        },
+        {
+          "name": "iwunidrobe_oldradiationeppback"
+        },
+        {
+          "name": "breathprotectionback"
+        },
+        {
+          "name": "coldprotectionback"
+        },
+        {
+          "name": "heatprotectionback"
+        },
+        {
+          "name": "radiationprotectionback"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": ""
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": ""
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": ""
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "visorhead"
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_spacehelmet1",
+        "parameters": {
+          "colorIndex": 1
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_spacehelmet2",
+        "parameters": {
+          "colorIndex": 1
+        }
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_spacehelmet2alt",
+        "parameters": {
+          "colorIndex": 1
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_oldbreatheppback"
+          },
+          {
+            "name": "iwunidrobe_oldcoldeppback"
+          },
+          {
+            "name": "iwunidrobe_oldheateppback"
+          },
+          {
+            "name": "iwunidrobe_oldradiationeppback"
+          },
+          {
+            "name": "breathprotectionback"
+          },
+          {
+            "name": "coldprotectionback"
+          },
+          {
+            "name": "heatprotectionback"
+          },
+          {
+            "name": "radiationprotectionback"
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_spacescientist1chest",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          "",
+          "",
+          "",
+          "",
+          {
+            "name": "visorhead"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet1",
+            "parameters": {
+              "colorIndex": 1
+            }
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2",
+            "parameters": {
+              "colorIndex": 1
+            }
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2alt",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_spacescientist1legs",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "sheathedprimary": [
+          "npcpistol"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_oldbreatheppback"
+          },
+          {
+            "name": "iwunidrobe_oldcoldeppback"
+          },
+          {
+            "name": "iwunidrobe_oldheateppback"
+          },
+          {
+            "name": "iwunidrobe_oldradiationeppback"
+          },
+          {
+            "name": "breathprotectionback"
+          },
+          {
+            "name": "coldprotectionback"
+          },
+          {
+            "name": "heatprotectionback"
+          },
+          {
+            "name": "radiationprotectionback"
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_spacescientist2chest",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          "",
+          "",
+          "",
+          "",
+          {
+            "name": "visorhead"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet1",
+            "parameters": {
+              "colorIndex": 1
+            }
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2",
+            "parameters": {
+              "colorIndex": 1
+            }
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2alt",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_spacescientist2legs",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "sheathedprimary": [
+          "npcpistol"
+        ]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "iwunidrobe_oldbreatheppback"
+          },
+          {
+            "name": "iwunidrobe_oldcoldeppback"
+          },
+          {
+            "name": "iwunidrobe_oldheateppback"
+          },
+          {
+            "name": "iwunidrobe_oldradiationeppback"
+          },
+          {
+            "name": "breathprotectionback"
+          },
+          {
+            "name": "coldprotectionback"
+          },
+          {
+            "name": "heatprotectionback"
+          },
+          {
+            "name": "radiationprotectionback"
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_spacescientist3chest",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "scientisthead"
+          },
+          "",
+          "",
+          "",
+          "",
+          {
+            "name": "visorhead"
+          },
+          {
+            "name": "iwunidrobe_spacehelmet1",
+            "parameters": {
+              "colorIndex": 1
+            }
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2",
+            "parameters": {
+              "colorIndex": 1
+            }
+          },
+          {
+            "name": "iwunidrobe_spacehelmet2alt",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_spacescientist3legs",
+            "parameters": {
+              "colorIndex": 1
+            }
+          }
+        ],
+        "sheathedprimary": [
+          "npcpistol"
+        ]
+      }
+    }
+  ]
+]

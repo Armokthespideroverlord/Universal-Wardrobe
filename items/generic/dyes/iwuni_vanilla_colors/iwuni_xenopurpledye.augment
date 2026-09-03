@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_xenopurpledye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniVanillaDye",
+  "inventoryIcon" : "iwuni_xenopurpledye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#b265cc;Xeno-Purple^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "b265cc", "e0975c" : "8330a2", "a85636" : "612279", "6f2919" : "3b0d4e"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

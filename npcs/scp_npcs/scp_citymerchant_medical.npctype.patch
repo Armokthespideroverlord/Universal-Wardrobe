@@ -1,0 +1,93 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_banditvisor8",
+        "parameters": {
+          "colorIndex": 2
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/back"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/back/-",
+      "value": {
+        "name": "medicback",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "back": [
+          {
+            "name": "moneybagsback",
+            "parameters": {
+              "colorIndex": 11
+            }
+          },
+          {
+            "name": "hikerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "survivalgearback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "boilerback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          },
+          {
+            "name": "medicback",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "chest": [
+          {
+            "name": "iwunidrobe_stationmedicchest"
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_stationmedichead"
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_stationmediclegs"
+          }
+        ]
+      }
+    }
+  ]
+]

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 15 },
+    { "item" : "plantfibre", "count" : 20 },
+    { "item" : "logblock", "count" : 10 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_customhelmet10", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_uniqueclothes" ]
+}

@@ -127,3 +127,15 @@
 //GRASSLAND PLANETS
 -om_grasslandfisher
 -om_grasslandfarmer
+
+//SUPER CITY PACK
+-scp_citymerchant_epp
+-scp_citymerchant_ingots
+-scp_citymerchant_hunter
+-scp_citymerchant_medical
+-scp_citymerchant_salvage
+-scp_citymerchant_tech
+-scp_citymerchant_bow
+-scp_citymerchant_miner
+-scp_minersguildnpc_base
+-scp_techguildnpc_base

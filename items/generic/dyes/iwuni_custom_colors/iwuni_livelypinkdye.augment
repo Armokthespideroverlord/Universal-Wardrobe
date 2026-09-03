@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_livelypinkdye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniCustomDye",
+  "inventoryIcon" : "iwuni_livelypinkdye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#dbfc33;Lively^reset; Pink Dye",
+
+  "dyeDirectives" : {"ffca8a" : "ff7474", "e0975c" : "ff2d57", "a85636" : "db173e", "6f2919" : "980018"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

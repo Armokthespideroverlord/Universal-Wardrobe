@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_sourberrydye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniUniqueDye",
+  "inventoryIcon" : "iwuni_sourberrydye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#f8dd5c;Sourberry^reset; Dye",
+
+  "dyeDirectives" : {"ffca8a" : "f7ffae", "e0975c" : "f8dd5c", "a85636" : "ea9931", "6f2919" : "af4e00"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

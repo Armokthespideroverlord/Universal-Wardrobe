@@ -356,6 +356,14 @@
                 "weight": 0.4,
                 "item": "iwunidrobe_wildfungusbox"
             }
+        },
+        {
+            "op": "add",
+            "path": "/mushroomTreasure/0/1/pool/-",
+            "value": {
+                "weight": 0.2,
+                "item": "iwunidrobe_shroomguyhead"
+            }
         }
     ],
 

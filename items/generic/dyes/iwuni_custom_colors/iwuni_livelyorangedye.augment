@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_livelyorangedye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniCustomDye",
+  "inventoryIcon" : "iwuni_livelyorangedye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#dbfc33;Lively^reset; Orange Dye",
+
+  "dyeDirectives" : {"ffca8a" : "fcc25d", "e0975c" : "f86726", "a85636" : "cc3719", "6f2919" : "9b3019"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

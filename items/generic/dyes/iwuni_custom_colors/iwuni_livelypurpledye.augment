@@ -1,0 +1,16 @@
+{
+  "itemName" : "iwuni_livelypurpledye",
+  "price" : 25,
+  "rarity" : "Common",
+  "category" : "iwuniCustomDye",
+  "inventoryIcon" : "iwuni_livelypurpledye.png",
+  "description" : "This coloured dye can be applied to a piece of armour or clothing with a right-click.",
+  "shortdescription" : "^#dbfc33;Lively^reset; Purple Dye",
+
+  "dyeDirectives" : {"ffca8a" : "de7af1", "e0975c" : "9253d3", "a85636" : "713f95", "6f2919" : "3c124a"},
+  "dyeColorIndex": false,
+
+  "radioMessagesOnPickup" : [ "pickupdye" ],
+
+  "scripts" : [ "/scripts/augments/dye.lua" ]
+}

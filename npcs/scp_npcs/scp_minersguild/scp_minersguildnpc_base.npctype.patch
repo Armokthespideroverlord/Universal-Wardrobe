@@ -1,0 +1,54 @@
+[
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1/0/head"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/0/head/-",
+      "value": {
+        "name": "iwunidrobe_hazardminer",
+        "parameters": {
+          "colorIndex": 0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "op": "test",
+      "path": "/items/override/0/1"
+    },
+    {
+      "op": "add",
+      "path": "/items/override/0/1/-",
+      "value": {
+        "chest": [
+          {
+            "name": "iwunidrobe_prospectorchest",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "head": [
+          {
+            "name": "iwunidrobe_prospectorhead",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ],
+        "legs": [
+          {
+            "name": "iwunidrobe_prospectorpants",
+            "parameters": {
+              "colorIndex": 0
+            }
+          }
+        ]
+      }
+    }
+  ]
+]

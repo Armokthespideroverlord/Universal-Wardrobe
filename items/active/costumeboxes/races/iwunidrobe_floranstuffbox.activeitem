@@ -1,0 +1,28 @@
+{
+  "itemName" : "iwunidrobe_floranstuffbox",
+  "price" : 250,
+  "level" : 1,
+  "maxStack" : 1000,
+  "rarity" : "Common",
+  "category" : "iwuniCostumeSet",
+  "description" : "Fruits and plants that could become into a fancy hat.",
+  "shortdescription" : "Floran Hat Box",
+  "tooltipKind" : "iwuni_customebox",
+  "tooltipFields" : {
+    "objectImage" : "/interface/iwuni_costumebox/iwuni_floranstuffbox.png"
+  },
+  "twoHanded" : true,
+
+  "inventoryIcon" : "floranstufficon.png",
+  "animation" : "iwunidrobe_floranstuffbox.animation",
+  "animationCustom" : {},
+  "scripts" : ["/items/active/costumeboxes/iwunidrobe_costumebox.lua"],
+
+  "fireTime" : 2.0,
+  "fireOffset" : [1.0, 0.0],
+
+  "treasure" : {
+    "pool" : "iwunidrobe_floranstuffboxloot",
+    "level" : 1
+  }
+}

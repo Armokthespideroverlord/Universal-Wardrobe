@@ -786,6 +786,24 @@
           },
           {
             "item": {
+              "name": "iwunidrobe_bighamback"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranbannerback"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_glowfruitback"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
               "name": "iwunidrobe_butcherbox"
             },
             "rarity": 0.05
@@ -828,6 +846,12 @@
           },
           {
             "item": {
+              "name": "iwunidrobe_floranstuffbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
               "name": "iwunidrobe_floranhat1"
             },
             "rarity": 0.05
@@ -853,6 +877,96 @@
           {
             "item": {
               "name": "iwunidrobe_floranhat5"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat6"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat7"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat8"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat9"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat10"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat11"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat12"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat13"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat14"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat15"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat16"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat17"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat18"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat19"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_floranhat20"
             },
             "rarity": 0.05
           }
@@ -1544,6 +1658,24 @@
           },
           {
             "item": {
+              "name": "iwunidrobe_minerbackpack"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_dynamitebundle"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_copperlanternback"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
               "name": "iwunidrobe_diggerbox"
             },
             "rarity": 0.05
@@ -1593,6 +1725,12 @@
           {
             "item": {
               "name": "iwunidrobe_trapperbox"
+            },
+            "rarity": 0.05
+          },
+          {
+            "item": {
+              "name": "iwunidrobe_novakidstuffbox"
             },
             "rarity": 0.05
           },

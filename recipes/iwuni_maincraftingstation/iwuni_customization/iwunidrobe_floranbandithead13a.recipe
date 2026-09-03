@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "leather", "count" : 3 },
+    { "item" : "iwunidrobe_floranbandithead13", "count" : 1 }
+  ],
+  "duration" : 1,
+  "output" : { "item" : "iwunidrobe_floranbandithead13a", "count" : 1 },
+  "groups" : [ "iwuni_maincraftingstation", "iwuni_customization" ]
+}
